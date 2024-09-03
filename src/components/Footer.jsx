@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="mt-20 border-t py-8">
+    <footer className="max-w-7xl mx-auto mt-10 border-t py-4">
       <div className="flex items-center justify-center">
         Desgined and Developed with 💖 by team Darpan
       </div>

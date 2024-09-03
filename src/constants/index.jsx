@@ -10,9 +10,10 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#features" },
-  { label: "How It Works", href: "#working" },
-  { label: "Team", href: "#team" },
+  // { label: "Features", href: "#features" },
+  // { label: "How It Works", href: "#working" },
+  { label: "Team", href: "/team" },
+  { label: "Demo", href: "/demo" },
 ];
 
 export const testimonials = [
@@ -57,101 +58,44 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: " Supplier Integration",
+    text: "AI-Powered Optimization Engine",
     description:
-      "Integrates with suppliers to import critical data, ensuring complete visibility and control over the supply chain.",
+      "Our proprietary algorithms analyze a wide range of factors, including weather patterns, ship specifications, and ocean currents, to recommend the most efficient and safe routes.",
   },
   {
     icon: <BotMessageSquare />,
-    text: "Automated Testing",
+    text: "Dynamic Route Adjustments",
     description:
-      "Using AI and data analytics, we ensure only the highest quality products are accepted.",
+      "As your ship progresses, OceanOptima continuously monitors conditions, providing real-time route updates to avoid storms, reduce fuel consumption, and ensure timely arrival.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Compliance Verification",
+    text: "User-Friendly Interface",
     description:
-      "Our system automatically checks compliance with national and international standards, ensuring that only compliant batches are delivered to hospitals.",
+      "Access the platform via a web dashboard or mobile app, allowing captains and operational managers to input voyage details and receive instant, actionable route recommendations.",
   },
   {
     icon: <GlobeLock />,
-    text: "Real-Time Monitoring",
+    text: "Real-Time Data Integration",
     description:
-      "Hospital administrators and government officials can monitor the entire process in real-time through our centralized dashboard, receiving instant alerts for any issues.",
+      "OceanOptima India pulls real-time meteorological data from the India Meteorological Department (IMD) and satellite information from ISRO, providing a comprehensive overview of current oceanic conditions.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Automated Quality Assurance",
+    title: "Fuel Efficiency",
     description:
-      "Our AI-driven platform automatically tests and verifies the quality of every batch of medical supplies, ensuring compliance with the highest standards.",
+      "Minimize fuel consumption by choosing the most energy-efficient routes.",
   },
   {
-    title: "AI-Powered Analytics",
+    title: "Time Optimization",
     description:
-      "Our advanced machine learning models analyze historical data to provide predictive insights, reducing the risk of substandard supplies.",
+      "Reduce travel time while ensuring safety and compliance with maritime regulations.",
   },
   {
-    title: "Compliance & Reporting",
+    title: "Real-Time Alerts",
     description:
-      "Our platform ensures that every batch meets national and international standards.",
+      "Receive instant notifications on route changes, adverse weather conditions, and potential hazards.",
   },
-];
-
-export const pricingOptions = [
-  {
-    title: "Free",
-    price: "$0",
-    features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
-    ],
-  },
-  {
-    title: "Pro",
-    price: "$10",
-    features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
-    ],
-  },
-  {
-    title: "Enterprise",
-    price: "$200",
-    features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
-    ],
-  },
-];
-
-export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
-];
-
-export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
-];
-
-export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
 ];

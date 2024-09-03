@@ -1,8 +1,8 @@
 import { CheckCircle2 } from "lucide-react";
-import docImg from "../assets/doctors.png";
+import docImg from "../assets/navy.png";
 import { checklistItems } from "../constants";
 
-const Workflow = () => {
+const FeatureSection = () => {
   return (
     <div className="mt-12 border-b border-t pt-8" id="features">
       <div className="text-center">
@@ -10,7 +10,7 @@ const Workflow = () => {
           Features
         </span>
         <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-5 tracking-wide">
-          Why Choose MedSure?
+          Comprehensive Features for Every Voyage
         </h2>
       </div>
       <div className="flex flex-wrap justify-center mt-4">
@@ -35,4 +35,4 @@ const Workflow = () => {
   );
 };
 
-export default Workflow;
+export default FeatureSection;
