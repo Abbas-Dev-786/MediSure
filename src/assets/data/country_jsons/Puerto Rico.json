@@ -1,0 +1,47 @@
+[
+    {
+        "code": "PRBQN",
+        "name": "Aguadilla",
+        "city": "Aguadilla",
+        "coordinates": [
+            -67.1540698,
+            18.4274454
+        ]
+    },
+    {
+        "code": "PRMAZ",
+        "name": "Mayaguez",
+        "city": "Mayag\u00fcez",
+        "coordinates": [
+            -67.1451517,
+            18.2013463
+        ]
+    },
+    {
+        "code": "PRPNU",
+        "name": "Puerto Nuevo",
+        "city": "Puerto Nuevo",
+        "coordinates": [
+            -66.08273679999999,
+            18.4173179
+        ]
+    },
+    {
+        "code": "PRPSE",
+        "name": "Ponce",
+        "city": "Ponce",
+        "coordinates": [
+            -66.6140616,
+            18.0110768
+        ]
+    },
+    {
+        "code": "PRSJU",
+        "name": "San Juan",
+        "city": "San Juan",
+        "coordinates": [
+            -66.08,
+            18.45
+        ]
+    }
+]

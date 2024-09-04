@@ -1,0 +1,29 @@
+[
+    {
+        "code": "SOBBO",
+        "name": "Berbera",
+        "city": "Berbera",
+        "coordinates": [
+            45.0139904,
+            10.4347941
+        ]
+    },
+    {
+        "code": "SOKMU",
+        "name": "Kismayu",
+        "city": "Kismayu",
+        "coordinates": [
+            42.5460573,
+            -0.3560455
+        ]
+    },
+    {
+        "code": "SOMGQ",
+        "name": "Mogadishu",
+        "city": "Mogadishu",
+        "coordinates": [
+            45.3181623,
+            2.0469343
+        ]
+    }
+]

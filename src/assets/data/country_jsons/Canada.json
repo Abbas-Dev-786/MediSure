@@ -1,0 +1,479 @@
+[
+    {
+        "code": "CABAT",
+        "name": "Bathurst",
+        "city": "Bathurst",
+        "coordinates": [
+            -65.6513358,
+            47.6183507
+        ]
+    },
+    {
+        "code": "CABCK",
+        "name": "Brockville",
+        "city": "Brockville",
+        "coordinates": [
+            -75.68428580000001,
+            44.5895244
+        ]
+    },
+    {
+        "code": "CABDU",
+        "name": "Baie d'Urfe",
+        "city": "Baie d'Urf\u00e9",
+        "coordinates": [
+            -73.92,
+            45.4
+        ]
+    },
+    {
+        "code": "CABEC",
+        "name": "Becancour",
+        "city": "B\u00e9cancour",
+        "coordinates": [
+            -72.43,
+            46.33
+        ]
+    },
+    {
+        "code": "CABJO",
+        "name": "Baie-Johan-Beetz",
+        "city": "Baie-Johan-Beetz",
+        "coordinates": [
+            -62.83,
+            50.3
+        ]
+    },
+    {
+        "code": "CABRL",
+        "name": "Burlington",
+        "city": "Burlington",
+        "coordinates": [
+            -79.7990319,
+            43.3255196
+        ]
+    },
+    {
+        "code": "CACAL",
+        "name": "Calgary",
+        "city": "Calgary",
+        "coordinates": [
+            -114.07,
+            51.03
+        ]
+    },
+    {
+        "code": "CACBK",
+        "name": "Corner Brook",
+        "city": "Corner Brook",
+        "coordinates": [
+            -57.93,
+            48.95
+        ]
+    },
+    {
+        "code": "CACCB",
+        "name": "Cowichan Bay",
+        "city": "Cowichan Bay",
+        "coordinates": [
+            -123.6215503,
+            48.7373094
+        ]
+    },
+    {
+        "code": "CACOL",
+        "name": "Collingwood",
+        "city": "Collingwood",
+        "coordinates": [
+            -80.2169047,
+            44.50076869999999
+        ]
+    },
+    {
+        "code": "CACRO",
+        "name": "Crofton",
+        "city": "Crofton",
+        "coordinates": [
+            -123.6457977,
+            48.86384400000001
+        ]
+    },
+    {
+        "code": "CACWL",
+        "name": "Cornwall",
+        "city": "Cornwall",
+        "coordinates": [
+            -74.730345,
+            45.0212762
+        ]
+    },
+    {
+        "code": "CADOR",
+        "name": "Dorval",
+        "city": "Dorval",
+        "coordinates": [
+            -73.75004849999999,
+            45.4503213
+        ]
+    },
+    {
+        "code": "CADRU",
+        "name": "Drummondville",
+        "city": "Drummondville",
+        "coordinates": [
+            -72.4842824,
+            45.8802909
+        ]
+    },
+    {
+        "code": "CAEDM",
+        "name": "Edmonton",
+        "city": "Edmonton",
+        "coordinates": [
+            -113.4909267,
+            53.544389
+        ]
+    },
+    {
+        "code": "CAHAL",
+        "name": "Halifax",
+        "city": "Halifax",
+        "coordinates": [
+            -63.5753196,
+            44.6488625
+        ]
+    },
+    {
+        "code": "CAHAM",
+        "name": "Hamilton",
+        "city": "Hamilton",
+        "coordinates": [
+            -79.8660914,
+            43.25002080000001
+        ]
+    },
+    {
+        "code": "CAHMC",
+        "name": "Harmac",
+        "city": "Harmac",
+        "coordinates": [
+            -123.85,
+            49.13
+        ]
+    },
+    {
+        "code": "CAKVL",
+        "name": "Kingsville",
+        "city": "Kingsville",
+        "coordinates": [
+            -82.7389809,
+            42.0362841
+        ]
+    },
+    {
+        "code": "CAMAG",
+        "name": "Magog",
+        "city": "Magog",
+        "coordinates": [
+            -72.1479889,
+            45.2664863
+        ]
+    },
+    {
+        "code": "CAMNT",
+        "name": "Moncton",
+        "city": "Moncton",
+        "coordinates": [
+            -64.7782313,
+            46.0878165
+        ]
+    },
+    {
+        "code": "CAMTR",
+        "name": "Montreal",
+        "city": "Montreal",
+        "coordinates": [
+            -73.567256,
+            45.5016889
+        ]
+    },
+    {
+        "code": "CANIA",
+        "name": "Niagara Falls",
+        "city": "Niagara Falls",
+        "coordinates": [
+            -79.0849436,
+            43.0895577
+        ]
+    },
+    {
+        "code": "CANNO",
+        "name": "Nanaimo",
+        "city": "Nanaimo",
+        "coordinates": [
+            -123.9400647,
+            49.1658836
+        ]
+    },
+    {
+        "code": "CANOR",
+        "name": "North Bay",
+        "city": "North Bay",
+        "coordinates": [
+            -79.45,
+            46.3
+        ]
+    },
+    {
+        "code": "CANWE",
+        "name": "New Westminster",
+        "city": "New Westminster",
+        "coordinates": [
+            -122.910956,
+            49.2057179
+        ]
+    },
+    {
+        "code": "CAOAK",
+        "name": "Oakville",
+        "city": "Oakville",
+        "coordinates": [
+            -79.6876659,
+            43.467517
+        ]
+    },
+    {
+        "code": "CAODE",
+        "name": "Odessa",
+        "city": "Odessa",
+        "coordinates": [
+            -76.71829249999999,
+            44.2770379
+        ]
+    },
+    {
+        "code": "CAOSH",
+        "name": "Oshawa",
+        "city": "Oshawa",
+        "coordinates": [
+            -78.86579119999999,
+            43.8970929
+        ]
+    },
+    {
+        "code": "CAPCR",
+        "name": "Port Credit",
+        "city": "Port Credit",
+        "coordinates": [
+            -79.585628,
+            43.5516151
+        ]
+    },
+    {
+        "code": "CAPDV",
+        "name": "Port Dover",
+        "city": "Port Dover",
+        "coordinates": [
+            -80.20327790000002,
+            42.7865225
+        ]
+    },
+    {
+        "code": "CAPML",
+        "name": "Port Mellon",
+        "city": "Port Mellon",
+        "coordinates": [
+            -123.4880588,
+            49.5217479
+        ]
+    },
+    {
+        "code": "CAPOI",
+        "name": "Pointe-Claire",
+        "city": "Pointe-Claire",
+        "coordinates": [
+            -73.73,
+            45.43
+        ]
+    },
+    {
+        "code": "CAPRR",
+        "name": "Prince Rupert",
+        "city": "Prince Rupert",
+        "coordinates": [
+            -130.3208187,
+            54.3150367
+        ]
+    },
+    {
+        "code": "CAQUE",
+        "name": "Quebec",
+        "city": "Quebec",
+        "coordinates": [
+            -71.242796,
+            46.8032826
+        ]
+    },
+    {
+        "code": "CASAK",
+        "name": "Saskatoon",
+        "city": "Saskatoon",
+        "coordinates": [
+            -106.6700458,
+            52.1332144
+        ]
+    },
+    {
+        "code": "CASCA",
+        "name": "Saint-Catharines",
+        "city": "Saint-Catharines",
+        "coordinates": [
+            -79.23,
+            43.17
+        ]
+    },
+    {
+        "code": "CASJB",
+        "name": "Saint-John",
+        "city": "Saint-John",
+        "coordinates": [
+            -66.07,
+            45.27
+        ]
+    },
+    {
+        "code": "CASJF",
+        "name": "Saint-John's",
+        "city": "Saint-John's",
+        "coordinates": [
+            -52.73,
+            47.57
+        ]
+    },
+    {
+        "code": "CASNI",
+        "name": "Sarnia",
+        "city": "Sarnia",
+        "coordinates": [
+            -82.4065901,
+            42.974536
+        ]
+    },
+    {
+        "code": "CASOR",
+        "name": "Sorel",
+        "city": "Sorel",
+        "coordinates": [
+            -73.112302,
+            46.042825
+        ]
+    },
+    {
+        "code": "CASSM",
+        "name": "Sault-Sainte-Marie",
+        "city": "Sault-Sainte-Marie",
+        "coordinates": [
+            -84.3460896,
+            46.52185799999999
+        ]
+    },
+    {
+        "code": "CASTC",
+        "name": "Stoney Creek",
+        "city": "Stoney Creek",
+        "coordinates": [
+            -79.7195586,
+            43.2272182
+        ]
+    },
+    {
+        "code": "CASUM",
+        "name": "Summerside",
+        "city": "Summerside",
+        "coordinates": [
+            -63.79023309999999,
+            46.39337769999999
+        ]
+    },
+    {
+        "code": "CATEX",
+        "name": "Texada Island",
+        "city": "Texada Island",
+        "coordinates": [
+            -124.4121947,
+            49.6596634
+        ]
+    },
+    {
+        "code": "CATHU",
+        "name": "Thunder Bay",
+        "city": "Thunder Bay",
+        "coordinates": [
+            -89.2476823,
+            48.3808951
+        ]
+    },
+    {
+        "code": "CATOR",
+        "name": "Toronto",
+        "city": "Toronto",
+        "coordinates": [
+            -79.3831843,
+            43.653226
+        ]
+    },
+    {
+        "code": "CATRR",
+        "name": "Trois-Rivieres (Three Rivers)",
+        "city": "Trois-Rivieres (Three Rivers)",
+        "coordinates": [
+            -72.5475259,
+            46.35924199999999
+        ]
+    },
+    {
+        "code": "CATTC",
+        "name": "Trenton",
+        "city": "Trenton",
+        "coordinates": [
+            -77.576313,
+            44.1011263
+        ]
+    },
+    {
+        "code": "CAVAN",
+        "name": "Vancouver",
+        "city": "Vancouver",
+        "coordinates": [
+            -123.1207375,
+            49.2827291
+        ]
+    },
+    {
+        "code": "CAVLF",
+        "name": "Valleyfield",
+        "city": "Valleyfield",
+        "coordinates": [
+            -74.13,
+            45.25
+        ]
+    },
+    {
+        "code": "CAWIN",
+        "name": "Winona",
+        "city": "Winona",
+        "coordinates": [
+            -79.6509165,
+            43.2079596
+        ]
+    },
+    {
+        "code": "CAWNP",
+        "name": "Winnipeg",
+        "city": "Winnipeg",
+        "coordinates": [
+            -97.1374937,
+            49.8997541
+        ]
+    }
+]

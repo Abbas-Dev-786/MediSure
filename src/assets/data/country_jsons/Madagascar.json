@@ -1,0 +1,65 @@
+[
+    {
+        "code": "MGDIE",
+        "name": "Antsiranana",
+        "city": "Antsiranana",
+        "coordinates": [
+            49.2942833,
+            -12.3231349
+        ]
+    },
+    {
+        "code": "MGEHL",
+        "name": "Ehoala",
+        "city": "Ehoala",
+        "coordinates": [
+            46.95,
+            -25.1
+        ]
+    },
+    {
+        "code": "MGMJN",
+        "name": "Majunga (Mahajanga)",
+        "city": "Majunga (Mahajanga)",
+        "coordinates": [
+            46.3336857,
+            -15.6921494
+        ]
+    },
+    {
+        "code": "MGNOS",
+        "name": "Nosy-Be",
+        "city": "Nosy-Be",
+        "coordinates": [
+            48.25,
+            -13.33
+        ]
+    },
+    {
+        "code": "MGTLE",
+        "name": "Tulear (Toliara)",
+        "city": "Tulear (Toliara)",
+        "coordinates": [
+            43.6854936,
+            -23.3516191
+        ]
+    },
+    {
+        "code": "MGTMM",
+        "name": "Tamatave (Toamasina)",
+        "city": "Tamatave (Toamasina)",
+        "coordinates": [
+            49.3957836,
+            -18.1442811
+        ]
+    },
+    {
+        "code": "MGTOA",
+        "name": "Toamasina",
+        "city": "Toamasina",
+        "coordinates": [
+            49.3957836,
+            -18.1442811
+        ]
+    }
+]

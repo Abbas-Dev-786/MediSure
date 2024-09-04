@@ -1,0 +1,20 @@
+[
+    {
+        "code": "BOPBU",
+        "name": "Puerto Busch",
+        "city": "Puerto Busch",
+        "coordinates": [
+            -57.96666699999999,
+            -20.033333
+        ]
+    },
+    {
+        "code": "BOSRZ",
+        "name": "Santa Cruz",
+        "city": "Santa Cruz",
+        "coordinates": [
+            -63.18,
+            -17.78
+        ]
+    }
+]

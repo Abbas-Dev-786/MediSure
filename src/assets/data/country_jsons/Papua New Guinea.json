@@ -1,0 +1,38 @@
+[
+    {
+        "code": "PGLAE",
+        "name": "Lae",
+        "city": "Lae",
+        "coordinates": [
+            146.999905,
+            -6.7155252
+        ]
+    },
+    {
+        "code": "PGMAG",
+        "name": "Madang",
+        "city": "Madang",
+        "coordinates": [
+            145.7856324,
+            -5.2218841
+        ]
+    },
+    {
+        "code": "PGPOM",
+        "name": "Port Moresby",
+        "city": "Port Moresby",
+        "coordinates": [
+            147.1802671,
+            -9.443800399999999
+        ]
+    },
+    {
+        "code": "PGRAB",
+        "name": "Rabaul",
+        "city": "Rabaul",
+        "coordinates": [
+            152.1644612,
+            -4.1999648
+        ]
+    }
+]

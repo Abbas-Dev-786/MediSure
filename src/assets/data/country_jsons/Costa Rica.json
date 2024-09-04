@@ -1,0 +1,65 @@
+[
+    {
+        "code": "CRCAL",
+        "name": "Caldera",
+        "city": "Caldera",
+        "coordinates": [
+            -84.72,
+            9.95
+        ]
+    },
+    {
+        "code": "CRGLF",
+        "name": "Golfito",
+        "city": "Golfito",
+        "coordinates": [
+            -83.15,
+            8.65
+        ]
+    },
+    {
+        "code": "CRLIO",
+        "name": "Puerto Limon",
+        "city": "Puerto Lim\u00f3n",
+        "coordinates": [
+            -83.03,
+            10
+        ]
+    },
+    {
+        "code": "CRMOB",
+        "name": "Moin",
+        "city": "Mo\u00edn",
+        "coordinates": [
+            -83.08,
+            10
+        ]
+    },
+    {
+        "code": "CRPAS",
+        "name": "Puntarenas",
+        "city": "Puntarenas",
+        "coordinates": [
+            -84.83,
+            9.97
+        ]
+    },
+    {
+        "code": "CRPCA",
+        "name": "Puerto Caldera",
+        "city": "Puerto Caldera",
+        "coordinates": [
+            -84.0869419,
+            9.9328525
+        ]
+    },
+    {
+        "code": "CRSJO",
+        "name": "San Jose",
+        "city": "San Jos\u00e9",
+        "coordinates": [
+            -84.08,
+            9.93
+        ]
+    }
+]

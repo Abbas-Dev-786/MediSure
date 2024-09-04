@@ -1,0 +1,56 @@
+[
+    {
+        "code": "UAIEV",
+        "name": "Kiev",
+        "city": "Kiev",
+        "coordinates": [
+            30.5234,
+            50.4501
+        ]
+    },
+    {
+        "code": "UAILK",
+        "name": "Illichivs'k",
+        "city": "Illichivs'k",
+        "coordinates": [
+            30.67,
+            46.3
+        ]
+    },
+    {
+        "code": "UAKHE",
+        "name": "Kherson",
+        "city": "Kherson",
+        "coordinates": [
+            32.616867,
+            46.635417
+        ]
+    },
+    {
+        "code": "UAMPW",
+        "name": "Mariupol (ex Zhdanov)",
+        "city": "Mariupol (ex Zhdanov)",
+        "coordinates": [
+            37.55,
+            47.1
+        ]
+    },
+    {
+        "code": "UAODS",
+        "name": "Odessa",
+        "city": "Odessa",
+        "coordinates": [
+            30.7233095,
+            46.482526
+        ]
+    },
+    {
+        "code": "UASVP",
+        "name": "Sevastopol",
+        "city": "Sevastopol",
+        "coordinates": [
+            33.53,
+            44.6
+        ]
+    }
+]

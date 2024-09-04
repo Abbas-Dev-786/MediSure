@@ -1,0 +1,20 @@
+[
+    {
+        "code": "NALUD",
+        "name": "Luderitz",
+        "city": "L\u00fcderitz",
+        "coordinates": [
+            15.17,
+            -26.65
+        ]
+    },
+    {
+        "code": "NAWVB",
+        "name": "Walvis Bay",
+        "city": "Walvis Bay",
+        "coordinates": [
+            14.5247463,
+            -22.9389587
+        ]
+    }
+]

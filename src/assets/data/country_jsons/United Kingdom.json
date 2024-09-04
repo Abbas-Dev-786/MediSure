@@ -1,0 +1,734 @@
+[
+    {
+        "code": "GBABD",
+        "name": "Aberdeen",
+        "city": "Aberdeen",
+        "coordinates": [
+            -2.1,
+            57.13
+        ]
+    },
+    {
+        "code": "GBAVO",
+        "name": "Avonmouth",
+        "city": "Avonmouth",
+        "coordinates": [
+            -2.68,
+            51.5
+        ]
+    },
+    {
+        "code": "GBBAD",
+        "name": "Barry Dock",
+        "city": "Barry Dock",
+        "coordinates": [
+            -3.25,
+            51.38
+        ]
+    },
+    {
+        "code": "GBBDT",
+        "name": "Broadstairs",
+        "city": "Broadstairs",
+        "coordinates": [
+            1.42,
+            51.37
+        ]
+    },
+    {
+        "code": "GBBEL",
+        "name": "Belfast",
+        "city": "Belfast",
+        "coordinates": [
+            -5.92,
+            54.98
+        ]
+    },
+    {
+        "code": "GBBOC",
+        "name": "Burnham on Crouch",
+        "city": "Burnham on Crouch",
+        "coordinates": [
+            0.83,
+            51.62
+        ]
+    },
+    {
+        "code": "GBBOE",
+        "name": "Bootle",
+        "city": "Bootle",
+        "coordinates": [
+            -3.02,
+            53.47
+        ]
+    },
+    {
+        "code": "GBBOS",
+        "name": "Boston",
+        "city": "Boston",
+        "coordinates": [
+            -0.026577,
+            52.97893999999999
+        ]
+    },
+    {
+        "code": "GBBRK",
+        "name": "Birkenhead",
+        "city": "Birkenhead",
+        "coordinates": [
+            -3.03,
+            53.4
+        ]
+    },
+    {
+        "code": "GBBRS",
+        "name": "Bristol",
+        "city": "Bristol",
+        "coordinates": [
+            -2.58791,
+            51.454513
+        ]
+    },
+    {
+        "code": "GBBRT",
+        "name": "Bridlington",
+        "city": "Bridlington",
+        "coordinates": [
+            -0.2,
+            54.08
+        ]
+    },
+    {
+        "code": "GBBRW",
+        "name": "Bridgwater",
+        "city": "Bridgwater",
+        "coordinates": [
+            -3.003632,
+            51.127889
+        ]
+    },
+    {
+        "code": "GBCDF",
+        "name": "Cardiff",
+        "city": "Cardiff",
+        "coordinates": [
+            -3.2,
+            51.5
+        ]
+    },
+    {
+        "code": "GBCFG",
+        "name": "Carrickfergus",
+        "city": "Carrickfergus",
+        "coordinates": [
+            -5.8101207,
+            54.7261871
+        ]
+    },
+    {
+        "code": "GBCHD",
+        "name": "Charleston",
+        "city": "Charleston",
+        "coordinates": [
+            -3.0063019,
+            56.599797
+        ]
+    },
+    {
+        "code": "GBCYN",
+        "name": "Cairnryan",
+        "city": "Cairnryan",
+        "coordinates": [
+            -5.02,
+            54.97
+        ]
+    },
+    {
+        "code": "GBDUN",
+        "name": "Dundee",
+        "city": "Dundee",
+        "coordinates": [
+            -2.97,
+            56.5
+        ]
+    },
+    {
+        "code": "GBDVR",
+        "name": "Dover",
+        "city": "Dover",
+        "coordinates": [
+            1.3134027,
+            51.1278758
+        ]
+    },
+    {
+        "code": "GBEDI",
+        "name": "Edinburgh",
+        "city": "Edinburgh",
+        "coordinates": [
+            -3.2,
+            55.95
+        ]
+    },
+    {
+        "code": "GBEIL",
+        "name": "Sheildaig",
+        "city": "Sheildaig",
+        "coordinates": null
+    },
+    {
+        "code": "GBELL",
+        "name": "Ellesmere Port",
+        "city": "Ellesmere",
+        "coordinates": [
+            -2.8873982,
+            53.2068281
+        ]
+    },
+    {
+        "code": "GBEON",
+        "name": "Seaton",
+        "city": "Seaton",
+        "coordinates": [
+            -3.0718734,
+            50.70531339999999
+        ]
+    },
+    {
+        "code": "GBFAL",
+        "name": "Falmouth",
+        "city": "Falmouth",
+        "coordinates": [
+            -5.066269999999999,
+            50.15257099999999
+        ]
+    },
+    {
+        "code": "GBFAW",
+        "name": "Fawley",
+        "city": "Fawley",
+        "coordinates": [
+            -1.3502269,
+            50.8268139
+        ]
+    },
+    {
+        "code": "GBFRB",
+        "name": "Fraserburgh",
+        "city": "Fraserburgh",
+        "coordinates": [
+            -2.02,
+            57.68
+        ]
+    },
+    {
+        "code": "GBFXT",
+        "name": "Felixstowe",
+        "city": "Felixstowe",
+        "coordinates": [
+            1.351255,
+            51.961726
+        ]
+    },
+    {
+        "code": "GBGCI",
+        "name": "Guernsey",
+        "city": "Guernsey",
+        "coordinates": [
+            -2.58949,
+            49.4481982
+        ]
+    },
+    {
+        "code": "GBGLW",
+        "name": "Glasgow",
+        "city": "Glasgow",
+        "coordinates": [
+            -4.25,
+            55.83
+        ]
+    },
+    {
+        "code": "GBGOO",
+        "name": "Goole",
+        "city": "Goole",
+        "coordinates": [
+            -0.87,
+            53.72
+        ]
+    },
+    {
+        "code": "GBGRG",
+        "name": "Grangemouth",
+        "city": "Grangemouth",
+        "coordinates": [
+            -3.72,
+            56
+        ]
+    },
+    {
+        "code": "GBGRK",
+        "name": "Greenock",
+        "city": "Greenock",
+        "coordinates": [
+            -4.75,
+            55.93
+        ]
+    },
+    {
+        "code": "GBGSY",
+        "name": "Grimsby",
+        "city": "Grimsby",
+        "coordinates": [
+            -0.5,
+            53.53
+        ]
+    },
+    {
+        "code": "GBGTY",
+        "name": "Great Yarmouth",
+        "city": "Great Yarmouth",
+        "coordinates": [
+            1.728047,
+            52.598233
+        ]
+    },
+    {
+        "code": "GBGVS",
+        "name": "Gravesend",
+        "city": "Gravesend",
+        "coordinates": [
+            0.370759,
+            51.44188399999999
+        ]
+    },
+    {
+        "code": "GBHRW",
+        "name": "Harwich",
+        "city": "Harwich",
+        "coordinates": [
+            1.260297,
+            51.934731
+        ]
+    },
+    {
+        "code": "GBHUL",
+        "name": "Hull",
+        "city": "Hull",
+        "coordinates": [
+            -0.32,
+            53.73
+        ]
+    },
+    {
+        "code": "GBIMM",
+        "name": "Immingham",
+        "city": "Immingham",
+        "coordinates": [
+            -0.22,
+            53.6
+        ]
+    },
+    {
+        "code": "GBINK",
+        "name": "Inverkeithing",
+        "city": "Inverkeithing",
+        "coordinates": [
+            -3.398795,
+            56.030043
+        ]
+    },
+    {
+        "code": "GBINV",
+        "name": "Inverness",
+        "city": "Inverness",
+        "coordinates": [
+            -4.224721,
+            57.477773
+        ]
+    },
+    {
+        "code": "GBIPS",
+        "name": "Ipswich",
+        "city": "Ipswich",
+        "coordinates": [
+            1.14822,
+            52.056736
+        ]
+    },
+    {
+        "code": "GBIRL",
+        "name": "Irlam",
+        "city": "Irlam",
+        "coordinates": [
+            -2.42,
+            53.43
+        ]
+    },
+    {
+        "code": "GBKLN",
+        "name": "King's Lynn",
+        "city": "King's Lynn",
+        "coordinates": [
+            0.38,
+            52.75
+        ]
+    },
+    {
+        "code": "GBLAN",
+        "name": "Lancaster",
+        "city": "Lancaster",
+        "coordinates": [
+            -2.8007399,
+            54.046575
+        ]
+    },
+    {
+        "code": "GBLGP",
+        "name": "London Gateway Port",
+        "city": "London Gateway",
+        "coordinates": [
+            0.48,
+            51.5
+        ]
+    },
+    {
+        "code": "GBLIV",
+        "name": "Liverpool",
+        "city": "Liverpool",
+        "coordinates": [
+            -3,
+            53.42
+        ]
+    },
+    {
+        "code": "GBLON",
+        "name": "London",
+        "city": "London",
+        "coordinates": [
+            -0.1277583,
+            51.5073509
+        ]
+    },
+    {
+        "code": "GBMAL",
+        "name": "Maldon",
+        "city": "Maldon",
+        "coordinates": [
+            0.6714479999999999,
+            51.73180499999999
+        ]
+    },
+    {
+        "code": "GBMCD",
+        "name": "Macduff",
+        "city": "Macduff",
+        "coordinates": [
+            -2.48,
+            57.67
+        ]
+    },
+    {
+        "code": "GBMID",
+        "name": "Middlesbrough",
+        "city": "Middlesbrough",
+        "coordinates": [
+            -1.15,
+            54.57
+        ]
+    },
+    {
+        "code": "GBMNS",
+        "name": "Moaness, Hoy",
+        "city": "Moaness, Hoy",
+        "coordinates": [
+            -3.3108075,
+            58.9163522
+        ]
+    },
+    {
+        "code": "GBMON",
+        "name": "Montrose",
+        "city": "Montrose",
+        "coordinates": [
+            -2.45,
+            56.7
+        ]
+    },
+    {
+        "code": "GBMRY",
+        "name": "Maryport",
+        "city": "Maryport",
+        "coordinates": [
+            -3.49494,
+            54.714441
+        ]
+    },
+    {
+        "code": "GBNCL",
+        "name": "Newcastle upon Tyne",
+        "city": "Newcastle upon Tyne",
+        "coordinates": [
+            -1.6,
+            54.97
+        ]
+    },
+    {
+        "code": "GBNFT",
+        "name": "Northfleet",
+        "city": "Northfleet",
+        "coordinates": [
+            0.33694,
+            51.44107200000001
+        ]
+    },
+    {
+        "code": "GBNHV",
+        "name": "Newhaven",
+        "city": "Newhaven",
+        "coordinates": [
+            0.045574,
+            50.79307000000001
+        ]
+    },
+    {
+        "code": "GBNLN",
+        "name": "Nelson",
+        "city": "Nelson",
+        "coordinates": [
+            -2.219377,
+            53.835187
+        ]
+    },
+    {
+        "code": "GBNPT",
+        "name": "Newport",
+        "city": "Newport",
+        "coordinates": [
+            -3.0305937,
+            51.581186
+        ]
+    },
+    {
+        "code": "GBPDD",
+        "name": "Pen-Clawdd",
+        "city": "Pen-Clawdd",
+        "coordinates": null
+    },
+    {
+        "code": "GBPFT",
+        "name": "Purfleet",
+        "city": "Purfleet",
+        "coordinates": [
+            0.2433122,
+            51.48671059999999
+        ]
+    },
+    {
+        "code": "GBPLY",
+        "name": "Plymouth",
+        "city": "Plymouth",
+        "coordinates": [
+            -4.12,
+            50.4
+        ]
+    },
+    {
+        "code": "GBPME",
+        "name": "Portsmouth",
+        "city": "Portsmouth",
+        "coordinates": [
+            -1.0879769,
+            50.8197675
+        ]
+    },
+    {
+        "code": "GBPOO",
+        "name": "Poole",
+        "city": "Poole",
+        "coordinates": [
+            -1.987248,
+            50.71505
+        ]
+    },
+    {
+        "code": "GBPRE",
+        "name": "Preston",
+        "city": "Preston",
+        "coordinates": [
+            -2.72,
+            53.75
+        ]
+    },
+    {
+        "code": "GBPRU",
+        "name": "Portbury",
+        "city": "Portbury",
+        "coordinates": [
+            -2.72,
+            51.47
+        ]
+    },
+    {
+        "code": "GBPST",
+        "name": "Parkeston Quay",
+        "city": "Parkeston Quay",
+        "coordinates": [
+            1.255846,
+            51.94448
+        ]
+    },
+    {
+        "code": "GBQUB",
+        "name": "Queenborough",
+        "city": "Queenborough",
+        "coordinates": [
+            0.7470207,
+            51.4172853
+        ]
+    },
+    {
+        "code": "GBRYE",
+        "name": "Rye",
+        "city": "Rye",
+        "coordinates": [
+            0.7372599999999999,
+            50.949708
+        ]
+    },
+    {
+        "code": "GBSCA",
+        "name": "Scarborough",
+        "city": "Scarborough",
+        "coordinates": [
+            -0.399752,
+            54.283113
+        ]
+    },
+    {
+        "code": "GBSHS",
+        "name": "Sheerness",
+        "city": "Sheerness",
+        "coordinates": [
+            0.764158,
+            51.44011
+        ]
+    },
+    {
+        "code": "GBSOU",
+        "name": "Southampton",
+        "city": "Southampton",
+        "coordinates": [
+            -1.4043509,
+            50.90970040000001
+        ]
+    },
+    {
+        "code": "GBSOW",
+        "name": "Stanlow",
+        "city": "Stanlow",
+        "coordinates": [
+            -2.3,
+            52.58
+        ]
+    },
+    {
+        "code": "GBSSH",
+        "name": "South Shields",
+        "city": "South Shields",
+        "coordinates": [
+            -1.42,
+            54.98
+        ]
+    },
+    {
+        "code": "GBSUN",
+        "name": "Sunderland",
+        "city": "Sunderland",
+        "coordinates": [
+            -1.38,
+            54.9
+        ]
+    },
+    {
+        "code": "GBSVT",
+        "name": "Silvertown",
+        "city": "Silvertown",
+        "coordinates": [
+            0.03,
+            51.5
+        ]
+    },
+    {
+        "code": "GBSWA",
+        "name": "Swansea",
+        "city": "Swansea",
+        "coordinates": [
+            -3.97,
+            51.63
+        ]
+    },
+    {
+        "code": "GBTEE",
+        "name": "Teesport",
+        "city": "Teesport",
+        "coordinates": [
+            -1.15,
+            54.58
+        ]
+    },
+    {
+        "code": "GBTHP",
+        "name": "Thamesport",
+        "city": "Thamesport",
+        "coordinates": [
+            0.5217254000000001,
+            51.2787075
+        ]
+    },
+    {
+        "code": "GBTIL",
+        "name": "Tilbury",
+        "city": "Tilbury",
+        "coordinates": [
+            0.360498,
+            51.463024
+        ]
+    },
+    {
+        "code": "GBTYN",
+        "name": "Tyne",
+        "city": "Tyne",
+        "coordinates": [
+            -1.43,
+            55
+        ]
+    },
+    {
+        "code": "GBWDN",
+        "name": "Widnes",
+        "city": "Widnes",
+        "coordinates": [
+            -2.73,
+            53.35
+        ]
+    },
+    {
+        "code": "GBWOR",
+        "name": "Workington",
+        "city": "Workington",
+        "coordinates": [
+            -3.542752,
+            54.643569
+        ]
+    },
+    {
+        "code": "GBYVZ",
+        "name": "Stonehouse",
+        "city": "Stonehouse",
+        "coordinates": [
+            -2.279028,
+            51.74388099999999
+        ]
+    }
+]

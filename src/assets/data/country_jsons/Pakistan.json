@@ -1,0 +1,20 @@
+[
+    {
+        "code": "PKBQM",
+        "name": "Karachi-muhammad Bin Qasim",
+        "city": "Karachi-muhammad Bin Qasim",
+        "coordinates": [
+            67.0152682,
+            24.8550065
+        ]
+    },
+    {
+        "code": "PKKHI",
+        "name": "Karachi",
+        "city": "Karachi",
+        "coordinates": [
+            67.0099388,
+            24.8614622
+        ]
+    }
+]

@@ -1,0 +1,1136 @@
+[
+    {
+        "code": "CNBAY",
+        "name": "Bayuquan",
+        "city": "Bayuquan",
+        "coordinates": [
+            122.107814,
+            40.230636
+        ]
+    },
+    {
+        "code": "CNBHY",
+        "name": "Beihai Fucheng Apt",
+        "city": "Beihai Fucheng Apt",
+        "coordinates": [
+            108.327546,
+            22.815478
+        ]
+    },
+    {
+        "code": "CNBJO",
+        "name": "Beijiao",
+        "city": "Beijiao",
+        "coordinates": [
+            119.92,
+            26.35
+        ]
+    },
+    {
+        "code": "CNCAN",
+        "name": "Guangzhou",
+        "city": "Guangzhou",
+        "coordinates": [
+            113.264385,
+            23.12911
+        ]
+    },
+    {
+        "code": "CNCGU",
+        "name": "Changshu",
+        "city": "Changshu",
+        "coordinates": [
+            120.752503,
+            31.653686
+        ]
+    },
+    {
+        "code": "CNCKG",
+        "name": "Chongqing",
+        "city": "Chongqing",
+        "coordinates": [
+            106.551557,
+            29.56301
+        ]
+    },
+    {
+        "code": "CNCOZ",
+        "name": "Chaozhou Port",
+        "city": "Chaozhou",
+        "coordinates": [
+            116.63,
+            23.67
+        ]
+    },
+    {
+        "code": "CNCSX",
+        "name": "Changsha",
+        "city": "Changsha",
+        "coordinates": [
+            112.938814,
+            28.228209
+        ]
+    },
+    {
+        "code": "CNCTU",
+        "name": "Chengdu",
+        "city": "Chengdu",
+        "coordinates": [
+            104.066541,
+            30.572269
+        ]
+    },
+    {
+        "code": "CNCWN",
+        "name": "Chiwan Port",
+        "city": "Chiwan",
+        "coordinates": [
+            113.88,
+            22.48
+        ]
+    },
+    {
+        "code": "CNDAA",
+        "name": "Dagang",
+        "city": "Dagang",
+        "coordinates": [
+            120.103473,
+            33.189192
+        ]
+    },
+    {
+        "code": "CNDAL",
+        "name": "Dalian",
+        "city": "Dalian",
+        "coordinates": [
+            121.614682,
+            38.91400300000001
+        ]
+    },
+    {
+        "code": "CNDCB",
+        "name": "Da Chan Bay",
+        "city": "Da Chan Bay",
+        "coordinates": null
+    },
+    {
+        "code": "CNDGG",
+        "name": "Dongguan Port",
+        "city": "Dongguan",
+        "coordinates": [
+            113.751765,
+            23.020536
+        ]
+    },
+    {
+        "code": "CNDLC",
+        "name": "Dalian",
+        "city": "Dalian",
+        "coordinates": [
+            121.614682,
+            38.91400300000001
+        ]
+    },
+    {
+        "code": "CNDOU",
+        "name": "Doumen Port",
+        "city": "Doumen",
+        "coordinates": [
+            113.28,
+            22.2
+        ]
+    },
+    {
+        "code": "CNFAN",
+        "name": "Fangcheng Port",
+        "city": "Fangcheng",
+        "coordinates": [
+            108.35,
+            21.77
+        ]
+    },
+    {
+        "code": "CNFNG",
+        "name": "Fuyong",
+        "city": "Fuyong",
+        "coordinates": [
+            113.78,
+            22.65
+        ]
+    },
+    {
+        "code": "CNFOC",
+        "name": "Fuzhou",
+        "city": "Fuzhou",
+        "coordinates": null
+    },
+    {
+        "code": "CNFOS",
+        "name": "Foshan",
+        "city": "Foshanzhan",
+        "coordinates": [
+            113.1,
+            23.03
+        ]
+    },
+    {
+        "code": "CNFUG",
+        "name": "Fuqing",
+        "city": "Fuqing",
+        "coordinates": [
+            119.383811,
+            25.720381
+        ]
+    },
+    {
+        "code": "CNGGY",
+        "name": "Gongyi",
+        "city": "Gongyi",
+        "coordinates": [
+            113.218364,
+            23.4033077
+        ]
+    },
+    {
+        "code": "CNGOG",
+        "name": "Gongming",
+        "city": "Gongming",
+        "coordinates": [
+            113.87,
+            22.78
+        ]
+    },
+    {
+        "code": "CNGOM",
+        "name": "Gaoming Port",
+        "city": "Gaoming",
+        "coordinates": [
+            112.83,
+            22.88
+        ]
+    },
+    {
+        "code": "CNGUG",
+        "name": "Guigang",
+        "city": "Guigang",
+        "coordinates": [
+            109.6,
+            23.1
+        ]
+    },
+    {
+        "code": "CNHAK",
+        "name": "Haikou",
+        "city": "Haikou",
+        "coordinates": [
+            110.198293,
+            20.044002
+        ]
+    },
+    {
+        "code": "CNHDU",
+        "name": "Huadu",
+        "city": "Huadu",
+        "coordinates": [
+            113.22,
+            23.4
+        ]
+    },
+    {
+        "code": "CNHEB",
+        "name": "Hebei",
+        "city": "Hebei",
+        "coordinates": [
+            115.27,
+            39.88
+        ]
+    },
+    {
+        "code": "CNHGH",
+        "name": "Hangzhou",
+        "city": "Hangzhou",
+        "coordinates": [
+            120.15507,
+            30.274085
+        ]
+    },
+    {
+        "code": "CNHME",
+        "name": "Haimen",
+        "city": "Haimen",
+        "coordinates": [
+            121.4530792,
+            32.1041568
+        ]
+    },
+    {
+        "code": "CNHMN",
+        "name": "Humen Port",
+        "city": "Humen",
+        "coordinates": [
+            113.67,
+            22.83
+        ]
+    },
+    {
+        "code": "CNHSN",
+        "name": "Heshan Port",
+        "city": "Heshan",
+        "coordinates": [
+            112.95,
+            22.77
+        ]
+    },
+    {
+        "code": "CNHUA",
+        "name": "Huangpu Port",
+        "city": "Huangpu",
+        "coordinates": [
+            113.459714,
+            23.106899
+        ]
+    },
+    {
+        "code": "CNHUD",
+        "name": "Huludao Port",
+        "city": "Huludao",
+        "coordinates": [
+            120.85,
+            40.75
+        ]
+    },
+    {
+        "code": "CNHUI",
+        "name": "Huizhou Port",
+        "city": "Huizhou",
+        "coordinates": [
+            114.37,
+            23.08
+        ]
+    },
+    {
+        "code": "CNJGZ",
+        "name": "Jingzhou",
+        "city": "Jingzhou",
+        "coordinates": [
+            112.18,
+            30.35
+        ]
+    },
+    {
+        "code": "CNJIA",
+        "name": "Jiangyin Port",
+        "city": "Jiangyin",
+        "coordinates": [
+            120.28,
+            31.9
+        ]
+    },
+    {
+        "code": "CNJIN",
+        "name": "Jian",
+        "city": "Jian",
+        "coordinates": [
+            114.97,
+            27.12
+        ]
+    },
+    {
+        "code": "CNJIU",
+        "name": "Jiujiang Port",
+        "city": "Jiujiang",
+        "coordinates": [
+            115.97,
+            29.72
+        ]
+    },
+    {
+        "code": "CNJMN",
+        "name": "Jiangmen Port",
+        "city": "Jiangmen",
+        "coordinates": [
+            113.07,
+            22.58
+        ]
+    },
+    {
+        "code": "CNJNZ",
+        "name": "Jinzhou Port",
+        "city": "Jinzhou",
+        "coordinates": [
+            121.15,
+            41.12
+        ]
+    },
+    {
+        "code": "CNJXN",
+        "name": "Jiao Xin",
+        "city": "Jiao Xin",
+        "coordinates": [
+            113.3136949,
+            22.7024799
+        ]
+    },
+    {
+        "code": "CNJZU",
+        "name": "Jiuzhou Port",
+        "city": "Jiuzhou",
+        "coordinates": [
+            116.122239,
+            24.288615
+        ]
+    },
+    {
+        "code": "CNKHN",
+        "name": "Nanchang",
+        "city": "Nanchang",
+        "coordinates": [
+            115.858198,
+            28.682892
+        ]
+    },
+    {
+        "code": "CNKMG",
+        "name": "Kunming",
+        "city": "Kunming",
+        "coordinates": [
+            102.832892,
+            24.880095
+        ]
+    },
+    {
+        "code": "CNKPN",
+        "name": "Kaiping",
+        "city": "Kaiping",
+        "coordinates": [
+            118.3,
+            39.7
+        ]
+    },
+    {
+        "code": "CNLAN",
+        "name": "Lanshi Port",
+        "city": "Lanshi",
+        "coordinates": [
+            113.981592,
+            22.9701602
+        ]
+    },
+    {
+        "code": "CNLGH",
+        "name": "Longhua",
+        "city": "Longhua",
+        "coordinates": [
+            114.020921,
+            22.63964
+        ]
+    },
+    {
+        "code": "CNLIH",
+        "name": "Lianhuashan Port",
+        "city": "Lianhuashan",
+        "coordinates": [
+            115.27,
+            23.02
+        ]
+    },
+    {
+        "code": "CNLKU",
+        "name": "Longkou Port",
+        "city": "Longkou",
+        "coordinates": [
+            120.35,
+            37.65
+        ]
+    },
+    {
+        "code": "CNLSI",
+        "name": "Lanshi",
+        "city": "Lanshi",
+        "coordinates": [
+            113.6,
+            26.15
+        ]
+    },
+    {
+        "code": "CNLYG",
+        "name": "Lianyungang",
+        "city": "Lianyungang",
+        "coordinates": [
+            119.43,
+            34.72
+        ]
+    },
+    {
+        "code": "CNLZH",
+        "name": "Liuzhou Port",
+        "city": "Liuzhou",
+        "coordinates": [
+            109.4,
+            23.32
+        ]
+    },
+    {
+        "code": "CNMAW",
+        "name": "Mawei Port",
+        "city": "Mawei",
+        "coordinates": [
+            119.45,
+            25.98
+        ]
+    },
+    {
+        "code": "CNMMI",
+        "name": "Maoming",
+        "city": "Maoming",
+        "coordinates": [
+            110.925456,
+            21.662999
+        ]
+    },
+    {
+        "code": "CNMWN",
+        "name": "Mawan Port",
+        "city": "Mawan",
+        "coordinates": [
+            113.88,
+            22.45
+        ]
+    },
+    {
+        "code": "CNMYG",
+        "name": "Mianyang",
+        "city": "Mianyang",
+        "coordinates": [
+            104.7,
+            31.5
+        ]
+    },
+    {
+        "code": "CNNAH",
+        "name": "Nanhai Port",
+        "city": "Nanhai",
+        "coordinates": [
+            113.15,
+            23.02
+        ]
+    },
+    {
+        "code": "CNNBO",
+        "name": "Ningbo",
+        "city": "Ningbo",
+        "coordinates": [
+            121.54399,
+            29.868336
+        ]
+    },
+    {
+        "code": "CNNGB",
+        "name": "Ningbo",
+        "city": "Ningbo",
+        "coordinates": [
+            121.54399,
+            29.868336
+        ]
+    },
+    {
+        "code": "CNNGG",
+        "name": "Nangang",
+        "city": "Nangang",
+        "coordinates": [
+            113.2004523,
+            23.0372705
+        ]
+    },
+    {
+        "code": "CNNKG",
+        "name": "Nanjing",
+        "city": "Nanjing",
+        "coordinates": [
+            118.796877,
+            32.060255
+        ]
+    },
+    {
+        "code": "CNNNG",
+        "name": "Nanning",
+        "city": "Nanning",
+        "coordinates": [
+            108.366543,
+            22.817002
+        ]
+    },
+    {
+        "code": "CNNSA",
+        "name": "Nansha Port",
+        "city": "Nansha",
+        "coordinates": [
+            113.58,
+            22.75
+        ]
+    },
+    {
+        "code": "CNNTG",
+        "name": "Nantong Port",
+        "city": "Nantong",
+        "coordinates": [
+            120.85,
+            32.02
+        ]
+    },
+    {
+        "code": "CNPNY",
+        "name": "Shiqiao",
+        "city": "Shiqiao",
+        "coordinates": [
+            113.37,
+            22.95
+        ]
+    },
+    {
+        "code": "CNPUT",
+        "name": "Putian",
+        "city": "Putian",
+        "coordinates": [
+            119.02,
+            24.43
+        ]
+    },
+    {
+        "code": "CNQAW",
+        "name": "Qianwan",
+        "city": "Qianwan",
+        "coordinates": [
+            120.22,
+            36.05
+        ]
+    },
+    {
+        "code": "CNQIN",
+        "name": "Qingdao",
+        "city": "Qingdao",
+        "coordinates": [
+            120.382612,
+            36.067117
+        ]
+    },
+    {
+        "code": "CNQYN",
+        "name": "Qingyuan",
+        "city": "Qingyuan",
+        "coordinates": [
+            113.056031,
+            23.681764
+        ]
+    },
+    {
+        "code": "CNQZJ",
+        "name": "Quanzhou Port",
+        "city": "Quanzhou",
+        "coordinates": [
+            118.6,
+            24.93
+        ]
+    },
+    {
+        "code": "CNROQ",
+        "name": "Rongqi Port",
+        "city": "Rongqi",
+        "coordinates": [
+            113.27,
+            22.78
+        ]
+    },
+    {
+        "code": "CNRZH",
+        "name": "Rizhao Port",
+        "city": "Rizhao",
+        "coordinates": [
+            119.53,
+            35.38
+        ]
+    },
+    {
+        "code": "CNSBU",
+        "name": "Sanbu Port",
+        "city": "Sanbu",
+        "coordinates": [
+            112.716189,
+            22.36821
+        ]
+    },
+    {
+        "code": "CNSDG",
+        "name": "Shuidong Port",
+        "city": "Shuidong",
+        "coordinates": [
+            111,
+            21.52
+        ]
+    },
+    {
+        "code": "CNSGH",
+        "name": "Shanghai",
+        "city": "Shanghai",
+        "coordinates": [
+            121.473701,
+            31.230416
+        ]
+    },
+    {
+        "code": "CNSHA",
+        "name": "Shanghai",
+        "city": "Shanghai",
+        "coordinates": [
+            121.473701,
+            31.230416
+        ]
+    },
+    {
+        "code": "CNSHK",
+        "name": "Shekou Port",
+        "city": "Shekou",
+        "coordinates": [
+            113.92,
+            22.48
+        ]
+    },
+    {
+        "code": "CNSHP",
+        "name": "Qinhuangdao Port",
+        "city": "Qinhuangdao",
+        "coordinates": [
+            119.58,
+            39.92
+        ]
+    },
+    {
+        "code": "CNSIN",
+        "name": "Shatian",
+        "city": "Shatian",
+        "coordinates": [
+            113.617788,
+            22.919003
+        ]
+    },
+    {
+        "code": "CNSJQ",
+        "name": "Sanshui",
+        "city": "Sanshui",
+        "coordinates": [
+            112.87,
+            23.17
+        ]
+    },
+    {
+        "code": "CNSNW",
+        "name": "Shenwan",
+        "city": "Shenwan",
+        "coordinates": [
+            113.3640848,
+            22.2815335
+        ]
+    },
+    {
+        "code": "CNSSH",
+        "name": "Sanshan (Nanhai)",
+        "city": "Sanshan (Nanhai)",
+        "coordinates": [
+            113.2413272,
+            23.0359965
+        ]
+    },
+    {
+        "code": "CNSTG",
+        "name": "Port of Shantou",
+        "city": "Shantou",
+        "coordinates": null
+    },
+    {
+        "code": "CNSUD",
+        "name": "Shunde Port",
+        "city": "Shunde",
+        "coordinates": [
+            113.25,
+            22.83
+        ]
+    },
+    {
+        "code": "CNSWA",
+        "name": "Jieyang Chaoshan Apt",
+        "city": "Jieyang Chaoshan Apt",
+        "coordinates": [
+            113.266531,
+            23.132191
+        ]
+    },
+    {
+        "code": "CNSWE",
+        "name": "Shanwei Port",
+        "city": "Shanwei",
+        "coordinates": [
+            115.35,
+            22.78
+        ]
+    },
+    {
+        "code": "CNSZX",
+        "name": "Shenzhen Baoan",
+        "city": "Shenzhen Baoan",
+        "coordinates": [
+            113.88402,
+            22.555259
+        ]
+    },
+    {
+        "code": "CNTAG",
+        "name": "Taicang",
+        "city": "Taicang",
+        "coordinates": [
+            121.13055,
+            31.457735
+        ]
+    },
+    {
+        "code": "CNTAO",
+        "name": "Qingdao",
+        "city": "Qingdao",
+        "coordinates": [
+            120.382612,
+            36.067117
+        ]
+    },
+    {
+        "code": "CNTAP",
+        "name": "Taiping",
+        "city": "Taiping",
+        "coordinates": [
+            110.17,
+            21.03
+        ]
+    },
+    {
+        "code": "CNTHG",
+        "name": "Taicheng (Taishan)",
+        "city": "Taicheng (Taishan)",
+        "coordinates": [
+            112.78,
+            22.25
+        ]
+    },
+    {
+        "code": "CNTSN",
+        "name": "Tianjin",
+        "city": "Tianjin",
+        "coordinates": [
+            117.200983,
+            39.084158
+        ]
+    },
+    {
+        "code": "CNTXG",
+        "name": "Tianjin New Port",
+        "city": "Tianjin New",
+        "coordinates": [
+            117.7,
+            38.98
+        ]
+    },
+    {
+        "code": "CNTZO",
+        "name": "Taizhou",
+        "city": "Taizhou",
+        "coordinates": [
+            119.9,
+            32.48
+        ]
+    },
+    {
+        "code": "CNWAZ",
+        "name": "Wanzai",
+        "city": "Wanzai",
+        "coordinates": [
+            113.52,
+            22.18
+        ]
+    },
+    {
+        "code": "CNWEI",
+        "name": "Weihai",
+        "city": "Weihai",
+        "coordinates": [
+            122.12,
+            37.52
+        ]
+    },
+    {
+        "code": "CNWHI",
+        "name": "Wuhu Port",
+        "city": "Wuhu",
+        "coordinates": [
+            118.37,
+            31.32
+        ]
+    },
+    {
+        "code": "CNWNZ",
+        "name": "Wenzhou",
+        "city": "Wenzhou",
+        "coordinates": [
+            120.699367,
+            27.994267
+        ]
+    },
+    {
+        "code": "CNWUH",
+        "name": "Wuhan",
+        "city": "Wuhan",
+        "coordinates": [
+            114.305393,
+            30.593099
+        ]
+    },
+    {
+        "code": "CNXAB",
+        "name": "Xinfeng",
+        "city": "Xinfeng",
+        "coordinates": [
+            114.206867,
+            24.05976
+        ]
+    },
+    {
+        "code": "CNXAM",
+        "name": "Xiamen",
+        "city": "Xiamen",
+        "coordinates": [
+            118.089425,
+            24.479834
+        ]
+    },
+    {
+        "code": "CNXGA",
+        "name": "Xingang",
+        "city": "Xingang",
+        "coordinates": [
+            117.6849329,
+            39.0065118
+        ]
+    },
+    {
+        "code": "CNXGG",
+        "name": "Xingang",
+        "city": "Xingang",
+        "coordinates": [
+            117.6849329,
+            39.0065118
+        ]
+    },
+    {
+        "code": "CNXIL",
+        "name": "Xiaolan",
+        "city": "Xiaolan",
+        "coordinates": [
+            113.2514,
+            22.671394
+        ]
+    },
+    {
+        "code": "CNXIN",
+        "name": "Xinhui Port",
+        "city": "Xinhui",
+        "coordinates": [
+            113.02,
+            22.53
+        ]
+    },
+    {
+        "code": "CNXIT",
+        "name": "Xintang Port",
+        "city": "Xintang",
+        "coordinates": [
+            113.62,
+            23.12
+        ]
+    },
+    {
+        "code": "CNXMN",
+        "name": "Xiamen",
+        "city": "Xiamen",
+        "coordinates": [
+            118.089425,
+            24.479834
+        ]
+    },
+    {
+        "code": "CNYAN",
+        "name": "Yangshan",
+        "city": "Yangshan",
+        "coordinates": [
+            121.869339,
+            29.476705
+        ]
+    },
+    {
+        "code": "CNYIC",
+        "name": "Yichang",
+        "city": "Yichang",
+        "coordinates": [
+            111.28,
+            30.7
+        ]
+    },
+    {
+        "code": "CNYIK",
+        "name": "Yingkou Port",
+        "city": "Yingkou",
+        "coordinates": [
+            122.22,
+            40.65
+        ]
+    },
+    {
+        "code": "CNYJI",
+        "name": "Yangjiang Port",
+        "city": "Yangjiang",
+        "coordinates": [
+            111.97,
+            21.83
+        ]
+    },
+    {
+        "code": "CNYNF",
+        "name": "Yunfu",
+        "city": "Yunfu",
+        "coordinates": [
+            112.044491,
+            22.915094
+        ]
+    },
+    {
+        "code": "CNYNT",
+        "name": "Yantai",
+        "city": "Yantai",
+        "coordinates": [
+            121.447935,
+            37.463822
+        ]
+    },
+    {
+        "code": "CNYPG",
+        "name": "Yangpu Port",
+        "city": "Yangpu",
+        "coordinates": [
+            109.2,
+            19.7
+        ]
+    },
+    {
+        "code": "CNYQS",
+        "name": "Beijiao",
+        "city": "Beijiao",
+        "coordinates": [
+            113.207187,
+            22.928305
+        ]
+    },
+    {
+        "code": "CNYTG",
+        "name": "Yantai",
+        "city": "Yantai",
+        "coordinates": [
+            121.447935,
+            37.463822
+        ]
+    },
+    {
+        "code": "CNYTN",
+        "name": "Yantian Port",
+        "city": "Yantian",
+        "coordinates": [
+            119.87,
+            26.85
+        ]
+    },
+    {
+        "code": "CNYZH",
+        "name": "Yangzhou Port",
+        "city": "Yangzhou",
+        "coordinates": [
+            119.43,
+            32.38
+        ]
+    },
+    {
+        "code": "CNZAP",
+        "name": "Zhapu (Zhejiang)",
+        "city": "Zhapu (Zhejiang)",
+        "coordinates": [
+            121.095594,
+            30.603546
+        ]
+    },
+    {
+        "code": "CNZHA",
+        "name": "Zhanjiang Potou Apt",
+        "city": "Zhanjiang Potou Apt",
+        "coordinates": [
+            113.266531,
+            23.132191
+        ]
+    },
+    {
+        "code": "CNZHE",
+        "name": "Zhenjiang Port",
+        "city": "Zhenjiang",
+        "coordinates": [
+            119.45,
+            32.18
+        ]
+    },
+    {
+        "code": "CNZJG",
+        "name": "Zhangjiagang",
+        "city": "Zhangjiagang",
+        "coordinates": [
+            120.53,
+            31.87
+        ]
+    },
+    {
+        "code": "CNZOS",
+        "name": "Zhoushan Port",
+        "city": "Zhoushan",
+        "coordinates": [
+            122.207216,
+            29.98529499999999
+        ]
+    },
+    {
+        "code": "CNZQG",
+        "name": "Zhaoqing Port",
+        "city": "Zhaoqing",
+        "coordinates": [
+            112.45,
+            23.05
+        ]
+    },
+    {
+        "code": "CNZSN",
+        "name": "Zhongshan Port",
+        "city": "Zhongshan",
+        "coordinates": [
+            113.37,
+            22.52
+        ]
+    },
+    {
+        "code": "CNZUH",
+        "name": "Zhuhai Port",
+        "city": "Zhuhai",
+        "coordinates": [
+            113.57,
+            22.28
+        ]
+    }
+]

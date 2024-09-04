@@ -1,0 +1,47 @@
+[
+    {
+        "code": "MZBEW",
+        "name": "Beira",
+        "city": "Beira",
+        "coordinates": [
+            34.8844867,
+            -19.7963816
+        ]
+    },
+    {
+        "code": "MZMNC",
+        "name": "Nacala",
+        "city": "Nacala",
+        "coordinates": [
+            40.6854309,
+            -14.5656065
+        ]
+    },
+    {
+        "code": "MZMPM",
+        "name": "Maputo",
+        "city": "Maputo",
+        "coordinates": [
+            32.6051351,
+            -25.891968
+        ]
+    },
+    {
+        "code": "MZPOL",
+        "name": "Pemba",
+        "city": "Pemba",
+        "coordinates": [
+            40.5178014,
+            -12.9732026
+        ]
+    },
+    {
+        "code": "MZUEL",
+        "name": "Quelimane",
+        "city": "Quelimane",
+        "coordinates": [
+            36.9218584,
+            -17.8502636
+        ]
+    }
+]

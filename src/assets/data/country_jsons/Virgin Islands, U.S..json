@@ -1,0 +1,38 @@
+[
+    {
+        "code": "VICHA",
+        "name": "Charlotte Amalie, Saint Thomas",
+        "city": "Charlotte Amalie, Saint Thomas",
+        "coordinates": [
+            -64.9307007,
+            18.3419004
+        ]
+    },
+    {
+        "code": "VICTD",
+        "name": "Christiansted, Saint Croix",
+        "city": "Christiansted, Saint Croix",
+        "coordinates": [
+            -64.7031977,
+            17.7466397
+        ]
+    },
+    {
+        "code": "VISTT",
+        "name": "Saint Thomas",
+        "city": "Saint Thomas",
+        "coordinates": [
+            -64.93,
+            18.35
+        ]
+    },
+    {
+        "code": "VISTX",
+        "name": "Saint Croix",
+        "city": "Saint Croix",
+        "coordinates": [
+            -64.73,
+            17.75
+        ]
+    }
+]

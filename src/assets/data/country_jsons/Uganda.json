@@ -1,0 +1,20 @@
+[
+    {
+        "code": "UGJIN",
+        "name": "Jinja",
+        "city": "Jinja",
+        "coordinates": [
+            33.2026122,
+            0.4478565999999999
+        ]
+    },
+    {
+        "code": "UGKLA",
+        "name": "Kampala",
+        "city": "Kampala",
+        "coordinates": [
+            32.5825197,
+            0.3475964
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "code": "GFCAY",
+        "name": "Cayenne",
+        "city": "Cayenne",
+        "coordinates": [
+            -52.3134531,
+            4.92242
+        ]
+    },
+    {
+        "code": "GFDDC",
+        "name": "Degrad des Cannes",
+        "city": "D\u00e9grad des Cannes",
+        "coordinates": [
+            -52.27,
+            4.85
+        ]
+    }
+]

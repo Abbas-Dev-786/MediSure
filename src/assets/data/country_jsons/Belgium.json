@@ -1,0 +1,56 @@
+[
+    {
+        "code": "BEANR",
+        "name": "Antwerpen",
+        "city": "Antwerpen",
+        "coordinates": [
+            4.42,
+            51.22
+        ]
+    },
+    {
+        "code": "BEBSU",
+        "name": "Bossuit",
+        "city": "Bossuit",
+        "coordinates": [
+            3.4072881,
+            50.7481174
+        ]
+    },
+    {
+        "code": "BEDEL",
+        "name": "Doel",
+        "city": "Doel",
+        "coordinates": [
+            4.264974899999999,
+            51.31059759999999
+        ]
+    },
+    {
+        "code": "BEGNE",
+        "name": "Gent (Ghent)",
+        "city": "Gent (Ghent)",
+        "coordinates": [
+            3.72,
+            51.05
+        ]
+    },
+    {
+        "code": "BEOST",
+        "name": "Oostende (Ostend)",
+        "city": "Oostende (Ostend)",
+        "coordinates": [
+            2.92,
+            51.2
+        ]
+    },
+    {
+        "code": "BEZEE",
+        "name": "Zeebrugge",
+        "city": "Zeebrugge",
+        "coordinates": [
+            3.2,
+            51.33
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "GPBBR",
+        "name": "Basse-Terre",
+        "city": "Basse-Terre",
+        "coordinates": [
+            -61.72,
+            16
+        ]
+    },
+    {
+        "code": "GPGUS",
+        "name": "Gustavia",
+        "city": "Gustavia",
+        "coordinates": [
+            -62.8486533,
+            17.896877
+        ]
+    },
+    {
+        "code": "GPPTP",
+        "name": "Pointe-a-Pitre",
+        "city": "Pointe-\u00e0-Pitre",
+        "coordinates": [
+            -61.5340424,
+            16.2376869
+        ]
+    },
+    {
+        "code": "GPSBH",
+        "name": "Saint Barthelemy",
+        "city": "Saint Barthelemy",
+        "coordinates": [
+            -61.5323532,
+            16.2544056
+        ]
+    }
+]

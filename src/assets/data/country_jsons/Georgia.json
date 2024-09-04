@@ -1,0 +1,29 @@
+[
+    {
+        "code": "GEBUS",
+        "name": "Batumi",
+        "city": "Batumi",
+        "coordinates": [
+            41.6367455,
+            41.6167547
+        ]
+    },
+    {
+        "code": "GEPTI",
+        "name": "Poti",
+        "city": "Poti",
+        "coordinates": [
+            41.67137,
+            42.1582596
+        ]
+    },
+    {
+        "code": "GETBS",
+        "name": "Tbilisi",
+        "city": "Tbilisi",
+        "coordinates": [
+            44.827096,
+            41.7151377
+        ]
+    }
+]

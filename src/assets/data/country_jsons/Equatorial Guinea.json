@@ -1,0 +1,20 @@
+[
+    {
+        "code": "GQBSG",
+        "name": "Bata",
+        "city": "Bata",
+        "coordinates": [
+            9.779022699999999,
+            1.8533177
+        ]
+    },
+    {
+        "code": "GQSSG",
+        "name": "Malabo",
+        "city": "Malabo",
+        "coordinates": [
+            8.7371039,
+            3.7504118
+        ]
+    }
+]

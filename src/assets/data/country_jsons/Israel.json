@@ -1,0 +1,56 @@
+[
+    {
+        "code": "ILASH",
+        "name": "Ashdod",
+        "city": "Ashdod",
+        "coordinates": [
+            34.655314,
+            31.804381
+        ]
+    },
+    {
+        "code": "ILHAD",
+        "name": "Hadera",
+        "city": "Hadera",
+        "coordinates": [
+            34.9196518,
+            32.4340458
+        ]
+    },
+    {
+        "code": "ILHFA",
+        "name": "Haifa",
+        "city": "Haifa",
+        "coordinates": [
+            34.989571,
+            32.7940463
+        ]
+    },
+    {
+        "code": "ILNAT",
+        "name": "Netanya",
+        "city": "Netanya",
+        "coordinates": [
+            34.87,
+            32.33
+        ]
+    },
+    {
+        "code": "ILRMG",
+        "name": "Ramat Gan",
+        "city": "Ramat Gan",
+        "coordinates": [
+            34.8,
+            32.08
+        ]
+    },
+    {
+        "code": "ILTLV",
+        "name": "Tel Aviv-Yafo",
+        "city": "Tel Aviv-Yafo",
+        "coordinates": [
+            34.75,
+            32.05
+        ]
+    }
+]

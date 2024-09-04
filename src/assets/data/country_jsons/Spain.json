@@ -1,0 +1,368 @@
+[
+    {
+        "code": "ESACE",
+        "name": "Lanzarote",
+        "city": "Lanzarote",
+        "coordinates": [
+            -13.53,
+            28.97
+        ]
+    },
+    {
+        "code": "ESAGP",
+        "name": "Malaga",
+        "city": "M\u00e1laga",
+        "coordinates": [
+            -4.42,
+            36.72
+        ]
+    },
+    {
+        "code": "ESALC",
+        "name": "Alicante",
+        "city": "Alicante",
+        "coordinates": [
+            -0.4906855,
+            38.3459963
+        ]
+    },
+    {
+        "code": "ESALG",
+        "name": "Algeciras",
+        "city": "Algeciras",
+        "coordinates": [
+            -5.456233,
+            36.1407591
+        ]
+    },
+    {
+        "code": "ESAVS",
+        "name": "Aviles",
+        "city": "Aviles",
+        "coordinates": [
+            -5.9246653,
+            43.5579523
+        ]
+    },
+    {
+        "code": "ESBCN",
+        "name": "Barcelona",
+        "city": "Barcelona",
+        "coordinates": [
+            2.1734035,
+            41.3850639
+        ]
+    },
+    {
+        "code": "ESBIO",
+        "name": "Bilbao",
+        "city": "Bilbao",
+        "coordinates": [
+            -2.97,
+            43.25
+        ]
+    },
+    {
+        "code": "ESBRM",
+        "name": "Bermeo",
+        "city": "Bermeo",
+        "coordinates": [
+            -2.72,
+            43.43
+        ]
+    },
+    {
+        "code": "ESCAD",
+        "name": "Cadiz",
+        "city": "Cadiz",
+        "coordinates": [
+            -6.2885962,
+            36.5270612
+        ]
+    },
+    {
+        "code": "ESCAR",
+        "name": "Cartagena",
+        "city": "Cartagena",
+        "coordinates": [
+            -0.9965839,
+            37.6256827
+        ]
+    },
+    {
+        "code": "ESCAS",
+        "name": "Castellon de la Plana",
+        "city": "Castell\u00f3n de la Plana",
+        "coordinates": [
+            -0.03,
+            39.98
+        ]
+    },
+    {
+        "code": "ESCEU",
+        "name": "Ceuta",
+        "city": "Ceuta",
+        "coordinates": [
+            -5.3213455,
+            35.8893874
+        ]
+    },
+    {
+        "code": "ESEBO",
+        "name": "Cebolla",
+        "city": "Cebolla",
+        "coordinates": null
+    },
+    {
+        "code": "ESFER",
+        "name": "Ferez",
+        "city": "Ferez",
+        "coordinates": [
+            -2,
+            38.35
+        ]
+    },
+    {
+        "code": "ESFUE",
+        "name": "Puerto del Rosario-Fuerteventura",
+        "city": "Puerto del Rosario-Fuerteventura",
+        "coordinates": [
+            -13.8628367,
+            28.500821
+        ]
+    },
+    {
+        "code": "ESGIJ",
+        "name": "Gijon",
+        "city": "Gij\u00f3n",
+        "coordinates": [
+            -5.67,
+            43.53
+        ]
+    },
+    {
+        "code": "ESHUV",
+        "name": "Huelva",
+        "city": "Huelva",
+        "coordinates": [
+            -6.9447224,
+            37.261421
+        ]
+    },
+    {
+        "code": "ESIBZ",
+        "name": "Ibiza",
+        "city": "Ibiza",
+        "coordinates": [
+            1.43,
+            38.9
+        ]
+    },
+    {
+        "code": "ESLCG",
+        "name": "La Coruna (A Coruna)",
+        "city": "La Coru\u00f1a (A Coru\u00f1a)",
+        "coordinates": [
+            -8.38,
+            43.37
+        ]
+    },
+    {
+        "code": "ESLEI",
+        "name": "Almeria",
+        "city": "Almer\u00eda",
+        "coordinates": [
+            -2.45,
+            36.83
+        ]
+    },
+    {
+        "code": "ESLPA",
+        "name": "Las Palmas de Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "coordinates": [
+            -15.42,
+            28.1
+        ]
+    },
+    {
+        "code": "ESMAD",
+        "name": "Madrid",
+        "city": "Madrid",
+        "coordinates": [
+            -3.7037902,
+            40.4167754
+        ]
+    },
+    {
+        "code": "ESMAH",
+        "name": "Mahon, Menorca",
+        "city": "Mah\u00f3n, Menorca",
+        "coordinates": [
+            4.25,
+            39.88
+        ]
+    },
+    {
+        "code": "ESMLN",
+        "name": "Melilla",
+        "city": "Melilla",
+        "coordinates": [
+            -2.88,
+            35.32
+        ]
+    },
+    {
+        "code": "ESMOT",
+        "name": "Motril",
+        "city": "Motril",
+        "coordinates": [
+            -3.5180363,
+            36.7489747
+        ]
+    },
+    {
+        "code": "ESMPG",
+        "name": "Marin, Pontevedra",
+        "city": "Marin, Pontevedra",
+        "coordinates": [
+            -8.7020824,
+            42.3914848
+        ]
+    },
+    {
+        "code": "ESPAL",
+        "name": "Palamos",
+        "city": "Palam\u00f3s",
+        "coordinates": [
+            3.13,
+            41.85
+        ]
+    },
+    {
+        "code": "ESPAS",
+        "name": "Pasajes",
+        "city": "Pasajes",
+        "coordinates": [
+            -1.9301396,
+            43.32547030000001
+        ]
+    },
+    {
+        "code": "ESPMI",
+        "name": "Palma de Mallorca",
+        "city": "Palma de Mallorca",
+        "coordinates": [
+            2.63,
+            39.57
+        ]
+    },
+    {
+        "code": "ESSCT",
+        "name": "Santa Cruz de Tenerife",
+        "city": "Santa Cruz de Tenerife",
+        "coordinates": [
+            -16.2518467,
+            28.4636296
+        ]
+    },
+    {
+        "code": "ESSDR",
+        "name": "Santander",
+        "city": "Santander",
+        "coordinates": [
+            -3.8099803,
+            43.46230569999999
+        ]
+    },
+    {
+        "code": "ESSNR",
+        "name": "Santurce",
+        "city": "Santurce",
+        "coordinates": [
+            -3.03,
+            43.33
+        ]
+    },
+    {
+        "code": "ESSPC",
+        "name": "Santa Cruz de La Palma",
+        "city": "Santa Cruz de La Palma",
+        "coordinates": [
+            -17.77,
+            28.68
+        ]
+    },
+    {
+        "code": "ESSVQ",
+        "name": "Sevilla",
+        "city": "Sevilla",
+        "coordinates": [
+            -5.9844589,
+            37.3890924
+        ]
+    },
+    {
+        "code": "ESTAR",
+        "name": "Tarragona",
+        "city": "Tarragona",
+        "coordinates": [
+            1.2444909,
+            41.1188827
+        ]
+    },
+    {
+        "code": "ESTBZ",
+        "name": "Tabuenca",
+        "city": "Tabuenca",
+        "coordinates": [
+            -1.5432601,
+            41.6949364
+        ]
+    },
+    {
+        "code": "ESTCI",
+        "name": "Tenerife",
+        "city": "Tenerife",
+        "coordinates": [
+            -16.57,
+            28.32
+        ]
+    },
+    {
+        "code": "ESTOT",
+        "name": "Tortosa",
+        "city": "Tortosa",
+        "coordinates": [
+            0.5214423,
+            40.8125777
+        ]
+    },
+    {
+        "code": "ESVGO",
+        "name": "Vigo",
+        "city": "Vigo",
+        "coordinates": [
+            -8.7207268,
+            42.24059889999999
+        ]
+    },
+    {
+        "code": "ESVLC",
+        "name": "Valencia",
+        "city": "Valencia",
+        "coordinates": [
+            -0.3762881,
+            39.4699075
+        ]
+    },
+    {
+        "code": "ESZAZ",
+        "name": "Zaragoza",
+        "city": "Zaragoza",
+        "coordinates": [
+            -0.8890853,
+            41.6488226
+        ]
+    }
+]

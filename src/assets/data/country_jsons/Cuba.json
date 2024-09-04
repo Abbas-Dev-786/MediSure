@@ -1,0 +1,38 @@
+[
+    {
+        "code": "CUHAV",
+        "name": "La Habana",
+        "city": "La Habana",
+        "coordinates": [
+            -82.35,
+            23.12
+        ]
+    },
+    {
+        "code": "CUMAR",
+        "name": "Mariel",
+        "city": "Mariel",
+        "coordinates": [
+            -82.75,
+            23
+        ]
+    },
+    {
+        "code": "CUQMA",
+        "name": "Matanzas",
+        "city": "Matanzas",
+        "coordinates": [
+            -81.3399414,
+            22.5767123
+        ]
+    },
+    {
+        "code": "CUSCU",
+        "name": "Santiago de Cuba",
+        "city": "Santiago de Cuba",
+        "coordinates": [
+            -75.8301537,
+            20.01693
+        ]
+    }
+]

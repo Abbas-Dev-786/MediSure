@@ -1,0 +1,29 @@
+[
+    {
+        "code": "LCCAS",
+        "name": "Castries",
+        "city": "Castries",
+        "coordinates": [
+            -60.97,
+            14.02
+        ]
+    },
+    {
+        "code": "LCSLU",
+        "name": "Saint Lucia Apt",
+        "city": "Saint Lucia Apt",
+        "coordinates": [
+            -60.93,
+            13.7
+        ]
+    },
+    {
+        "code": "LCVIF",
+        "name": "Vieux Fort",
+        "city": "Vieux Fort",
+        "coordinates": [
+            -60.94964329999999,
+            13.720608
+        ]
+    }
+]

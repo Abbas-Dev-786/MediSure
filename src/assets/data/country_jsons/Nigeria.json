@@ -1,0 +1,65 @@
+[
+    {
+        "code": "NGAPP",
+        "name": "Apapa",
+        "city": "Apapa",
+        "coordinates": [
+            3.3640841,
+            6.45528
+        ]
+    },
+    {
+        "code": "NGCBQ",
+        "name": "Calabar",
+        "city": "Calabar",
+        "coordinates": [
+            8.3417006,
+            4.9757165
+        ]
+    },
+    {
+        "code": "NGLOS",
+        "name": "Lagos",
+        "city": "Lagos",
+        "coordinates": [
+            3.3792057,
+            6.5243793
+        ]
+    },
+    {
+        "code": "NGONN",
+        "name": "Onne",
+        "city": "Onne",
+        "coordinates": [
+            7.15,
+            4.72
+        ]
+    },
+    {
+        "code": "NGPHC",
+        "name": "Port Harcourt",
+        "city": "Port Harcourt",
+        "coordinates": [
+            7.0498442,
+            4.815554
+        ]
+    },
+    {
+        "code": "NGTIN",
+        "name": "Tincan/Lagos",
+        "city": "Tincan/Lagos",
+        "coordinates": [
+            3.3429075,
+            6.4334794
+        ]
+    },
+    {
+        "code": "NGWAR",
+        "name": "Warri",
+        "city": "Warri",
+        "coordinates": [
+            5.7932008,
+            5.5543995
+        ]
+    }
+]

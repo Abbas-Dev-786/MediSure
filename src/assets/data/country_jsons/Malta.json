@@ -1,0 +1,29 @@
+[
+    {
+        "code": "MTMAR",
+        "name": "Marsaxlokk",
+        "city": "Marsaxlokk",
+        "coordinates": [
+            14.53,
+            35.83
+        ]
+    },
+    {
+        "code": "MTMGZ",
+        "name": "Mgarr, Gozo",
+        "city": "Mgarr, Gozo",
+        "coordinates": [
+            14.4199322,
+            35.8904967
+        ]
+    },
+    {
+        "code": "MTMLA",
+        "name": "Valletta",
+        "city": "Valletta",
+        "coordinates": [
+            14.5,
+            35.88
+        ]
+    }
+]

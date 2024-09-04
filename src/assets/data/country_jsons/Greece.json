@@ -1,0 +1,71 @@
+[
+    {
+        "code": "GRAST",
+        "name": "Astakos",
+        "city": "Astak\u00f3s",
+        "coordinates": [
+            21.08,
+            38.53
+        ]
+    },
+    {
+        "code": "GREEU",
+        "name": "Eleusina",
+        "city": "Eleusina",
+        "coordinates": [
+            23.53,
+            38.03
+        ]
+    },
+    {
+        "code": "GRHER",
+        "name": "Heraklion (Iraklion)",
+        "city": "Heraklion (Iraklion)",
+        "coordinates": [
+            25.17,
+            35.33
+        ]
+    },
+    {
+        "code": "GRKAP",
+        "name": "Kapsalion (Kythira)",
+        "city": "Kapsalion (Kythira)",
+        "coordinates": null
+    },
+    {
+        "code": "GRPIR",
+        "name": "Piraeus",
+        "city": "Piraeus",
+        "coordinates": [
+            23.62,
+            37.93
+        ]
+    },
+    {
+        "code": "GRRHO",
+        "name": "Rhodes",
+        "city": "Rhodes",
+        "coordinates": [
+            28.2174829,
+            36.4349631
+        ]
+    },
+    {
+        "code": "GRSKG",
+        "name": "Thessaloniki",
+        "city": "Thessalon\u00edki",
+        "coordinates": [
+            22.95,
+            40.63
+        ]
+    },
+    {
+        "code": "GRVOL",
+        "name": "Volos",
+        "city": "V\u00f3los",
+        "coordinates": [
+            22.95,
+            39.37
+        ]
+    }
+]

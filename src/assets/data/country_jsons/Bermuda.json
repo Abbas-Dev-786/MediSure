@@ -1,0 +1,20 @@
+[
+    {
+        "code": "BMBDA",
+        "name": "Hamilton",
+        "city": "Hamilton",
+        "coordinates": [
+            -64.781375,
+            32.294816
+        ]
+    },
+    {
+        "code": "BMSOU",
+        "name": "Southampton",
+        "city": "Southampton",
+        "coordinates": [
+            -1.4043509,
+            50.90970040000001
+        ]
+    }
+]

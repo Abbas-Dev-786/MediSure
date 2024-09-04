@@ -1,0 +1,842 @@
+[
+    {
+        "code": "JPABU",
+        "name": "Aburatsu",
+        "city": "Aburatsu",
+        "coordinates": [
+            131.4041631,
+            31.5829755
+        ]
+    },
+    {
+        "code": "JPAOJ",
+        "name": "Aomori",
+        "city": "Aomori",
+        "coordinates": [
+            140.7473647,
+            40.822072
+        ]
+    },
+    {
+        "code": "JPAXT",
+        "name": "Akita",
+        "city": "Akita",
+        "coordinates": [
+            140.1025642,
+            39.7200079
+        ]
+    },
+    {
+        "code": "JPCHB",
+        "name": "Chiba",
+        "city": "Chiba",
+        "coordinates": [
+            140.1062907,
+            35.6072668
+        ]
+    },
+    {
+        "code": "JPFKY",
+        "name": "Fukuyama, Hiroshima",
+        "city": "Fukuyama, Hiroshima",
+        "coordinates": [
+            133.3623127,
+            34.4858993
+        ]
+    },
+    {
+        "code": "JPHHE",
+        "name": "Hachinohe",
+        "city": "Hachinohe",
+        "coordinates": [
+            141.4883986,
+            40.5122839
+        ]
+    },
+    {
+        "code": "JPHIB",
+        "name": "Hibi",
+        "city": "Hibi",
+        "coordinates": [
+            133.9221388,
+            34.4574823
+        ]
+    },
+    {
+        "code": "JPHIC",
+        "name": "Hitachinaka",
+        "city": "Hitachinaka",
+        "coordinates": [
+            140.5346762,
+            36.3966149
+        ]
+    },
+    {
+        "code": "JPHIJ",
+        "name": "Hiroshima",
+        "city": "Hiroshima",
+        "coordinates": [
+            132.4552927,
+            34.3852029
+        ]
+    },
+    {
+        "code": "JPHIM",
+        "name": "Himeji",
+        "city": "Himeji",
+        "coordinates": [
+            134.6853528,
+            34.815149
+        ]
+    },
+    {
+        "code": "JPHIS",
+        "name": "Hikoshima",
+        "city": "Hikoshima",
+        "coordinates": null
+    },
+    {
+        "code": "JPHKD",
+        "name": "Hakodate",
+        "city": "Hakodate",
+        "coordinates": [
+            140.7288103,
+            41.7687933
+        ]
+    },
+    {
+        "code": "JPHKT",
+        "name": "Hakata/Fukuoka",
+        "city": "Hakata/Fukuoka",
+        "coordinates": [
+            130.42,
+            33.6
+        ]
+    },
+    {
+        "code": "JPHMD",
+        "name": "Hamada",
+        "city": "Hamada",
+        "coordinates": [
+            132.0797833,
+            34.8993025
+        ]
+    },
+    {
+        "code": "JPHMM",
+        "name": "Hamamatsu",
+        "city": "Hamamatsu",
+        "coordinates": [
+            137.7261258,
+            34.7108344
+        ]
+    },
+    {
+        "code": "JPHSM",
+        "name": "Hososhima",
+        "city": "Hososhima",
+        "coordinates": [
+            131.6690227,
+            32.4275172
+        ]
+    },
+    {
+        "code": "JPHTC",
+        "name": "Hitachi",
+        "city": "Hitachi",
+        "coordinates": [
+            140.6514693,
+            36.5991539
+        ]
+    },
+    {
+        "code": "JPIHA",
+        "name": "Niihama",
+        "city": "Niihama",
+        "coordinates": [
+            133.2833512,
+            33.96028950000001
+        ]
+    },
+    {
+        "code": "JPIMB",
+        "name": "Imabari",
+        "city": "Imabari",
+        "coordinates": [
+            132.99786,
+            34.0660979
+        ]
+    },
+    {
+        "code": "JPIMI",
+        "name": "Imari",
+        "city": "Imari",
+        "coordinates": [
+            129.880269,
+            33.2645856
+        ]
+    },
+    {
+        "code": "JPISG",
+        "name": "Ishigaki",
+        "city": "Ishigaki",
+        "coordinates": [
+            124.15,
+            24.33
+        ]
+    },
+    {
+        "code": "JPISI",
+        "name": "Ishikari",
+        "city": "Ishikari",
+        "coordinates": [
+            141.3155196,
+            43.1713843
+        ]
+    },
+    {
+        "code": "JPISM",
+        "name": "Ishinomaki",
+        "city": "Ishinomaki",
+        "coordinates": [
+            141.3029167,
+            38.4344802
+        ]
+    },
+    {
+        "code": "JPISS",
+        "name": "Isa",
+        "city": "Isa",
+        "coordinates": [
+            130.6,
+            32.05
+        ]
+    },
+    {
+        "code": "JPIWK",
+        "name": "Iwakuni",
+        "city": "Iwakuni",
+        "coordinates": [
+            132.2188479,
+            34.1665616
+        ]
+    },
+    {
+        "code": "JPIYM",
+        "name": "Iyomishima",
+        "city": "Iyomishima",
+        "coordinates": [
+            132.7656808,
+            33.8416238
+        ]
+    },
+    {
+        "code": "JPKCZ",
+        "name": "Kochi",
+        "city": "Kochi",
+        "coordinates": [
+            133.5311675,
+            33.5588035
+        ]
+    },
+    {
+        "code": "JPKGA",
+        "name": "Kakogawa",
+        "city": "Kakogawa",
+        "coordinates": [
+            134.8411775,
+            34.7569503
+        ]
+    },
+    {
+        "code": "JPKIJ",
+        "name": "Niigata",
+        "city": "Niigata",
+        "coordinates": [
+            139.0364126,
+            37.9161924
+        ]
+    },
+    {
+        "code": "JPKMJ",
+        "name": "Kumamoto",
+        "city": "Kumamoto",
+        "coordinates": [
+            130.7078911,
+            32.8031004
+        ]
+    },
+    {
+        "code": "JPKND",
+        "name": "Kanda, Fukuoka",
+        "city": "Kanda, Fukuoka",
+        "coordinates": [
+            130.4017155,
+            33.5903547
+        ]
+    },
+    {
+        "code": "JPKNU",
+        "name": "Kinuura",
+        "city": "Kinuura",
+        "coordinates": [
+            136.9065647,
+            35.1801883
+        ]
+    },
+    {
+        "code": "JPKNZ",
+        "name": "Kanazawa",
+        "city": "Kanazawa",
+        "coordinates": [
+            136.6562051,
+            36.56132540000001
+        ]
+    },
+    {
+        "code": "JPKOJ",
+        "name": "Kagoshima",
+        "city": "Kagoshima",
+        "coordinates": [
+            130.5571158,
+            31.5965535
+        ]
+    },
+    {
+        "code": "JPKRE",
+        "name": "Kure, Hiroshima",
+        "city": "Kure, Hiroshima",
+        "coordinates": [
+            132.5658045,
+            34.2492541
+        ]
+    },
+    {
+        "code": "JPKSM",
+        "name": "Kashima, Ibaraki",
+        "city": "Kashima, Ibaraki",
+        "coordinates": [
+            140.6448128,
+            35.9657558
+        ]
+    },
+    {
+        "code": "JPKUH",
+        "name": "Kushiro",
+        "city": "Kushiro",
+        "coordinates": [
+            144.3813556,
+            42.9848542
+        ]
+    },
+    {
+        "code": "JPKWS",
+        "name": "Kawasaki",
+        "city": "Kawasaki",
+        "coordinates": [
+            139.7030511,
+            35.5309058
+        ]
+    },
+    {
+        "code": "JPKZU",
+        "name": "Kisarazu",
+        "city": "Kisarazu",
+        "coordinates": [
+            140.1062907,
+            35.6072668
+        ]
+    },
+    {
+        "code": "JPMAI",
+        "name": "Maizuru",
+        "city": "Maizuru",
+        "coordinates": [
+            135.7680294,
+            35.0116363
+        ]
+    },
+    {
+        "code": "JPMII",
+        "name": "Miike, Fukuoka",
+        "city": "Miike",
+        "coordinates": [
+            130.4801879,
+            33.04974670000001
+        ]
+    },
+    {
+        "code": "JPMOJ",
+        "name": "Moji/Kitakyushu",
+        "city": "Moji/Kitakyushu",
+        "coordinates": [
+            130.97,
+            33.9
+        ]
+    },
+    {
+        "code": "JPMTR",
+        "name": "Mutsure",
+        "city": "Mutsure",
+        "coordinates": null
+    },
+    {
+        "code": "JPMUR",
+        "name": "Muroran",
+        "city": "Muroran",
+        "coordinates": [
+            140.9737991,
+            42.3152306
+        ]
+    },
+    {
+        "code": "JPMYJ",
+        "name": "Matsuyama",
+        "city": "Matsuyama",
+        "coordinates": [
+            132.7655752,
+            33.8391574
+        ]
+    },
+    {
+        "code": "JPNAH",
+        "name": "Naha, Okinawa",
+        "city": "Naha, Okinawa",
+        "coordinates": [
+            127.6791568,
+            26.2123124
+        ]
+    },
+    {
+        "code": "JPNAN",
+        "name": "Nakanoseki",
+        "city": "Nakanoseki",
+        "coordinates": [
+            131.53,
+            34
+        ]
+    },
+    {
+        "code": "JPNAO",
+        "name": "Naoetsu",
+        "city": "Naoetsu",
+        "coordinates": [
+            138.2550381,
+            37.1858604
+        ]
+    },
+    {
+        "code": "JPNAS",
+        "name": "Naoshima",
+        "city": "Naoshima",
+        "coordinates": [
+            133.9956894,
+            34.4597032
+        ]
+    },
+    {
+        "code": "JPNGO",
+        "name": "Nagoya, Aichi",
+        "city": "Nagoya, Aichi",
+        "coordinates": [
+            136.906398,
+            35.1814464
+        ]
+    },
+    {
+        "code": "JPNGS",
+        "name": "Nagasaki",
+        "city": "Nagasaki",
+        "coordinates": [
+            129.877667,
+            32.7502856
+        ]
+    },
+    {
+        "code": "JPOIT",
+        "name": "Oita",
+        "city": "Oita",
+        "coordinates": [
+            131.609272,
+            33.2395578
+        ]
+    },
+    {
+        "code": "JPOKA",
+        "name": "Okinawa",
+        "city": "Okinawa",
+        "coordinates": [
+            127.8055832,
+            26.3344266
+        ]
+    },
+    {
+        "code": "JPOMZ",
+        "name": "Omaezaki",
+        "city": "Omaezaki",
+        "coordinates": [
+            138.1281269,
+            34.6379866
+        ]
+    },
+    {
+        "code": "JPONA",
+        "name": "Onahama",
+        "city": "Onahama",
+        "coordinates": [
+            140.9055861,
+            36.9490884
+        ]
+    },
+    {
+        "code": "JPONO",
+        "name": "Onomichi",
+        "city": "Onomichi",
+        "coordinates": [
+            133.2048886,
+            34.4088756
+        ]
+    },
+    {
+        "code": "JPOSA",
+        "name": "Osaka",
+        "city": "Osaka",
+        "coordinates": [
+            135.5,
+            34.67
+        ]
+    },
+    {
+        "code": "JPOTK",
+        "name": "Otake",
+        "city": "Otake",
+        "coordinates": [
+            132.2224752,
+            34.2379773
+        ]
+    },
+    {
+        "code": "JPSAG",
+        "name": "Saganoseki",
+        "city": "Saganoseki",
+        "coordinates": [
+            131.8755159,
+            33.2489479
+        ]
+    },
+    {
+        "code": "JPSBS",
+        "name": "Shibushi",
+        "city": "Shibushi",
+        "coordinates": [
+            131.045336,
+            31.495442
+        ]
+    },
+    {
+        "code": "JPSDJ",
+        "name": "Sendai, Miyagi",
+        "city": "Sendai, Miyagi",
+        "coordinates": [
+            140.92,
+            38.13
+        ]
+    },
+    {
+        "code": "JPSDS",
+        "name": "Sendaishinko",
+        "city": "Sendaishinko",
+        "coordinates": [
+            140.8721,
+            38.2688373
+        ]
+    },
+    {
+        "code": "JPSDU",
+        "name": "Sodegaura",
+        "city": "Sodegaura",
+        "coordinates": [
+            140.1062907,
+            35.6072668
+        ]
+    },
+    {
+        "code": "JPSEN",
+        "name": "Satsumasendai",
+        "city": "Satsumasendai",
+        "coordinates": [
+            130.25,
+            31.82
+        ]
+    },
+    {
+        "code": "JPSHS",
+        "name": "Shimonoseki",
+        "city": "Shimonoseki",
+        "coordinates": [
+            130.941459,
+            33.9578307
+        ]
+    },
+    {
+        "code": "JPSKD",
+        "name": "Sakaide",
+        "city": "Sakaide",
+        "coordinates": [
+            133.8605102,
+            34.3163193
+        ]
+    },
+    {
+        "code": "JPSKM",
+        "name": "Shikama",
+        "city": "Shikama",
+        "coordinates": [
+            135.1830706,
+            34.6912688
+        ]
+    },
+    {
+        "code": "JPSKT",
+        "name": "Sakata",
+        "city": "Sakata",
+        "coordinates": [
+            139.8365153,
+            38.9144331
+        ]
+    },
+    {
+        "code": "JPSMA",
+        "name": "Souma",
+        "city": "Souma",
+        "coordinates": [
+            140.9194697,
+            37.7966242
+        ]
+    },
+    {
+        "code": "JPSMN",
+        "name": "Sakaiminato",
+        "city": "Sakaiminato",
+        "coordinates": [
+            133.2314862,
+            35.5395916
+        ]
+    },
+    {
+        "code": "JPSMZ",
+        "name": "Shimizu",
+        "city": "Shimizu",
+        "coordinates": [
+            138.4895275,
+            35.0158879
+        ]
+    },
+    {
+        "code": "JPTAK",
+        "name": "Takamatsu",
+        "city": "Takamatsu",
+        "coordinates": [
+            134.046574,
+            34.3427879
+        ]
+    },
+    {
+        "code": "JPTBT",
+        "name": "Tobata/Kitakyushu",
+        "city": "Tobata/Kitakyushu",
+        "coordinates": [
+            130.83,
+            33.88
+        ]
+    },
+    {
+        "code": "JPTGO",
+        "name": "Tagonoura",
+        "city": "Tagonoura",
+        "coordinates": [
+            138.3827596,
+            34.975562
+        ]
+    },
+    {
+        "code": "JPTHS",
+        "name": "Toyohashi",
+        "city": "Toyohashi",
+        "coordinates": [
+            136.9065647,
+            35.1801883
+        ]
+    },
+    {
+        "code": "JPTKS",
+        "name": "Tokushima",
+        "city": "Tokushima",
+        "coordinates": [
+            134.5548438,
+            34.0702703
+        ]
+    },
+    {
+        "code": "JPTKY",
+        "name": "Tokuyama",
+        "city": "Tokuyama",
+        "coordinates": [
+            131.8144403,
+            34.0647516
+        ]
+    },
+    {
+        "code": "JPTMI",
+        "name": "Tsukumi",
+        "city": "Tsukumi",
+        "coordinates": [
+            131.8612771,
+            33.0721832
+        ]
+    },
+    {
+        "code": "JPTMK",
+        "name": "Tomakomai",
+        "city": "Tomakomai",
+        "coordinates": [
+            141.6053721,
+            42.6343021
+        ]
+    },
+    {
+        "code": "JPTND",
+        "name": "Tonda",
+        "city": "Tonda",
+        "coordinates": [
+            131.7600531,
+            34.0748851
+        ]
+    },
+    {
+        "code": "JPTOK",
+        "name": "Tokachi",
+        "city": "Tokachi",
+        "coordinates": [
+            143.691,
+            42.915
+        ]
+    },
+    {
+        "code": "JPTOS",
+        "name": "Toyamashinko",
+        "city": "Toyamashinko",
+        "coordinates": [
+            137.2136768,
+            36.6959518
+        ]
+    },
+    {
+        "code": "JPTOY",
+        "name": "Toyama",
+        "city": "Toyama",
+        "coordinates": [
+            137.2136768,
+            36.6959518
+        ]
+    },
+    {
+        "code": "JPTRG",
+        "name": "Tsuruga",
+        "city": "Tsuruga",
+        "coordinates": [
+            136.0554408,
+            35.6452443
+        ]
+    },
+    {
+        "code": "JPTYO",
+        "name": "Tokyo",
+        "city": "Tokyo",
+        "coordinates": [
+            139.75,
+            35.68
+        ]
+    },
+    {
+        "code": "JPUBJ",
+        "name": "Ube",
+        "city": "Ube",
+        "coordinates": [
+            131.2467858,
+            33.9515087
+        ]
+    },
+    {
+        "code": "JPUKB",
+        "name": "Kobe",
+        "city": "Kobe",
+        "coordinates": [
+            135.17,
+            34.68
+        ]
+    },
+    {
+        "code": "JPUNT",
+        "name": "Unten",
+        "city": "Unten",
+        "coordinates": [
+            128.0033058,
+            26.681767
+        ]
+    },
+    {
+        "code": "JPWAK",
+        "name": "Wakayama",
+        "city": "Wakayama",
+        "coordinates": [
+            135.1708083,
+            34.2305113
+        ]
+    },
+    {
+        "code": "JPYAT",
+        "name": "Yatsushiro",
+        "city": "Yatsushiro",
+        "coordinates": [
+            130.6017433,
+            32.5074371
+        ]
+    },
+    {
+        "code": "JPYKK",
+        "name": "Yokkaichi",
+        "city": "Yokkaichi",
+        "coordinates": [
+            136.6244847,
+            34.9651567
+        ]
+    },
+    {
+        "code": "JPYOK",
+        "name": "Yokohama",
+        "city": "Yokohama",
+        "coordinates": [
+            139.65,
+            35.45
+        ]
+    },
+    {
+        "code": "JPYOS",
+        "name": "Yokosuka",
+        "city": "Yokosuka",
+        "coordinates": [
+            139.67,
+            35.28
+        ]
+    },
+    {
+        "code": "JPYWT",
+        "name": "Yawata/Kitakyushu",
+        "city": "Yawata/Kitakyushu",
+        "coordinates": [
+            130.8,
+            33.85
+        ]
+    }
+]

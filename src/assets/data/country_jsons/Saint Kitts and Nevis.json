@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KNBAS",
+        "name": "Basseterre, Saint Kitts",
+        "city": "Basseterre, Saint Kitts",
+        "coordinates": [
+            -62.7176924,
+            17.3026058
+        ]
+    },
+    {
+        "code": "KNNEV",
+        "name": "Nevis",
+        "city": "Nevis",
+        "coordinates": [
+            -62.58,
+            17.15
+        ]
+    }
+]

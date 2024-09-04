@@ -1,0 +1,65 @@
+[
+    {
+        "code": "DZAAE",
+        "name": "Annaba (ex Bone)",
+        "city": "Annaba (ex Bone)",
+        "coordinates": [
+            36.9178674,
+            7.6740654
+        ]
+    },
+    {
+        "code": "DZALG",
+        "name": "Alger (Algiers)",
+        "city": "Alger (Algiers)",
+        "coordinates": [
+            3.05,
+            36.75
+        ]
+    },
+    {
+        "code": "DZBJA",
+        "name": "Bejaia (ex Bougie)",
+        "city": "Bejaia (ex Bougie)",
+        "coordinates": [
+            5.056733299999999,
+            36.7508896
+        ]
+    },
+    {
+        "code": "DZGHA",
+        "name": "Ghardaia",
+        "city": "Gharda\u00efa",
+        "coordinates": [
+            3.67,
+            32.48
+        ]
+    },
+    {
+        "code": "DZMOS",
+        "name": "Mostaganem",
+        "city": "Mostaganem",
+        "coordinates": [
+            0.1401381,
+            36.01312350000001
+        ]
+    },
+    {
+        "code": "DZORN",
+        "name": "Oran",
+        "city": "Oran",
+        "coordinates": [
+            -0.6337376,
+            35.6976541
+        ]
+    },
+    {
+        "code": "DZSKI",
+        "name": "Skikda (ex Philippeville)",
+        "city": "Skikda (ex Philippeville)",
+        "coordinates": [
+            6.910181,
+            36.87152
+        ]
+    }
+]

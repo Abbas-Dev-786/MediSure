@@ -1,0 +1,191 @@
+[
+    {
+        "code": "MYBKI",
+        "name": "Kota Kinabalu, Sabah",
+        "city": "Kota Kinabalu, Sabah",
+        "coordinates": [
+            116.0734568,
+            5.980408
+        ]
+    },
+    {
+        "code": "MYBTU",
+        "name": "Bintulu, Sarawak",
+        "city": "Bintulu, Sarawak",
+        "coordinates": [
+            113.0419069,
+            3.171322
+        ]
+    },
+    {
+        "code": "MYBWH",
+        "name": "Bagan Luar (Butterworth)",
+        "city": "Bagan Luar (Butterworth)",
+        "coordinates": [
+            100.370839,
+            5.410509999999999
+        ]
+    },
+    {
+        "code": "MYJHB",
+        "name": "Johor Bahru",
+        "city": "Johor Bahru",
+        "coordinates": [
+            103.7413591,
+            1.492659
+        ]
+    },
+    {
+        "code": "MYKCH",
+        "name": "Kuching, Sarawak",
+        "city": "Kuching, Sarawak",
+        "coordinates": [
+            110.3785438,
+            1.6076812
+        ]
+    },
+    {
+        "code": "MYKUA",
+        "name": "Kuantan (Tanjong Gelang)",
+        "city": "Kuantan (Tanjong Gelang)",
+        "coordinates": [
+            103.43,
+            3.9608333
+        ]
+    },
+    {
+        "code": "MYLBU",
+        "name": "Labuan, Sabah",
+        "city": "Labuan, Sabah",
+        "coordinates": [
+            115.230825,
+            5.2831456
+        ]
+    },
+    {
+        "code": "MYMEP",
+        "name": "Mersing",
+        "city": "Mersing",
+        "coordinates": [
+            103.8361151,
+            2.430917
+        ]
+    },
+    {
+        "code": "MYMKZ",
+        "name": "Malacca",
+        "city": "Malacca",
+        "coordinates": [
+            102.2500868,
+            2.189594
+        ]
+    },
+    {
+        "code": "MYMUA",
+        "name": "Muar",
+        "city": "Muar",
+        "coordinates": [
+            102.5848717,
+            2.0630519
+        ]
+    },
+    {
+        "code": "MYMYY",
+        "name": "Miri, Sarawak",
+        "city": "Miri, Sarawak",
+        "coordinates": [
+            113.9913832,
+            4.399493
+        ]
+    },
+    {
+        "code": "MYPEN",
+        "name": "Penang (Georgetown)",
+        "city": "Penang (Georgetown)",
+        "coordinates": [
+            100.3233734,
+            5.4163033
+        ]
+    },
+    {
+        "code": "MYPGU",
+        "name": "Pasir Gudang, Johor",
+        "city": "Pasir Gudang, Johor",
+        "coordinates": [
+            103.9029689,
+            1.470288
+        ]
+    },
+    {
+        "code": "MYPKG",
+        "name": "Port Klang (Pelabuhan Klang)",
+        "city": "Port Klang (Pelabuhan Klang)",
+        "coordinates": [
+            101.4,
+            3
+        ]
+    },
+    {
+        "code": "MYSBW",
+        "name": "Sibu, Sarawak",
+        "city": "Sibu, Sarawak",
+        "coordinates": [
+            111.830535,
+            2.287284
+        ]
+    },
+    {
+        "code": "MYSDK",
+        "name": "Sandakan, Sabah",
+        "city": "Sandakan, Sabah",
+        "coordinates": [
+            118.1171729,
+            5.839443999999999
+        ]
+    },
+    {
+        "code": "MYTBA",
+        "name": "Tanjong Baran",
+        "city": "Tanjong Baran",
+        "coordinates": [
+            113.9769444,
+            4.593333299999999
+        ]
+    },
+    {
+        "code": "MYTGG",
+        "name": "Kuala Terengganu",
+        "city": "Kuala Terengganu",
+        "coordinates": [
+            103.1370142,
+            5.329624
+        ]
+    },
+    {
+        "code": "MYTPP",
+        "name": "Tanjung Pelepas",
+        "city": "Tanjung Pelepas",
+        "coordinates": [
+            103.55,
+            1.37
+        ]
+    },
+    {
+        "code": "MYTWU",
+        "name": "Tawau, Sabah",
+        "city": "Tawau, Sabah",
+        "coordinates": [
+            117.8911861,
+            4.244651
+        ]
+    },
+    {
+        "code": "MYWSP",
+        "name": "Westport/Port Klang",
+        "city": "Westport/Port Klang",
+        "coordinates": [
+            101.3,
+            2.95
+        ]
+    }
+]

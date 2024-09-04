@@ -1,0 +1,65 @@
+[
+    {
+        "code": "EGAIS",
+        "name": "Ain Sukhna",
+        "city": "Ain Sukhna",
+        "coordinates": [
+            32.3300171,
+            29.6325617
+        ]
+    },
+    {
+        "code": "EGALY",
+        "name": "El Iskandariya (Alexandria)",
+        "city": "El Iskandariya (Alexandria)",
+        "coordinates": [
+            30.0625938,
+            31.3091118
+        ]
+    },
+    {
+        "code": "EGDAM",
+        "name": "Dumyat (Damietta)",
+        "city": "Dumyat (Damietta)",
+        "coordinates": [
+            31.82,
+            31.42
+        ]
+    },
+    {
+        "code": "EGEDK",
+        "name": "El Dekheila",
+        "city": "El Dekheila",
+        "coordinates": [
+            30.7716308,
+            30.7051537
+        ]
+    },
+    {
+        "code": "EGPSD",
+        "name": "Port Said",
+        "city": "Port Said",
+        "coordinates": [
+            32.3018661,
+            31.2652893
+        ]
+    },
+    {
+        "code": "EGSOK",
+        "name": "Sokhna Port",
+        "city": "Sokhna",
+        "coordinates": [
+            32.35,
+            29.65
+        ]
+    },
+    {
+        "code": "EGSUZ",
+        "name": "As Suways (Suez)",
+        "city": "As Suways (Suez)",
+        "coordinates": [
+            32.52,
+            29.97
+        ]
+    }
+]

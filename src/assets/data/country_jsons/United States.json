@@ -1,0 +1,1244 @@
+[
+    {
+        "code": "USADQ",
+        "name": "Kodiak",
+        "city": "Kodiak",
+        "coordinates": [
+            -152.4072222,
+            57.79000000000001
+        ]
+    },
+    {
+        "code": "USANC",
+        "name": "Anchorage",
+        "city": "Anchorage",
+        "coordinates": [
+            -149.9002778,
+            61.2180556
+        ]
+    },
+    {
+        "code": "USANP",
+        "name": "Annapolis",
+        "city": "Annapolis",
+        "coordinates": [
+            -76.4921829,
+            38.9784453
+        ]
+    },
+    {
+        "code": "USAR5",
+        "name": "Damascus",
+        "city": "Damascus",
+        "coordinates": [
+            -92.4096005,
+            35.367302
+        ]
+    },
+    {
+        "code": "USATL",
+        "name": "Atlanta",
+        "city": "Atlanta",
+        "coordinates": [
+            -84.3879824,
+            33.7489954
+        ]
+    },
+    {
+        "code": "USBAL",
+        "name": "Baltimore",
+        "city": "Baltimore",
+        "coordinates": [
+            -76.62,
+            39.28
+        ]
+    },
+    {
+        "code": "USBCC",
+        "name": "Bear Creek",
+        "city": "Bear Creek",
+        "coordinates": [
+            -149.395,
+            60.1641667
+        ]
+    },
+    {
+        "code": "USBHM",
+        "name": "Birmingham",
+        "city": "Birmingham",
+        "coordinates": null
+    },
+    {
+        "code": "USBNA",
+        "name": "Nashville",
+        "city": "Nashville",
+        "coordinates": [
+            -86.7816016,
+            36.1626638
+        ]
+    },
+    {
+        "code": "USBOS",
+        "name": "Boston",
+        "city": "Boston",
+        "coordinates": [
+            -71.0588801,
+            42.3600825
+        ]
+    },
+    {
+        "code": "USBPT",
+        "name": "Beaumont",
+        "city": "Beaumont",
+        "coordinates": [
+            -94.1265562,
+            30.080174
+        ]
+    },
+    {
+        "code": "USBRO",
+        "name": "Brownsville",
+        "city": "Brownsville",
+        "coordinates": [
+            -97.48,
+            25.9
+        ]
+    },
+    {
+        "code": "USBUF",
+        "name": "Buffalo",
+        "city": "Buffalo",
+        "coordinates": [
+            -78.8783689,
+            42.88644679999999
+        ]
+    },
+    {
+        "code": "USCBF",
+        "name": "Council Bluffs",
+        "city": "Council Bluffs",
+        "coordinates": null
+    },
+    {
+        "code": "USCHA",
+        "name": "Chattanooga",
+        "city": "Chattanooga",
+        "coordinates": [
+            -85.3,
+            35.03
+        ]
+    },
+    {
+        "code": "USCHI",
+        "name": "Chicago",
+        "city": "Chicago",
+        "coordinates": [
+            -87.6297982,
+            41.8781136
+        ]
+    },
+    {
+        "code": "USCHS",
+        "name": "Charleston",
+        "city": "Charleston",
+        "coordinates": [
+            -79.93105120000001,
+            32.7764749
+        ]
+    },
+    {
+        "code": "USCLE",
+        "name": "Cleveland",
+        "city": "Cleveland",
+        "coordinates": [
+            -81.67,
+            41.5
+        ]
+    },
+    {
+        "code": "USCLM",
+        "name": "Port Angeles",
+        "city": "Port Angeles",
+        "coordinates": [
+            -123.4307413,
+            48.118146
+        ]
+    },
+    {
+        "code": "USCLT",
+        "name": "Charlotte",
+        "city": "Charlotte",
+        "coordinates": [
+            -80.8431267,
+            35.2270869
+        ]
+    },
+    {
+        "code": "USCMH",
+        "name": "Columbus",
+        "city": "Columbus",
+        "coordinates": [
+            -82.99879419999999,
+            39.9611755
+        ]
+    },
+    {
+        "code": "USCPF",
+        "name": "Chippewa Falls",
+        "city": "Chippewa Falls",
+        "coordinates": null
+    },
+    {
+        "code": "USCPV",
+        "name": "Cape Canaveral",
+        "city": "Cape Canaveral",
+        "coordinates": [
+            -80.60771319999999,
+            28.3922182
+        ]
+    },
+    {
+        "code": "USCRP",
+        "name": "Corpus Christi",
+        "city": "Corpus Christi",
+        "coordinates": [
+            -97.39638099999999,
+            27.8005828
+        ]
+    },
+    {
+        "code": "USCVG",
+        "name": "Cincinnati",
+        "city": "Cincinnati",
+        "coordinates": [
+            -84.5120196,
+            39.1031182
+        ]
+    },
+    {
+        "code": "USCZF",
+        "name": "Cape Romanzof",
+        "city": "Cape Romanzof",
+        "coordinates": [
+            -166.0977778,
+            61.8122222
+        ]
+    },
+    {
+        "code": "USDA8",
+        "name": "Dauphin",
+        "city": "Dauphin",
+        "coordinates": [
+            -76.9310859,
+            40.3673093
+        ]
+    },
+    {
+        "code": "USDAL",
+        "name": "Dallas",
+        "city": "Dallas",
+        "coordinates": [
+            -96.79698789999999,
+            32.7766642
+        ]
+    },
+    {
+        "code": "USDEC",
+        "name": "Decatur",
+        "city": "Decatur",
+        "coordinates": [
+            -88.9548001,
+            39.8403147
+        ]
+    },
+    {
+        "code": "USDEN",
+        "name": "Denver",
+        "city": "Denver",
+        "coordinates": [
+            -104.990251,
+            39.7392358
+        ]
+    },
+    {
+        "code": "USDET",
+        "name": "Detroit",
+        "city": "Detroit",
+        "coordinates": [
+            -83.03,
+            42.32
+        ]
+    },
+    {
+        "code": "USDNN",
+        "name": "Dalton",
+        "city": "Dalton",
+        "coordinates": [
+            -84.9702228,
+            34.7698021
+        ]
+    },
+    {
+        "code": "USDSM",
+        "name": "Des Moines",
+        "city": "Des Moines",
+        "coordinates": [
+            -93.6091064,
+            41.6005448
+        ]
+    },
+    {
+        "code": "USDUT",
+        "name": "Dutch Harbor",
+        "city": "Dutch Harbor",
+        "coordinates": [
+            -166.5422,
+            53.88980000000001
+        ]
+    },
+    {
+        "code": "USELP",
+        "name": "El Paso",
+        "city": "El Paso",
+        "coordinates": [
+            -106.48,
+            31.75
+        ]
+    },
+    {
+        "code": "USENA",
+        "name": "Kenai",
+        "city": "Kenai",
+        "coordinates": [
+            -151.2583333,
+            60.55444439999999
+        ]
+    },
+    {
+        "code": "USEWR",
+        "name": "Newark",
+        "city": "Newark",
+        "coordinates": [
+            -74.17,
+            40.73
+        ]
+    },
+    {
+        "code": "USFEB",
+        "name": "Fernandina Beach",
+        "city": "Fernandina Beach",
+        "coordinates": [
+            -81.45,
+            30.67
+        ]
+    },
+    {
+        "code": "USFLL",
+        "name": "Fort Lauderdale",
+        "city": "Fort Lauderdale",
+        "coordinates": [
+            -80.13,
+            26.12
+        ]
+    },
+    {
+        "code": "USFPO",
+        "name": "Freeport",
+        "city": "Freeport",
+        "coordinates": [
+            -95.35966169999999,
+            28.9541368
+        ]
+    },
+    {
+        "code": "USFRP",
+        "name": "Fresh Water Bay",
+        "city": "Fresh Water Bay",
+        "coordinates": [
+            -135.0160367,
+            57.87419879999999
+        ]
+    },
+    {
+        "code": "USFWT",
+        "name": "Fort Worth",
+        "city": "Fort Worth",
+        "coordinates": [
+            -97.3307658,
+            32.7554883
+        ]
+    },
+    {
+        "code": "USGBO",
+        "name": "Greensboro",
+        "city": "Greensboro",
+        "coordinates": null
+    },
+    {
+        "code": "USGLS",
+        "name": "Galveston",
+        "city": "Galveston",
+        "coordinates": [
+            -94.7976958,
+            29.3013479
+        ]
+    },
+    {
+        "code": "USGPT",
+        "name": "Gulfport",
+        "city": "Gulfport",
+        "coordinates": [
+            -89.0928155,
+            30.3674198
+        ]
+    },
+    {
+        "code": "USGSP",
+        "name": "Greer",
+        "city": "Greer",
+        "coordinates": null
+    },
+    {
+        "code": "USHNL",
+        "name": "Honolulu",
+        "city": "Honolulu",
+        "coordinates": [
+            -157.85,
+            21.3
+        ]
+    },
+    {
+        "code": "USHOU",
+        "name": "Houston",
+        "city": "Houston",
+        "coordinates": [
+            -95.35,
+            29.75
+        ]
+    },
+    {
+        "code": "USHSV",
+        "name": "Huntsville",
+        "city": "Huntsville",
+        "coordinates": [
+            -86.5861037,
+            34.7303688
+        ]
+    },
+    {
+        "code": "USILM",
+        "name": "Wilmington",
+        "city": "Wilmington",
+        "coordinates": [
+            -77.93,
+            34.22
+        ]
+    },
+    {
+        "code": "USIND",
+        "name": "Indianapolis",
+        "city": "Indianapolis",
+        "coordinates": [
+            -86.15,
+            39.77
+        ]
+    },
+    {
+        "code": "USJ3C",
+        "name": "Jacksonville",
+        "city": "Jacksonville",
+        "coordinates": [
+            -122.9669865,
+            42.31345839999999
+        ]
+    },
+    {
+        "code": "USJAX",
+        "name": "Jacksonville",
+        "city": "Jacksonville",
+        "coordinates": [
+            -81.65565099999999,
+            30.3321838
+        ]
+    },
+    {
+        "code": "USJOT",
+        "name": "Joliet",
+        "city": "Joliet",
+        "coordinates": null
+    },
+    {
+        "code": "USKCK",
+        "name": "Kansas City",
+        "city": "Kansas City",
+        "coordinates": [
+            -94.6274636,
+            39.114053
+        ]
+    },
+    {
+        "code": "USLAS",
+        "name": "Las Vegas",
+        "city": "Las Vegas",
+        "coordinates": [
+            -115.15,
+            36.07
+        ]
+    },
+    {
+        "code": "USLAT",
+        "name": "Los Alamitos",
+        "city": "Los Alamitos",
+        "coordinates": [
+            -118.0725641,
+            33.8030716
+        ]
+    },
+    {
+        "code": "USLAX",
+        "name": "Los Angeles",
+        "city": "Los Angeles",
+        "coordinates": [
+            -118.2436849,
+            34.0522342
+        ]
+    },
+    {
+        "code": "USLCH",
+        "name": "Lake Charles",
+        "city": "Lake Charles",
+        "coordinates": [
+            -93.2173758,
+            30.2265949
+        ]
+    },
+    {
+        "code": "USLGB",
+        "name": "Long Beach",
+        "city": "Long Beach",
+        "coordinates": [
+            -118.18,
+            33.77
+        ]
+    },
+    {
+        "code": "USLRD",
+        "name": "Laredo",
+        "city": "Laredo",
+        "coordinates": [
+            -99.48,
+            27.5
+        ]
+    },
+    {
+        "code": "USLUI",
+        "name": "Louisville",
+        "city": "Louisville",
+        "coordinates": [
+            -85.77,
+            38.23
+        ]
+    },
+    {
+        "code": "USMEM",
+        "name": "Memphis",
+        "city": "Memphis",
+        "coordinates": [
+            -90.0489801,
+            35.1495343
+        ]
+    },
+    {
+        "code": "USMES",
+        "name": "Minneapolis",
+        "city": "Minneapolis",
+        "coordinates": [
+            -93.2650108,
+            44.977753
+        ]
+    },
+    {
+        "code": "USMIA",
+        "name": "Miami",
+        "city": "Miami",
+        "coordinates": [
+            -80.1917902,
+            25.7616798
+        ]
+    },
+    {
+        "code": "USMKC",
+        "name": "Kansas City",
+        "city": "Kansas City",
+        "coordinates": [
+            -94.57,
+            39.1
+        ]
+    },
+    {
+        "code": "USMKE",
+        "name": "Milwaukee",
+        "city": "Milwaukee",
+        "coordinates": [
+            -87.9064736,
+            43.0389025
+        ]
+    },
+    {
+        "code": "USMOB",
+        "name": "Mobile",
+        "city": "Mobile",
+        "coordinates": [
+            -88.0398912,
+            30.6953657
+        ]
+    },
+    {
+        "code": "USMRH",
+        "name": "Morehead City",
+        "city": "Morehead City",
+        "coordinates": [
+            -76.7260436,
+            34.7229391
+        ]
+    },
+    {
+        "code": "USMSP",
+        "name": "Minneapolis/St Paul Apt",
+        "city": "Minneapolis/St Paul Apt",
+        "coordinates": [
+            -93.2,
+            44.88
+        ]
+    },
+    {
+        "code": "USMSY",
+        "name": "New Orleans",
+        "city": "New Orleans",
+        "coordinates": [
+            -90.0715323,
+            29.95106579999999
+        ]
+    },
+    {
+        "code": "USNNS",
+        "name": "Newport News",
+        "city": "Newport News",
+        "coordinates": [
+            -76.42,
+            36.97
+        ]
+    },
+    {
+        "code": "USNTD",
+        "name": "Port Hueneme",
+        "city": "Port Hueneme",
+        "coordinates": [
+            -119.18,
+            34.13
+        ]
+    },
+    {
+        "code": "USNTS",
+        "name": "North Charleston",
+        "city": "North Charleston",
+        "coordinates": [
+            -79.9748103,
+            32.8546197
+        ]
+    },
+    {
+        "code": "USNYC",
+        "name": "New York",
+        "city": "New York",
+        "coordinates": [
+            -74,
+            40.7
+        ]
+    },
+    {
+        "code": "USOAK",
+        "name": "Oakland",
+        "city": "Oakland",
+        "coordinates": [
+            -122.2711137,
+            37.8043637
+        ]
+    },
+    {
+        "code": "USOCN",
+        "name": "Oceanside",
+        "city": "Oceanside",
+        "coordinates": [
+            -117.3794834,
+            33.1958696
+        ]
+    },
+    {
+        "code": "USOCW",
+        "name": "Washington",
+        "city": "Washington",
+        "coordinates": [
+            -77.0521742,
+            35.54655169999999
+        ]
+    },
+    {
+        "code": "USOLM",
+        "name": "Olympia",
+        "city": "Olympia",
+        "coordinates": [
+            -122.9006951,
+            47.0378741
+        ]
+    },
+    {
+        "code": "USOMA",
+        "name": "Omaha",
+        "city": "Omaha",
+        "coordinates": [
+            -95.99798829999999,
+            41.2523634
+        ]
+    },
+    {
+        "code": "USORF",
+        "name": "Norfolk",
+        "city": "Norfolk",
+        "coordinates": [
+            -76.28587259999999,
+            36.8507689
+        ]
+    },
+    {
+        "code": "USORL",
+        "name": "Orlando",
+        "city": "Orlando",
+        "coordinates": [
+            -81.37,
+            28.53
+        ]
+    },
+    {
+        "code": "USOYM",
+        "name": "Otay Mesa",
+        "city": "Otay Mesa",
+        "coordinates": [
+            -117.02,
+            32.57
+        ]
+    },
+    {
+        "code": "USPAB",
+        "name": "Palm Beach",
+        "city": "Palm Beach",
+        "coordinates": [
+            -80.0364297,
+            26.7056206
+        ]
+    },
+    {
+        "code": "USPCA",
+        "name": "Portage Creek",
+        "city": "Portage Creek",
+        "coordinates": [
+            -157.7175,
+            58.9061111
+        ]
+    },
+    {
+        "code": "USPCV",
+        "name": "Port Canaveral",
+        "city": "Brevard County",
+        "coordinates": [
+            -80.36,
+            28.24
+        ]
+    },
+    {
+        "code": "USPDX",
+        "name": "Portland",
+        "city": "Portland",
+        "coordinates": [
+            -122.6764816,
+            45.5230622
+        ]
+    },
+    {
+        "code": "USPEB",
+        "name": "Port Elizabeth",
+        "city": "Port Elizabeth",
+        "coordinates": [
+            -74.97,
+            39.3
+        ]
+    },
+    {
+        "code": "USPEF",
+        "name": "Port Everglades",
+        "city": "Port Everglades",
+        "coordinates": [
+            -80.13,
+            26.1
+        ]
+    },
+    {
+        "code": "USPFN",
+        "name": "Panama City",
+        "city": "Panama City",
+        "coordinates": [
+            -85.6602058,
+            30.1588129
+        ]
+    },
+    {
+        "code": "USPGL",
+        "name": "Pascagoula",
+        "city": "Pascagoula",
+        "coordinates": [
+            -88.5561272,
+            30.3657552
+        ]
+    },
+    {
+        "code": "USPHF",
+        "name": "Hampton-Williamsburg-Newport News Apt",
+        "city": "Hampton-Williamsburg-Newport News Apt",
+        "coordinates": [
+            -76.48,
+            37.12
+        ]
+    },
+    {
+        "code": "USPHL",
+        "name": "Philadelphia",
+        "city": "Philadelphia",
+        "coordinates": [
+            -75.1652215,
+            39.9525839
+        ]
+    },
+    {
+        "code": "USPHX",
+        "name": "Phoenix",
+        "city": "Phoenix",
+        "coordinates": [
+            -112.0740373,
+            33.4483771
+        ]
+    },
+    {
+        "code": "USPIA",
+        "name": "Peoria",
+        "city": "Peoria",
+        "coordinates": [
+            -89.5889864,
+            40.6936488
+        ]
+    },
+    {
+        "code": "USPIT",
+        "name": "Pittsburgh",
+        "city": "Pittsburgh",
+        "coordinates": [
+            -79.9958864,
+            40.44062479999999
+        ]
+    },
+    {
+        "code": "USPME",
+        "name": "Port Manatee",
+        "city": "Port Manatee",
+        "coordinates": [
+            -82.55,
+            27.63
+        ]
+    },
+    {
+        "code": "USPNS",
+        "name": "Pensacola",
+        "city": "Pensacola",
+        "coordinates": [
+            -87.2169149,
+            30.42130899999999
+        ]
+    },
+    {
+        "code": "USPOA",
+        "name": "Port Arthur",
+        "city": "Port Arthur",
+        "coordinates": [
+            -93.92,
+            29.88
+        ]
+    },
+    {
+        "code": "USPPS",
+        "name": "Pennsauken",
+        "city": "Pennsauken",
+        "coordinates": [
+            -75.05,
+            39.95
+        ]
+    },
+    {
+        "code": "USPS6",
+        "name": "Pearson",
+        "city": "Pearson",
+        "coordinates": [
+            -89.0165019,
+            45.3641312
+        ]
+    },
+    {
+        "code": "USPTM",
+        "name": "Portsmouth",
+        "city": "Portsmouth",
+        "coordinates": [
+            -76.2982742,
+            36.8354258
+        ]
+    },
+    {
+        "code": "USPVD",
+        "name": "Providence",
+        "city": "Providence",
+        "coordinates": [
+            -71.4128343,
+            41.8239891
+        ]
+    },
+    {
+        "code": "USPWM",
+        "name": "Portland",
+        "city": "Portland",
+        "coordinates": [
+            -70.2553259,
+            43.66147100000001
+        ]
+    },
+    {
+        "code": "USPWN",
+        "name": "Port Wentworth",
+        "city": "Port Wentworth",
+        "coordinates": [
+            -81.163168,
+            32.149092
+        ]
+    },
+    {
+        "code": "USPYM",
+        "name": "Plymouth",
+        "city": "Plymouth",
+        "coordinates": [
+            -70.6672621,
+            41.9584457
+        ]
+    },
+    {
+        "code": "USRAJ",
+        "name": "Rotterdam",
+        "city": "Rotterdam",
+        "coordinates": [
+            -73.97095829999999,
+            42.78702089999999
+        ]
+    },
+    {
+        "code": "USRBC",
+        "name": "Riviera Beach",
+        "city": "Riviera Beach",
+        "coordinates": [
+            -80.0580969,
+            26.7753405
+        ]
+    },
+    {
+        "code": "USRIC",
+        "name": "Richmond",
+        "city": "Richmond",
+        "coordinates": [
+            -77.45,
+            37.55
+        ]
+    },
+    {
+        "code": "USRNO",
+        "name": "Reno",
+        "city": "Reno",
+        "coordinates": null
+    },
+    {
+        "code": "USSAC",
+        "name": "Sacramento",
+        "city": "Sacramento",
+        "coordinates": [
+            -121.48,
+            38.57
+        ]
+    },
+    {
+        "code": "USSAN",
+        "name": "San Diego",
+        "city": "San Diego",
+        "coordinates": [
+            -117.15,
+            32.7
+        ]
+    },
+    {
+        "code": "USSAT",
+        "name": "San Antonio",
+        "city": "San Antonio",
+        "coordinates": null
+    },
+    {
+        "code": "USSAV",
+        "name": "Savannah",
+        "city": "Savannah",
+        "coordinates": [
+            -81.09983419999999,
+            32.0835407
+        ]
+    },
+    {
+        "code": "USSCK",
+        "name": "Stockton",
+        "city": "Stockton",
+        "coordinates": [
+            -121.28,
+            37.95
+        ]
+    },
+    {
+        "code": "USSEA",
+        "name": "Seattle",
+        "city": "Seattle",
+        "coordinates": [
+            -122.3320708,
+            47.6062095
+        ]
+    },
+    {
+        "code": "USSFO",
+        "name": "San Francisco",
+        "city": "San Francisco",
+        "coordinates": [
+            -122.4194155,
+            37.7749295
+        ]
+    },
+    {
+        "code": "USSLC",
+        "name": "Salt Lake City",
+        "city": "Salt Lake City",
+        "coordinates": [
+            -111.8910474,
+            40.7607793
+        ]
+    },
+    {
+        "code": "USSPT",
+        "name": "South Saint Paul",
+        "city": "South Saint Paul",
+        "coordinates": [
+            -93.05,
+            44.88
+        ]
+    },
+    {
+        "code": "USSSI",
+        "name": "Brunswick",
+        "city": "Brunswick",
+        "coordinates": [
+            -81.49148939999999,
+            31.1499528
+        ]
+    },
+    {
+        "code": "USSTL",
+        "name": "Saint Louis",
+        "city": "Saint Louis",
+        "coordinates": [
+            -90.19940419999999,
+            38.6270025
+        ]
+    },
+    {
+        "code": "USSTP",
+        "name": "Saint Paul",
+        "city": "Saint Paul",
+        "coordinates": [
+            -93.0899578,
+            44.9537029
+        ]
+    },
+    {
+        "code": "USSUE",
+        "name": "Sturgeon Bay",
+        "city": "Sturgeon Bay",
+        "coordinates": [
+            -87.3770419,
+            44.8341639
+        ]
+    },
+    {
+        "code": "USSUW",
+        "name": "Superior",
+        "city": "Superior",
+        "coordinates": [
+            -92.10407959999999,
+            46.7207737
+        ]
+    },
+    {
+        "code": "USSWF",
+        "name": "Newburgh",
+        "city": "Newburgh",
+        "coordinates": [
+            -74.0104178,
+            41.5034271
+        ]
+    },
+    {
+        "code": "USSXT",
+        "name": "Santa Teresa",
+        "city": "Santa Teresa",
+        "coordinates": null
+    },
+    {
+        "code": "USSXZ",
+        "name": "Swartz Creek",
+        "city": "Swartz Creek",
+        "coordinates": [
+            -83.82,
+            42.95
+        ]
+    },
+    {
+        "code": "USTIW",
+        "name": "Tacoma",
+        "city": "Tacoma",
+        "coordinates": [
+            -122.4442906,
+            47.2528768
+        ]
+    },
+    {
+        "code": "USTMM",
+        "name": "Tamms",
+        "city": "Tamms",
+        "coordinates": [
+            -89.2700811,
+            37.23505
+        ]
+    },
+    {
+        "code": "USTOL",
+        "name": "Toledo",
+        "city": "Toledo",
+        "coordinates": [
+            -83.55521200000001,
+            41.6639383
+        ]
+    },
+    {
+        "code": "USTPA",
+        "name": "Tampa",
+        "city": "Tampa",
+        "coordinates": [
+            -82.4571776,
+            27.950575
+        ]
+    },
+    {
+        "code": "USTSA",
+        "name": "Savannah",
+        "city": "Savannah",
+        "coordinates": [
+            -88.2492037,
+            35.2248034
+        ]
+    },
+    {
+        "code": "USTUL",
+        "name": "Tulsa",
+        "city": "Tulsa",
+        "coordinates": [
+            -95.99277500000001,
+            36.1539816
+        ]
+    },
+    {
+        "code": "USUGN",
+        "name": "Waukegan",
+        "city": "Waukegan",
+        "coordinates": [
+            -87.83,
+            42.35
+        ]
+    },
+    {
+        "code": "USUXZ",
+        "name": "Port Chester",
+        "city": "Port Chester",
+        "coordinates": [
+            -73.66568339999999,
+            41.0017643
+        ]
+    },
+    {
+        "code": "USUZF",
+        "name": "Tonawanda",
+        "city": "Tonawanda",
+        "coordinates": [
+            -78.880315,
+            43.0203347
+        ]
+    },
+    {
+        "code": "USVAB",
+        "name": "Virginia Beach",
+        "city": "Virginia Beach",
+        "coordinates": [
+            -75.97798499999999,
+            36.8529263
+        ]
+    },
+    {
+        "code": "USXGO",
+        "name": "Howard Beach/Queens/New York",
+        "city": "Howard Beach/Queens/New York",
+        "coordinates": [
+            -73.83,
+            40.65
+        ]
+    },
+    {
+        "code": "USXHF",
+        "name": "Kirkland",
+        "city": "Kirkland",
+        "coordinates": [
+            -122.2087353,
+            47.6814875
+        ]
+    },
+    {
+        "code": "USXHO",
+        "name": "Long Island City/Queens/New York",
+        "city": "Long Island City/Queens/New York",
+        "coordinates": [
+            -73.93,
+            40.73
+        ]
+    },
+    {
+        "code": "USYOB",
+        "name": "Oakboro",
+        "city": "Oakboro",
+        "coordinates": [
+            -80.3289521,
+            35.2257007
+        ]
+    }
+]

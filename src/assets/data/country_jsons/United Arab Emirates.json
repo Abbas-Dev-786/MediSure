@@ -1,0 +1,110 @@
+[
+    {
+        "code": "AEAJM",
+        "name": "Ajman",
+        "city": "Ajman",
+        "coordinates": [
+            55.5136433,
+            25.4052165
+        ]
+    },
+    {
+        "code": "AEAUH",
+        "name": "Abu Dhabi",
+        "city": "Abu Dhabi",
+        "coordinates": [
+            54.37,
+            24.47
+        ]
+    },
+    {
+        "code": "AEDXB",
+        "name": "Dubai",
+        "city": "Dubai",
+        "coordinates": [
+            55.27,
+            25.25
+        ]
+    },
+    {
+        "code": "AEFJR",
+        "name": "Al Fujayrah",
+        "city": "Al Fujayrah",
+        "coordinates": [
+            56.33,
+            25.12
+        ]
+    },
+    {
+        "code": "AEJEA",
+        "name": "Jebel Ali",
+        "city": "Jebel Ali",
+        "coordinates": [
+            55.0272904,
+            24.9857145
+        ]
+    },
+    {
+        "code": "AEJED",
+        "name": "Jebel Dhanna",
+        "city": "Jebel Dhanna",
+        "coordinates": [
+            52.6126027,
+            24.1915137
+        ]
+    },
+    {
+        "code": "AEKLF",
+        "name": "Khor al Fakkan",
+        "city": "Khor al Fakkan",
+        "coordinates": [
+            56.35,
+            25.33
+        ]
+    },
+    {
+        "code": "AEPRA",
+        "name": "Port Rashid",
+        "city": "Port Rashid",
+        "coordinates": [
+            55.2756505,
+            25.284755
+        ]
+    },
+    {
+        "code": "AEQIW",
+        "name": "Umm al Qaiwain",
+        "city": "Umm al Qaiwain",
+        "coordinates": [
+            55.55,
+            25.57
+        ]
+    },
+    {
+        "code": "AERKT",
+        "name": "Ras al Khaimah",
+        "city": "Ras al Khaimah",
+        "coordinates": [
+            55.95,
+            25.78
+        ]
+    },
+    {
+        "code": "AERUW",
+        "name": "Ar Ruways",
+        "city": "Ar Ruways",
+        "coordinates": [
+            52.73,
+            24.12
+        ]
+    },
+    {
+        "code": "AESHJ",
+        "name": "Sharjah",
+        "city": "Sharjah",
+        "coordinates": [
+            55.38,
+            25.35
+        ]
+    }
+]

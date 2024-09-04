@@ -1,58 +1,41 @@
-import {
-  APIProvider,
-  Map,
-  useMap,
-  useMapsLibrary,
-} from "@vis.gl/react-google-maps";
+import { APIProvider, Map } from "@vis.gl/react-google-maps";
 import { useEffect, useState } from "react";
 
-const DEFAULT_POSITION = { lat: 43.6532, lng: -79.3832 };
-
-const Directions = () => {
-  const map = useMap();
-  const routesLib = useMapsLibrary("routes");
-  const [directionsService, setDirectionService] = useState();
-  const [directionsRenderer, setDirectionRenderer] = useState();
-  const [routes, setRoutes] = useState([]);
+const Maps = ({ sourcePort, destinationPort }) => {
+  const [map, setMap] = useState(null);
 
   useEffect(() => {
-    if (!map || !routesLib) return;
+    if (map && sourcePort && destinationPort) {
+      map.data.forEach((feature) => map.data.remove(feature));
 
-    setDirectionService(new routesLib.DirectionsService());
-    setDirectionRenderer(new routesLib.DirectionsRenderer({ map }));
-  }, [map, routesLib]);
+      const path = [
+        { lat: sourcePort.coordinates[1], lng: sourcePort.coordinates[0] },
+        { lat: destinationPort.coordinates[1], lng: destinationPort.coordinates[0] },
+      ];
 
-  useEffect(() => {
-    if (!directionsRenderer || !directionsService) return;
-
-    directionsService
-      .route({
-        origin: "New York City, USA",
-        destination: "London, UK",
-        travelMode: window.google.maps.TravelMode.DRIVING,
-        provideRouteAlternatives: true,
-      })
-      .then((response) => {
-        directionsRenderer.setDirections(response);
-        setRoutes(response.routes);
+      const polyline = new window.google.maps.Polyline({
+        path,
+        map,
+        strokeColor: "#FF0000",
+        strokeOpacity: 1.0,
+        strokeWeight: 2,
       });
-  }, [directionsService, directionsRenderer]);
+      polyline.setMap(map);
+    }
+  }, [map, sourcePort, destinationPort]);
 
-  return null;
-};
-
-const Maps = () => {
-  // const position = { lat: 43.6532, lng: -79.3832 };
+  const handleMapLoad = (mapInstance) => {
+    setMap(mapInstance);
+  };
 
   return (
     <APIProvider apiKey={import.meta.env.VITE_GOOGLE_API_KEY}>
       <Map
+        onLoad={handleMapLoad}
         style={{ width: "100%", height: "70vh" }}
-        defaultCenter={DEFAULT_POSITION}
+        defaultCenter={{ lat: 25.25, lng: 55.27 }}
         defaultZoom={8}
-      >
-        <Directions />
-      </Map>
+      />
     </APIProvider>
   );
 };

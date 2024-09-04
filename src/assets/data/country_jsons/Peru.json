@@ -1,0 +1,155 @@
+[
+    {
+        "code": "PEATI",
+        "name": "Atico",
+        "city": "Atico",
+        "coordinates": [
+            -73.60964969999999,
+            -16.2283321
+        ]
+    },
+    {
+        "code": "PECHM",
+        "name": "Chimbote",
+        "city": "Chimbote",
+        "coordinates": [
+            -78.589011,
+            -9.063336399999999
+        ]
+    },
+    {
+        "code": "PECLL",
+        "name": "Callao",
+        "city": "Callao",
+        "coordinates": [
+            -77.1259843,
+            -12.0508491
+        ]
+    },
+    {
+        "code": "PEGSM",
+        "name": "General San Martin",
+        "city": "General San Martin",
+        "coordinates": [
+            -76.9242537,
+            -12.1975909
+        ]
+    },
+    {
+        "code": "PEHCO",
+        "name": "Huacho",
+        "city": "Huacho",
+        "coordinates": [
+            -77.61056789999999,
+            -11.1227218
+        ]
+    },
+    {
+        "code": "PEILQ",
+        "name": "Ilo",
+        "city": "Ilo",
+        "coordinates": [
+            -71.3468091,
+            -17.6680839
+        ]
+    },
+    {
+        "code": "PEIQT",
+        "name": "Iquitos",
+        "city": "Iquitos",
+        "coordinates": [
+            -73.25163260000001,
+            -3.7436735
+        ]
+    },
+    {
+        "code": "PELOB",
+        "name": "Lobitos",
+        "city": "Lobitos",
+        "coordinates": [
+            -81.2821647,
+            -4.4564351
+        ]
+    },
+    {
+        "code": "PEMRI",
+        "name": "Matarani",
+        "city": "Matarani",
+        "coordinates": [
+            -72.1001434,
+            -17.0054057
+        ]
+    },
+    {
+        "code": "PEPAC",
+        "name": "Pacasmayo",
+        "city": "Pacasmayo",
+        "coordinates": [
+            -79.565078,
+            -7.4040051
+        ]
+    },
+    {
+        "code": "PEPAI",
+        "name": "Paita",
+        "city": "Paita",
+        "coordinates": [
+            -81.0962172,
+            -5.0938488
+        ]
+    },
+    {
+        "code": "PEPCH",
+        "name": "Puerto Chicama",
+        "city": "Puerto Chicama",
+        "coordinates": [
+            -79.1407421,
+            -7.847994799999999
+        ]
+    },
+    {
+        "code": "PEPIO",
+        "name": "Pisco",
+        "city": "Pisco",
+        "coordinates": [
+            -76.1841701,
+            -13.7134562
+        ]
+    },
+    {
+        "code": "PESNX",
+        "name": "San Nicolas",
+        "city": "San Nicolas",
+        "coordinates": [
+            -77.5053269,
+            -6.3867084
+        ]
+    },
+    {
+        "code": "PESUP",
+        "name": "Supe",
+        "city": "Supe",
+        "coordinates": [
+            -77.71373059999999,
+            -10.7987521
+        ]
+    },
+    {
+        "code": "PESVY",
+        "name": "Salaverry",
+        "city": "Salaverry",
+        "coordinates": [
+            -78.97689989999999,
+            -8.2141205
+        ]
+    },
+    {
+        "code": "PETYL",
+        "name": "Talara",
+        "city": "Talara",
+        "coordinates": [
+            -81.26289609999999,
+            -4.581151999999999
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "code": "VGRAD",
+        "name": "Road Town, Tortola",
+        "city": "Road Town, Tortola",
+        "coordinates": [
+            -64.61412229999999,
+            18.4229948
+        ]
+    },
+    {
+        "code": "VGTOV",
+        "name": "Tortola",
+        "city": "Tortola",
+        "coordinates": [
+            -64.61412229999999,
+            18.4229948
+        ]
+    }
+]

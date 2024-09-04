@@ -1,0 +1,20 @@
+[
+    {
+        "code": "BSFPO",
+        "name": "Freeport, Grand Bahama",
+        "city": "Freeport, Grand Bahama",
+        "coordinates": [
+            -78.64554749999999,
+            26.5416093
+        ]
+    },
+    {
+        "code": "BSNAS",
+        "name": "Nassau",
+        "city": "Nassau",
+        "coordinates": [
+            -77.35,
+            25.08
+        ]
+    }
+]

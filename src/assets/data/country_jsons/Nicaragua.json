@@ -1,0 +1,20 @@
+[
+    {
+        "code": "NICIO",
+        "name": "Corinto",
+        "city": "Corinto",
+        "coordinates": [
+            -87.1784334,
+            12.4907414
+        ]
+    },
+    {
+        "code": "NIMGA",
+        "name": "Managua",
+        "city": "Managua",
+        "coordinates": [
+            -86.2361744,
+            12.1149926
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "code": "COBAQ",
+        "name": "Barranquilla",
+        "city": "Barranquilla",
+        "coordinates": [
+            -74.80698129999999,
+            11.0041072
+        ]
+    },
+    {
+        "code": "COBUN",
+        "name": "Buenaventura",
+        "city": "Buenaventura",
+        "coordinates": [
+            -77.01972119999999,
+            3.8830471
+        ]
+    },
+    {
+        "code": "COCTG",
+        "name": "Cartagena",
+        "city": "Cartagena",
+        "coordinates": [
+            -75.4794257,
+            10.3910485
+        ]
+    },
+    {
+        "code": "COPBO",
+        "name": "Puerto Bolivar",
+        "city": "Puerto Bol\u00edvar",
+        "coordinates": [
+            -74.73,
+            10.68
+        ]
+    },
+    {
+        "code": "COSMR",
+        "name": "Santa Marta",
+        "city": "Santa Marta",
+        "coordinates": [
+            -74.2110227,
+            11.2403547
+        ]
+    },
+    {
+        "code": "COTCO",
+        "name": "Tumaco",
+        "city": "Tumaco",
+        "coordinates": [
+            -78.802094,
+            1.80009
+        ]
+    }
+]

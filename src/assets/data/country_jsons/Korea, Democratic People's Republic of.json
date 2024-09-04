@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KPCHO",
+        "name": "Chongjin",
+        "city": "Chongjin",
+        "coordinates": [
+            129.723402,
+            41.7669671
+        ]
+    },
+    {
+        "code": "KPWON",
+        "name": "Wonsan",
+        "city": "Wonsan",
+        "coordinates": [
+            127.4460001,
+            39.1538529
+        ]
+    }
+]

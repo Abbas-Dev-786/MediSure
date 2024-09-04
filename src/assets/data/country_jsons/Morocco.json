@@ -1,0 +1,74 @@
+[
+    {
+        "code": "MAAGA",
+        "name": "Agadir",
+        "city": "Agadir",
+        "coordinates": [
+            -9.5981072,
+            30.4277547
+        ]
+    },
+    {
+        "code": "MACAS",
+        "name": "Casablanca",
+        "city": "Casablanca",
+        "coordinates": [
+            -7.6,
+            33.58
+        ]
+    },
+    {
+        "code": "MAELJ",
+        "name": "El Jadida",
+        "city": "El Jadida",
+        "coordinates": [
+            -8.5,
+            33.25
+        ]
+    },
+    {
+        "code": "MAMOH",
+        "name": "Mohammedia",
+        "city": "Mohammedia",
+        "coordinates": [
+            -7.384854699999999,
+            33.6835086
+        ]
+    },
+    {
+        "code": "MANNA",
+        "name": "Kenitra (ex Port Lyautey)",
+        "city": "Kenitra (ex Port Lyautey)",
+        "coordinates": [
+            -6.5890166,
+            34.2540503
+        ]
+    },
+    {
+        "code": "MAPTM",
+        "name": "Tanger Med",
+        "city": "Tanger Med",
+        "coordinates": [
+            -5.7907302,
+            35.7407719
+        ]
+    },
+    {
+        "code": "MASFI",
+        "name": "Safi",
+        "city": "Safi",
+        "coordinates": [
+            -9.2272033,
+            32.3008151
+        ]
+    },
+    {
+        "code": "MATNG",
+        "name": "Tangier",
+        "city": "Tangier",
+        "coordinates": [
+            -5.82,
+            35.78
+        ]
+    }
+]

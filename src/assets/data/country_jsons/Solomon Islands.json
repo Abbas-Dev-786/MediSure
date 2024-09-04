@@ -1,0 +1,20 @@
+[
+    {
+        "code": "SBHIR",
+        "name": "Honiara, Guadalcanal Is",
+        "city": "Honiara, Guadalcanal Is",
+        "coordinates": [
+            159.9728999,
+            -9.4456381
+        ]
+    },
+    {
+        "code": "SBNOR",
+        "name": "Noro, New Georgia",
+        "city": "Noro",
+        "coordinates": [
+            157.199876,
+            -8.2409868
+        ]
+    }
+]

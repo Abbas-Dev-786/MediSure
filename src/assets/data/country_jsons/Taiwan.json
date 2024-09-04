@@ -1,0 +1,62 @@
+[
+    {
+        "code": "TWKEL",
+        "name": "Keelung (Chilung)",
+        "city": "Keelung (Chilung)",
+        "coordinates": [
+            121.75,
+            25.1333333
+        ]
+    },
+    {
+        "code": "TWKHH",
+        "name": "Kaohsiung",
+        "city": "Kaohsiung",
+        "coordinates": [
+            120.3014353,
+            22.6272784
+        ]
+    },
+    {
+        "code": "TWMLI",
+        "name": "Mai-liao",
+        "city": "Mai-liao",
+        "coordinates": [
+            120.13,
+            23.1
+        ]
+    },
+    {
+        "code": "TWSUO",
+        "name": "Suao",
+        "city": "Suao",
+        "coordinates": [
+            121.8533264,
+            24.594229
+        ]
+    },
+    {
+        "code": "TWTPE",
+        "name": "Taipei",
+        "city": "Taipei",
+        "coordinates": null
+    },
+    {
+        "code": "TWTXG",
+        "name": "Taichung",
+        "city": "Taichung",
+        "coordinates": [
+            120.6736482,
+            24.1477358
+        ]
+    },
+    {
+        "code": "TWTYN",
+        "name": "Taoyuan",
+        "city": "Taoyuan",
+        "coordinates": [
+            121.3009798,
+            24.9936281
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "code": "QADOH",
+        "name": "Doha",
+        "city": "Doha",
+        "coordinates": [
+            51.4939853,
+            25.3521436
+        ]
+    },
+    {
+        "code": "QAMES",
+        "name": "Mesaieed",
+        "city": "Mesaieed",
+        "coordinates": [
+            51.92,
+            25.63
+        ]
+    },
+    {
+        "code": "QAUMS",
+        "name": "Umm Sa'id (Mesaieed)",
+        "city": "Umm Sa'id (Mesaieed)",
+        "coordinates": [
+            51.53,
+            24.98
+        ]
+    }
+]

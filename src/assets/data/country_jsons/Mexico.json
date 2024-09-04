@@ -1,0 +1,128 @@
+[
+    {
+        "code": "MXACA",
+        "name": "Acapulco",
+        "city": "Acapulco",
+        "coordinates": [
+            -99.87,
+            16.85
+        ]
+    },
+    {
+        "code": "MXATM",
+        "name": "Altamira",
+        "city": "Altamira",
+        "coordinates": [
+            -97.92,
+            22.4
+        ]
+    },
+    {
+        "code": "MXCOA",
+        "name": "Coatzacoalcos",
+        "city": "Coatzacoalcos",
+        "coordinates": [
+            -94.4,
+            18.13
+        ]
+    },
+    {
+        "code": "MXESE",
+        "name": "Ensenada",
+        "city": "Ensenada",
+        "coordinates": [
+            -116.6,
+            31.85
+        ]
+    },
+    {
+        "code": "MXGYM",
+        "name": "Guaymas",
+        "city": "Guaymas",
+        "coordinates": [
+            -110.88,
+            27.92
+        ]
+    },
+    {
+        "code": "MXMEX",
+        "name": "Ciudad de Mexico",
+        "city": "Ciudad de M\u00e9xico",
+        "coordinates": [
+            -99.13,
+            19.43
+        ]
+    },
+    {
+        "code": "MXPGO",
+        "name": "Progreso",
+        "city": "Progreso",
+        "coordinates": [
+            -89.65,
+            21.27
+        ]
+    },
+    {
+        "code": "MXPMS",
+        "name": "Puerto Morelos",
+        "city": "Puerto Morelos",
+        "coordinates": [
+            -86.87,
+            20.83
+        ]
+    },
+    {
+        "code": "MXREX",
+        "name": "Reynosa",
+        "city": "Reynosa",
+        "coordinates": [
+            -98.28,
+            26.08
+        ]
+    },
+    {
+        "code": "MXSCX",
+        "name": "Salina Cruz",
+        "city": "Salina Cruz",
+        "coordinates": [
+            -95.18,
+            16.17
+        ]
+    },
+    {
+        "code": "MXTAM",
+        "name": "Tampico",
+        "city": "Tampico",
+        "coordinates": [
+            -97.87,
+            22.25
+        ]
+    },
+    {
+        "code": "MXTPB",
+        "name": "Topolobampo",
+        "city": "Topolobampo",
+        "coordinates": [
+            -109.05,
+            25.6
+        ]
+    },
+    {
+        "code": "MXVER",
+        "name": "Veracruz",
+        "city": "Veracruz",
+        "coordinates": [
+            -96.08,
+            19.2
+        ]
+    },
+    {
+        "code": "MXZLO",
+        "name": "Manzanillo",
+        "city": "Manzanillo",
+        "coordinates": [
+            -104.3,
+            19.05
+        ]
+    }
+]

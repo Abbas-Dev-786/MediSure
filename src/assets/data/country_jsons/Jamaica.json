@@ -1,0 +1,38 @@
+[
+    {
+        "code": "JMKIN",
+        "name": "Kingston",
+        "city": "Kingston",
+        "coordinates": [
+            -76.8028933,
+            18.0423274
+        ]
+    },
+    {
+        "code": "JMMBJ",
+        "name": "Montego Bay",
+        "city": "Montego Bay",
+        "coordinates": [
+            -77.8938895,
+            18.4762228
+        ]
+    },
+    {
+        "code": "JMOCJ",
+        "name": "Ocho Rios",
+        "city": "Ocho Rios",
+        "coordinates": [
+            -77.0967357,
+            18.4056822
+        ]
+    },
+    {
+        "code": "JMPKS",
+        "name": "Port Kaiser",
+        "city": "Port Kaiser",
+        "coordinates": [
+            -77.1319777,
+            17.8939846
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "PLGDN",
+        "name": "Gdansk",
+        "city": "Gdansk",
+        "coordinates": [
+            18.6466384,
+            54.35202520000001
+        ]
+    },
+    {
+        "code": "PLGDY",
+        "name": "Gdynia",
+        "city": "Gdynia",
+        "coordinates": [
+            18.55,
+            54.5
+        ]
+    },
+    {
+        "code": "PLSWI",
+        "name": "Swinoujscie",
+        "city": "Swinoujscie",
+        "coordinates": [
+            14.25,
+            53.9
+        ]
+    },
+    {
+        "code": "PLSZZ",
+        "name": "Szczecin",
+        "city": "Szczecin",
+        "coordinates": [
+            14.5528116,
+            53.4285438
+        ]
+    }
+]

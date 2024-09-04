@@ -1,0 +1,20 @@
+[
+    {
+        "code": "MRNDB",
+        "name": "Nouadhibou",
+        "city": "Nouadhibou",
+        "coordinates": [
+            -17.0362272,
+            20.9425179
+        ]
+    },
+    {
+        "code": "MRNKC",
+        "name": "Nouakchott",
+        "city": "Nouakchott",
+        "coordinates": [
+            -15.9582372,
+            18.0735299
+        ]
+    }
+]

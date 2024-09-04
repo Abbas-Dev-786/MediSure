@@ -1,0 +1,38 @@
+[
+    {
+        "code": "BDCGP",
+        "name": "Chittagong",
+        "city": "Chittagong",
+        "coordinates": [
+            91.8123324,
+            22.3475365
+        ]
+    },
+    {
+        "code": "BDCHL",
+        "name": "Chalna",
+        "city": "Chalna",
+        "coordinates": [
+            89.5139693,
+            22.6036965
+        ]
+    },
+    {
+        "code": "BDDAC",
+        "name": "Dhaka",
+        "city": "Dhaka",
+        "coordinates": [
+            90.4125181,
+            23.810332
+        ]
+    },
+    {
+        "code": "BDMGL",
+        "name": "Mongla",
+        "city": "Mongla",
+        "coordinates": [
+            89.6016171,
+            22.4942196
+        ]
+    }
+]

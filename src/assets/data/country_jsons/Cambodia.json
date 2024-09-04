@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KHKOS",
+        "name": "Kampong Saom",
+        "city": "K\u00e2mp\u00f3ng Sa\u00f4m",
+        "coordinates": [
+            103.52,
+            10.6
+        ]
+    },
+    {
+        "code": "KHPNH",
+        "name": "Phnom Penh",
+        "city": "Phnom Penh",
+        "coordinates": [
+            104.8921668,
+            11.5448729
+        ]
+    }
+]

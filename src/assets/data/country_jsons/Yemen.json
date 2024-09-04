@@ -1,0 +1,38 @@
+[
+    {
+        "code": "YEADE",
+        "name": "Aden",
+        "city": "Aden",
+        "coordinates": [
+            45.0186548,
+            12.7854969
+        ]
+    },
+    {
+        "code": "YEHOD",
+        "name": "Hodeidah",
+        "city": "Hodeidah",
+        "coordinates": [
+            42.9,
+            14.83
+        ]
+    },
+    {
+        "code": "YELAD",
+        "name": "Little Aden",
+        "city": "Little Aden",
+        "coordinates": [
+            44.87,
+            12.73
+        ]
+    },
+    {
+        "code": "YEMKX",
+        "name": "Mukalla",
+        "city": "Mukalla",
+        "coordinates": [
+            49.127197,
+            14.5404328
+        ]
+    }
+]

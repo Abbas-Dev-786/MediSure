@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KMMUT",
+        "name": "Mutsamudu, Anjouan",
+        "city": "Mutsamudu, Anjouan",
+        "coordinates": [
+            44.38,
+            -12.15
+        ]
+    },
+    {
+        "code": "KMYVA",
+        "name": "Moroni",
+        "city": "Moroni",
+        "coordinates": [
+            43.2473146,
+            -11.7172157
+        ]
+    }
+]

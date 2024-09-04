@@ -1,0 +1,281 @@
+[
+    {
+        "code": "DEBEZ",
+        "name": "Bahlingen",
+        "city": "Bahlingen",
+        "coordinates": [
+            7.742533799999999,
+            48.1214009
+        ]
+    },
+    {
+        "code": "DEBIN",
+        "name": "Bingen am Rhein",
+        "city": "Bingen am Rhein",
+        "coordinates": [
+            7.88,
+            49.97
+        ]
+    },
+    {
+        "code": "DEBKE",
+        "name": "Brake",
+        "city": "Brake",
+        "coordinates": [
+            8.48,
+            53.33
+        ]
+    },
+    {
+        "code": "DEBOY",
+        "name": "Bad Oeynhausen",
+        "city": "Bad Oeynhausen",
+        "coordinates": [
+            8.8009706,
+            52.2084623
+        ]
+    },
+    {
+        "code": "DEBRA",
+        "name": "Bramel",
+        "city": "Bramel",
+        "coordinates": [
+            8.7,
+            53.55
+        ]
+    },
+    {
+        "code": "DEBRB",
+        "name": "Brunsbuttel",
+        "city": "Brunsb\u00fcttel",
+        "coordinates": [
+            9.1338853,
+            53.8988902
+        ]
+    },
+    {
+        "code": "DEBRE",
+        "name": "Bremen",
+        "city": "Bremen",
+        "coordinates": [
+            8.8016937,
+            53.07929619999999
+        ]
+    },
+    {
+        "code": "DEBRV",
+        "name": "Bremerhaven",
+        "city": "Bremerhaven",
+        "coordinates": [
+            8.5809424,
+            53.5395845
+        ]
+    },
+    {
+        "code": "DEBSK",
+        "name": "Burgstaaken/Fehmarn",
+        "city": "Burgstaaken/Fehmarn",
+        "coordinates": [
+            11.1925499,
+            54.4191983
+        ]
+    },
+    {
+        "code": "DECGN",
+        "name": "Koln",
+        "city": "K\u00f6ln",
+        "coordinates": [
+            6.93,
+            50.95
+        ]
+    },
+    {
+        "code": "DECUX",
+        "name": "Cuxhaven",
+        "city": "Cuxhaven",
+        "coordinates": [
+            8.7,
+            53.88
+        ]
+    },
+    {
+        "code": "DEDUS",
+        "name": "Dusseldorf",
+        "city": "D\u00fcsseldorf",
+        "coordinates": [
+            6.78,
+            51.23
+        ]
+    },
+    {
+        "code": "DEELS",
+        "name": "Elsfleth",
+        "city": "Elsfleth",
+        "coordinates": [
+            8.47,
+            53.23
+        ]
+    },
+    {
+        "code": "DEEME",
+        "name": "Emden",
+        "city": "Emden",
+        "coordinates": [
+            7.22,
+            53.37
+        ]
+    },
+    {
+        "code": "DEFLF",
+        "name": "Flensburg",
+        "city": "Flensburg",
+        "coordinates": [
+            9.4469964,
+            54.7937431
+        ]
+    },
+    {
+        "code": "DEHAM",
+        "name": "Hamburg",
+        "city": "Hamburg",
+        "coordinates": [
+            9.9936818,
+            53.5510846
+        ]
+    },
+    {
+        "code": "DEHBU",
+        "name": "Harburg",
+        "city": "Harburg",
+        "coordinates": [
+            9.9834184,
+            53.4607785
+        ]
+    },
+    {
+        "code": "DEHMM",
+        "name": "Hamm",
+        "city": "Hamm",
+        "coordinates": [
+            7.8,
+            51.68
+        ]
+    },
+    {
+        "code": "DEKEL",
+        "name": "Kiel",
+        "city": "Kiel",
+        "coordinates": [
+            10.13,
+            54.33
+        ]
+    },
+    {
+        "code": "DEKGU",
+        "name": "Kriegenbrunn",
+        "city": "Kriegenbrunn",
+        "coordinates": [
+            10.9556919,
+            49.5563955
+        ]
+    },
+    {
+        "code": "DEKHO",
+        "name": "Kochendorf",
+        "city": "Kochendorf",
+        "coordinates": [
+            9.211614899999999,
+            49.2178183
+        ]
+    },
+    {
+        "code": "DELBC",
+        "name": "Lubeck",
+        "city": "L\u00fcbeck",
+        "coordinates": [
+            10.6865593,
+            53.8654673
+        ]
+    },
+    {
+        "code": "DELEE",
+        "name": "Leer",
+        "city": "Leer",
+        "coordinates": [
+            7.4679018,
+            53.235657
+        ]
+    },
+    {
+        "code": "DEMHG",
+        "name": "Mannheim",
+        "city": "Mannheim",
+        "coordinates": [
+            8.45,
+            49.48
+        ]
+    },
+    {
+        "code": "DENHA",
+        "name": "Nordenham",
+        "city": "Nordenham",
+        "coordinates": [
+            8.48,
+            53.5
+        ]
+    },
+    {
+        "code": "DENOR",
+        "name": "Nordstrand",
+        "city": "Nordstrand",
+        "coordinates": [
+            8.9246523,
+            54.5108878
+        ]
+    },
+    {
+        "code": "DEPFR",
+        "name": "Pfronten",
+        "city": "Pfronten",
+        "coordinates": [
+            10.5264351,
+            47.5766418
+        ]
+    },
+    {
+        "code": "DERSK",
+        "name": "Rostock",
+        "city": "Rostock",
+        "coordinates": [
+            12.13,
+            54.08
+        ]
+    },
+    {
+        "code": "DEWED",
+        "name": "Wedel",
+        "city": "Wedel",
+        "coordinates": [
+            9.7137465,
+            53.58238129999999
+        ]
+    },
+    {
+        "code": "DEWOR",
+        "name": "Worms",
+        "city": "Worms",
+        "coordinates": [
+            8.3507182,
+            49.6341372
+        ]
+    },
+    {
+        "code": "DEWVN",
+        "name": "Wilhelmshaven",
+        "city": "Wilhelmshaven",
+        "coordinates": [
+            8.13,
+            53.52
+        ]
+    }
+]

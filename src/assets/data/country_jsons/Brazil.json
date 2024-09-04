@@ -1,0 +1,344 @@
+[
+    {
+        "code": "BRARB",
+        "name": "Aratu",
+        "city": "Aratu",
+        "coordinates": [
+            -38.4560755,
+            -12.7855854
+        ]
+    },
+    {
+        "code": "BRARE",
+        "name": "Areia Branca",
+        "city": "Areia Branca",
+        "coordinates": [
+            -37.17,
+            -4.98
+        ]
+    },
+    {
+        "code": "BRBEL",
+        "name": "Belem",
+        "city": "Belem",
+        "coordinates": [
+            -48.5,
+            -1.45
+        ]
+    },
+    {
+        "code": "BRCDO",
+        "name": "Cabedelo",
+        "city": "Cabedelo",
+        "coordinates": [
+            -34.8287221,
+            -6.987721499999999
+        ]
+    },
+    {
+        "code": "BRFNO",
+        "name": "Forno",
+        "city": "Forno",
+        "coordinates": [
+            -41.8807698,
+            -22.7583647
+        ]
+    },
+    {
+        "code": "BRFOR",
+        "name": "Fortaleza",
+        "city": "Fortaleza",
+        "coordinates": [
+            -38.5266704,
+            -3.7318616
+        ]
+    },
+    {
+        "code": "BRIBB",
+        "name": "Imbituba",
+        "city": "Imbituba",
+        "coordinates": [
+            -48.6691286,
+            -28.227627
+        ]
+    },
+    {
+        "code": "BRIGI",
+        "name": "Itaguai",
+        "city": "Itagua\u00ed",
+        "coordinates": [
+            -43.77,
+            -22.87
+        ]
+    },
+    {
+        "code": "BRIOA",
+        "name": "Itapoa",
+        "city": "Itapo\u00e1",
+        "coordinates": [
+            -48.6,
+            -26.12
+        ]
+    },
+    {
+        "code": "BRIOS",
+        "name": "Ilheus",
+        "city": "Ilheus",
+        "coordinates": [
+            -39.0463797,
+            -14.7935051
+        ]
+    },
+    {
+        "code": "BRIRO",
+        "name": "Itabirito",
+        "city": "Itabirito",
+        "coordinates": [
+            -43.8030567,
+            -20.2530617
+        ]
+    },
+    {
+        "code": "BRITJ",
+        "name": "Itajai",
+        "city": "Itajai",
+        "coordinates": [
+            -48.6709514,
+            -26.9105964
+        ]
+    },
+    {
+        "code": "BRITQ",
+        "name": "Itaqui",
+        "city": "Itaqui",
+        "coordinates": [
+            -56.5481122,
+            -29.1294007
+        ]
+    },
+    {
+        "code": "BRITZ",
+        "name": "Itapemirim",
+        "city": "Itapemirim",
+        "coordinates": [
+            -40.8310577,
+            -21.0100062
+        ]
+    },
+    {
+        "code": "BRMAO",
+        "name": "Manaus",
+        "city": "Manaus",
+        "coordinates": [
+            -60.0217314,
+            -3.1190275
+        ]
+    },
+    {
+        "code": "BRMCZ",
+        "name": "Maceio",
+        "city": "Macei\u00f3",
+        "coordinates": [
+            -35.72,
+            -9.67
+        ]
+    },
+    {
+        "code": "BRNAT",
+        "name": "Natal",
+        "city": "Natal",
+        "coordinates": [
+            -35.200916,
+            -5.7792569
+        ]
+    },
+    {
+        "code": "BRNVT",
+        "name": "Navegantes",
+        "city": "Navegantes",
+        "coordinates": [
+            -48.65,
+            -26.9
+        ]
+    },
+    {
+        "code": "BRPCL",
+        "name": "Portocel",
+        "city": "Portocel",
+        "coordinates": [
+            -40.3088626,
+            -19.1834229
+        ]
+    },
+    {
+        "code": "BRPEC",
+        "name": "Pecem",
+        "city": "Pec\u00e9m",
+        "coordinates": [
+            -38.87,
+            -3.52
+        ]
+    },
+    {
+        "code": "BRPNG",
+        "name": "Paranagua",
+        "city": "Paranagu\u00e1",
+        "coordinates": [
+            -48.5,
+            -25.52
+        ]
+    },
+    {
+        "code": "BRPNN",
+        "name": "Paran\u00e3",
+        "city": "Paran\u00e3",
+        "coordinates": [
+            -47.8759329,
+            -12.6162809
+        ]
+    },
+    {
+        "code": "BRPOA",
+        "name": "Porto Alegre",
+        "city": "P\u00f4rto Alegre",
+        "coordinates": [
+            -51.2176584,
+            -30.0346471
+        ]
+    },
+    {
+        "code": "BRREC",
+        "name": "Recife",
+        "city": "Recife",
+        "coordinates": [
+            -34.8828969,
+            -8.0578381
+        ]
+    },
+    {
+        "code": "BRRIG",
+        "name": "Rio Grande",
+        "city": "Rio Grande",
+        "coordinates": [
+            -52.1075802,
+            -32.0353776
+        ]
+    },
+    {
+        "code": "BRRIO",
+        "name": "Rio de Janeiro",
+        "city": "Rio de Janeiro",
+        "coordinates": [
+            -43.1728965,
+            -22.9068467
+        ]
+    },
+    {
+        "code": "BRSAL",
+        "name": "Salto Grande",
+        "city": "Salto Grande",
+        "coordinates": [
+            -49.9836057,
+            -22.8898683
+        ]
+    },
+    {
+        "code": "BRSFS",
+        "name": "Sao Francisco do Sul",
+        "city": "S\u00e3o Francisco do Sul",
+        "coordinates": [
+            -48.6348454,
+            -26.2584141
+        ]
+    },
+    {
+        "code": "BRSPB",
+        "name": "Porto de Itaguai",
+        "city": "Porto de Itagua\u00ed",
+        "coordinates": [
+            -43.82,
+            -22.92
+        ]
+    },
+    {
+        "code": "BRSSA",
+        "name": "Salvador",
+        "city": "Salvador",
+        "coordinates": [
+            -38.502304,
+            -12.9730401
+        ]
+    },
+    {
+        "code": "BRSSO",
+        "name": "Sao Sebastiao",
+        "city": "S\u00e3o Sebasti\u00e3o",
+        "coordinates": [
+            -45.4016534,
+            -23.8063468
+        ]
+    },
+    {
+        "code": "BRSSZ",
+        "name": "Santos",
+        "city": "Santos",
+        "coordinates": [
+            -46.33,
+            -23.95
+        ]
+    },
+    {
+        "code": "BRSTM",
+        "name": "Santarem",
+        "city": "Santarem",
+        "coordinates": [
+            -54.7009228,
+            -2.4506291
+        ]
+    },
+    {
+        "code": "BRSUA",
+        "name": "Suape",
+        "city": "Suape",
+        "coordinates": [
+            -34.9575528,
+            -8.3536618
+        ]
+    },
+    {
+        "code": "BRVDC",
+        "name": "Vitoria da Conquista",
+        "city": "Vit\u00f3ria da Conquista",
+        "coordinates": [
+            -40.85,
+            -14.85
+        ]
+    },
+    {
+        "code": "BRVIC",
+        "name": "Vila do Conde",
+        "city": "Vila do Conde",
+        "coordinates": [
+            -34.9,
+            -7.27
+        ]
+    },
+    {
+        "code": "BRVIX",
+        "name": "Vitoria",
+        "city": "Vitoria",
+        "coordinates": [
+            -40.2957768,
+            -20.2976178
+        ]
+    },
+    {
+        "code": "BRVLC",
+        "name": "Vila do Conde",
+        "city": "Vila do Conde",
+        "coordinates": [
+            -48.75,
+            -1.53
+        ]
+    }
+]

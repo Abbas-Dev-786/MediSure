@@ -1,0 +1,29 @@
+[
+    {
+        "code": "ZWBUQ",
+        "name": "Bulawayo",
+        "city": "Bulawayo",
+        "coordinates": [
+            28.626479,
+            -20.1325066
+        ]
+    },
+    {
+        "code": "ZWHRE",
+        "name": "Harare",
+        "city": "Harare",
+        "coordinates": [
+            31.03351,
+            -17.8251657
+        ]
+    },
+    {
+        "code": "ZWUTA",
+        "name": "Mutare",
+        "city": "Mutare",
+        "coordinates": [
+            32.650351,
+            -18.9757714
+        ]
+    }
+]

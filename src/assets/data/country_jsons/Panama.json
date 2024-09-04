@@ -1,0 +1,101 @@
+[
+    {
+        "code": "PAAML",
+        "name": "Puerto Armuelles",
+        "city": "Puerto Armuelles",
+        "coordinates": [
+            -82.92864279999999,
+            8.3117647
+        ]
+    },
+    {
+        "code": "PABLB",
+        "name": "Balboa",
+        "city": "Balboa",
+        "coordinates": [
+            -79.5631537,
+            8.9613962
+        ]
+    },
+    {
+        "code": "PACFZ",
+        "name": "Colon Free Zone",
+        "city": "Col\u00f3n Free Zone",
+        "coordinates": [
+            -79.9,
+            9.35
+        ]
+    },
+    {
+        "code": "PACSO",
+        "name": "Coco Solo",
+        "city": "Coco Solo",
+        "coordinates": [
+            -79.879913,
+            9.368985
+        ]
+    },
+    {
+        "code": "PACTB",
+        "name": "Cristobal",
+        "city": "Crist\u00f3bal",
+        "coordinates": [
+            -79.9,
+            9.35
+        ]
+    },
+    {
+        "code": "PACTD",
+        "name": "Chitre",
+        "city": "Chitre",
+        "coordinates": [
+            -80.4382153,
+            7.9523119
+        ]
+    },
+    {
+        "code": "PACZZ",
+        "name": "Canazas",
+        "city": "Ca\u00f1azas",
+        "coordinates": [
+            -80.7,
+            8.13
+        ]
+    },
+    {
+        "code": "PAMIT",
+        "name": "Manzanillo",
+        "city": "Manzanillo",
+        "coordinates": [
+            -81.16666699999999,
+            7.533332999999999
+        ]
+    },
+    {
+        "code": "PAONX",
+        "name": "Colon",
+        "city": "Col\u00f3n",
+        "coordinates": [
+            -79.87,
+            9.35
+        ]
+    },
+    {
+        "code": "PAPSA",
+        "name": "Rodman",
+        "city": "Rousseau",
+        "coordinates": [
+            -79.58843689999999,
+            8.9593892
+        ]
+    },
+    {
+        "code": "PAPTY",
+        "name": "Panama, Ciudad de",
+        "city": "Panam\u00e1, Ciudad de",
+        "coordinates": [
+            -79.53,
+            8.97
+        ]
+    }
+]

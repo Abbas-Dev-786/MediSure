@@ -1,0 +1,47 @@
+[
+    {
+        "code": "ROAGI",
+        "name": "Agigea",
+        "city": "Agigea",
+        "coordinates": [
+            28.62,
+            44.08
+        ]
+    },
+    {
+        "code": "ROBRA",
+        "name": "Braila",
+        "city": "Braila",
+        "coordinates": [
+            27.98,
+            45.27
+        ]
+    },
+    {
+        "code": "ROCND",
+        "name": "Constanta",
+        "city": "Constanta",
+        "coordinates": [
+            28.65,
+            44.18
+        ]
+    },
+    {
+        "code": "ROGAL",
+        "name": "Galati",
+        "city": "Galati",
+        "coordinates": [
+            28.05,
+            45.43
+        ]
+    },
+    {
+        "code": "ROMAG",
+        "name": "Mangalia",
+        "city": "Mangalia",
+        "coordinates": [
+            28.5741496,
+            43.8152436
+        ]
+    }
+]

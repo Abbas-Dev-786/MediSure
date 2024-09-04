@@ -1,0 +1,44 @@
+[
+    {
+        "code": "BHAHD",
+        "name": "Al Hidd",
+        "city": "Al HIdd",
+        "coordinates": null
+    },
+    {
+        "code": "BHBAH",
+        "name": "Bahrain",
+        "city": "Bahrain",
+        "coordinates": [
+            50.63,
+            26.27
+        ]
+    },
+    {
+        "code": "BHKBS",
+        "name": "Khalifa Bin Salman Port",
+        "city": "Khalifa Bin Salman",
+        "coordinates": [
+            50.62,
+            26.2
+        ]
+    },
+    {
+        "code": "BHMAN",
+        "name": "Manama",
+        "city": "Manama",
+        "coordinates": [
+            50.5860497,
+            26.2285161
+        ]
+    },
+    {
+        "code": "BHSIT",
+        "name": "Sitrah",
+        "city": "Sitrah",
+        "coordinates": [
+            50.62,
+            26.13
+        ]
+    }
+]

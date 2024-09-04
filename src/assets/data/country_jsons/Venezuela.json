@@ -1,0 +1,128 @@
+[
+    {
+        "code": "VEAMY",
+        "name": "Amuay",
+        "city": "Amuay",
+        "coordinates": [
+            -70.2423207,
+            11.776897
+        ]
+    },
+    {
+        "code": "VEBLA",
+        "name": "Barcelona",
+        "city": "Barcelona",
+        "coordinates": [
+            -64.67768,
+            10.1445691
+        ]
+    },
+    {
+        "code": "VEEGU",
+        "name": "El Guamache",
+        "city": "El Guamache",
+        "coordinates": [
+            -64.0665046,
+            10.8958956
+        ]
+    },
+    {
+        "code": "VEETV",
+        "name": "El Tablazo/Maracaibo L",
+        "city": "El Tablazo/Maracaibo L",
+        "coordinates": [
+            -71.64193399999999,
+            10.596956
+        ]
+    },
+    {
+        "code": "VEGUB",
+        "name": "Guaranao Bay",
+        "city": "Guaranao Bay",
+        "coordinates": [
+            11.6656673,
+            -70.2147818
+        ]
+    },
+    {
+        "code": "VEGUT",
+        "name": "Guanta",
+        "city": "Guanta",
+        "coordinates": [
+            -64.591805,
+            10.2343685
+        ]
+    },
+    {
+        "code": "VELAG",
+        "name": "La Guaira",
+        "city": "La Guaira",
+        "coordinates": [
+            -66.9213628,
+            10.587508
+        ]
+    },
+    {
+        "code": "VELSV",
+        "name": "La Salina/Maracaibo L",
+        "city": "La Salina/Maracaibo L",
+        "coordinates": [
+            -71.6777177,
+            10.7156738
+        ]
+    },
+    {
+        "code": "VEMAR",
+        "name": "Maracaibo",
+        "city": "Maracaibo",
+        "coordinates": [
+            -71.7147951,
+            10.6544509
+        ]
+    },
+    {
+        "code": "VEMTV",
+        "name": "Matanzas",
+        "city": "Matanzas",
+        "coordinates": [
+            -62.8,
+            8.316666999999999
+        ]
+    },
+    {
+        "code": "VEPBL",
+        "name": "Puerto Cabello",
+        "city": "Puerto Cabello",
+        "coordinates": [
+            -68.02986539999999,
+            10.4697685
+        ]
+    },
+    {
+        "code": "VEPCN",
+        "name": "Punta Cardon",
+        "city": "Punta Card\u00f3n",
+        "coordinates": [
+            -70.22,
+            11.65
+        ]
+    },
+    {
+        "code": "VEPSU",
+        "name": "Puerto Sucre",
+        "city": "Puerto Sucre",
+        "coordinates": [
+            -68.3833329,
+            8.966667000000001
+        ]
+    },
+    {
+        "code": "VEPZO",
+        "name": "Puerto Ordaz",
+        "city": "Puerto Ordaz",
+        "coordinates": [
+            -62.76766329999999,
+            8.2750921
+        ]
+    }
+]

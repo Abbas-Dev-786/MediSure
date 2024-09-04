@@ -1,0 +1,29 @@
+[
+    {
+        "code": "CYLMS",
+        "name": "Limassol",
+        "city": "Limassol",
+        "coordinates": [
+            33.05,
+            34.68
+        ]
+    },
+    {
+        "code": "CYNIC",
+        "name": "Nicosia",
+        "city": "Nicosia",
+        "coordinates": [
+            33.37,
+            35.17
+        ]
+    },
+    {
+        "code": "CYPFO",
+        "name": "Paphos",
+        "city": "Paphos",
+        "coordinates": [
+            32.42,
+            34.77
+        ]
+    }
+]

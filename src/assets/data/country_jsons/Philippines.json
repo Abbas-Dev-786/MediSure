@@ -1,0 +1,137 @@
+[
+    {
+        "code": "PHCEB",
+        "name": "Cebu",
+        "city": "Cebu",
+        "coordinates": [
+            123.8854366,
+            10.3156992
+        ]
+    },
+    {
+        "code": "PHCGY",
+        "name": "Cagayan de Oro, Mindanao",
+        "city": "Cagayan de Oro, Mindanao",
+        "coordinates": [
+            124.6318977,
+            8.4542363
+        ]
+    },
+    {
+        "code": "PHDVO",
+        "name": "Davao, Mindanao",
+        "city": "Davao, Mindanao",
+        "coordinates": [
+            125.455341,
+            7.190708
+        ]
+    },
+    {
+        "code": "PHGES",
+        "name": "General Santos",
+        "city": "General Santos",
+        "coordinates": [
+            125.15,
+            6.12
+        ]
+    },
+    {
+        "code": "PHIGN",
+        "name": "Iligan, Mindanao",
+        "city": "Iligan, Mindanao",
+        "coordinates": [
+            124.2452422,
+            8.228020899999999
+        ]
+    },
+    {
+        "code": "PHISB",
+        "name": "Isabela (Basilan)",
+        "city": "Isabela (Basilan)",
+        "coordinates": [
+            121.969,
+            6.7029445
+        ]
+    },
+    {
+        "code": "PHMLS",
+        "name": "Magellanes/Masao",
+        "city": "Magellanes/Masao",
+        "coordinates": [
+            121.774017,
+            12.879721
+        ]
+    },
+    {
+        "code": "PHMNI",
+        "name": "Manicani",
+        "city": "Manicani",
+        "coordinates": [
+            125.6368861,
+            10.9955232
+        ]
+    },
+    {
+        "code": "PHMNL",
+        "name": "Manila",
+        "city": "Manila",
+        "coordinates": [
+            120.9842195,
+            14.5995124
+        ]
+    },
+    {
+        "code": "PHMNN",
+        "name": "Manila North Harbour",
+        "city": "Manila North Harbour",
+        "coordinates": [
+            120.9566667,
+            14.6161111
+        ]
+    },
+    {
+        "code": "PHMNS",
+        "name": "Manila South Harbour",
+        "city": "Manila South Harbour",
+        "coordinates": [
+            120.9691667,
+            14.5758333
+        ]
+    },
+    {
+        "code": "PHOZC",
+        "name": "Ozamis, Mindanao",
+        "city": "Ozamis, Mindanao",
+        "coordinates": [
+            123.7741195,
+            8.162410999999999
+        ]
+    },
+    {
+        "code": "PHPSL",
+        "name": "Pasaleng, Luzon",
+        "city": "Pasaleng, Luzon",
+        "coordinates": [
+            120.7115592,
+            18.1647281
+        ]
+    },
+    {
+        "code": "PHSFS",
+        "name": "Subic Bay",
+        "city": "Subic Bay",
+        "coordinates": [
+            120.2397336,
+            14.7910576
+        ]
+    },
+    {
+        "code": "PHZAM",
+        "name": "Zamboanga",
+        "city": "Zamboanga",
+        "coordinates": [
+            122.0790267,
+            6.9214424
+        ]
+    }
+]

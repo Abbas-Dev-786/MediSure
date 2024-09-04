@@ -1,0 +1,29 @@
+[
+    {
+        "code": "ISESK",
+        "name": "Eskifjordur - hofn",
+        "city": "Eskifj\u00f8rdur - h\u00f8fn",
+        "coordinates": [
+            65.0726522,
+            -14.0538958
+        ]
+    },
+    {
+        "code": "ISGRT",
+        "name": "Grundartangi",
+        "city": "Grundartangi",
+        "coordinates": [
+            -21.7758053,
+            64.3603796
+        ]
+    },
+    {
+        "code": "ISREY",
+        "name": "Reykjavik",
+        "city": "Reykjav\u00edk",
+        "coordinates": [
+            -21.95,
+            64.15
+        ]
+    }
+]

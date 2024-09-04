@@ -1,0 +1,83 @@
+[
+    {
+        "code": "ZABFN",
+        "name": "Bloemfontein",
+        "city": "Bloemfontein",
+        "coordinates": [
+            26.1595761,
+            -29.085214
+        ]
+    },
+    {
+        "code": "ZACPT",
+        "name": "Cape Town",
+        "city": "Cape Town",
+        "coordinates": [
+            18.42,
+            -33.92
+        ]
+    },
+    {
+        "code": "ZADUR",
+        "name": "Durban",
+        "city": "Durban",
+        "coordinates": [
+            31.0218404,
+            -29.85868039999999
+        ]
+    },
+    {
+        "code": "ZAELS",
+        "name": "East London",
+        "city": "East London",
+        "coordinates": [
+            27.8545867,
+            -33.0291582
+        ]
+    },
+    {
+        "code": "ZAJNB",
+        "name": "Johannesburg",
+        "city": "Johannesburg",
+        "coordinates": [
+            28.08,
+            -26.2
+        ]
+    },
+    {
+        "code": "ZAPLZ",
+        "name": "Port Elizabeth",
+        "city": "Port Elizabeth",
+        "coordinates": [
+            25.5207358,
+            -33.7139247
+        ]
+    },
+    {
+        "code": "ZAPRY",
+        "name": "Pretoria",
+        "city": "Pretoria",
+        "coordinates": [
+            28.22,
+            -25.7
+        ]
+    },
+    {
+        "code": "ZARCB",
+        "name": "Richards Bay",
+        "city": "Richards Bay",
+        "coordinates": [
+            32.0382856,
+            -28.7807276
+        ]
+    },
+    {
+        "code": "ZAZBA",
+        "name": "Coega",
+        "city": "Coega",
+        "coordinates": [
+            25.67,
+            -33.77
+        ]
+    }
+]

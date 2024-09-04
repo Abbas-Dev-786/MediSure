@@ -1,0 +1,20 @@
+[
+    {
+        "code": "ERASA",
+        "name": "Assab",
+        "city": "Assab",
+        "coordinates": [
+            42.73,
+            13
+        ]
+    },
+    {
+        "code": "ERMSW",
+        "name": "Massawa (Mitsiwa)",
+        "city": "Massawa (Mitsiwa)",
+        "coordinates": [
+            39.45,
+            15.6
+        ]
+    }
+]

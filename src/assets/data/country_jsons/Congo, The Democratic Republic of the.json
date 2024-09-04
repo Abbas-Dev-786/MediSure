@@ -1,0 +1,20 @@
+[
+    {
+        "code": "CDBOA",
+        "name": "Boma",
+        "city": "Boma",
+        "coordinates": [
+            -5.8347218,
+            13.022875
+        ]
+    },
+    {
+        "code": "CDMAT",
+        "name": "Matadi",
+        "city": "Matadi",
+        "coordinates": [
+            -5.8237941,
+            13.4509856
+        ]
+    }
+]

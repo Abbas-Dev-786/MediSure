@@ -1,0 +1,20 @@
+[
+    {
+        "code": "VUSON",
+        "name": "Espiritu Santo",
+        "city": "Espiritu Santo",
+        "coordinates": [
+            166.9182097,
+            -15.3003549
+        ]
+    },
+    {
+        "code": "VUVLI",
+        "name": "Port Vila",
+        "city": "Port Vila",
+        "coordinates": [
+            168.3273245,
+            -17.7332512
+        ]
+    }
+]

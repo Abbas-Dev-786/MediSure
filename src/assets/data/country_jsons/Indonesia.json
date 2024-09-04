@@ -1,0 +1,308 @@
+[
+    {
+        "code": "IDAMA",
+        "name": "Amamapare, Ij",
+        "city": "Amamapare, Ij",
+        "coordinates": [
+            136.797607,
+            -4.86529
+        ]
+    },
+    {
+        "code": "IDBDJ",
+        "name": "Banjarmasin",
+        "city": "Banjarmasin",
+        "coordinates": [
+            114.5943784,
+            -3.3186067
+        ]
+    },
+    {
+        "code": "IDBIT",
+        "name": "Bitung, Sulawesi",
+        "city": "Bitung, Sulawesi",
+        "coordinates": [
+            124.6303372,
+            1.1321809
+        ]
+    },
+    {
+        "code": "IDBLW",
+        "name": "Belawan, Sumatra",
+        "city": "Belawan, Sumatra",
+        "coordinates": [
+            98.694221,
+            3.784303
+        ]
+    },
+    {
+        "code": "IDBNT",
+        "name": "Belanak Terminal",
+        "city": "Belanak Terminal",
+        "coordinates": [
+            101.7068294,
+            0.2933469
+        ]
+    },
+    {
+        "code": "IDBPN",
+        "name": "Balikpapan",
+        "city": "Balikpapan",
+        "coordinates": [
+            116.83,
+            -1.28
+        ]
+    },
+    {
+        "code": "IDBTM",
+        "name": "Batam Island",
+        "city": "Batam Island",
+        "coordinates": [
+            104.0304535,
+            1.0828276
+        ]
+    },
+    {
+        "code": "IDBUN",
+        "name": "Buatan",
+        "city": "Buatan",
+        "coordinates": [
+            101.818901,
+            0.736198
+        ]
+    },
+    {
+        "code": "IDBUR",
+        "name": "Batu Ampal",
+        "city": "Batu Ampal",
+        "coordinates": [
+            116.856639,
+            -1.245998
+        ]
+    },
+    {
+        "code": "IDCIG",
+        "name": "Cigading",
+        "city": "Cigading",
+        "coordinates": [
+            105.987668,
+            -6.011872899999999
+        ]
+    },
+    {
+        "code": "IDDJB",
+        "name": "Jambi, Sumatra",
+        "city": "Jambi, Sumatra",
+        "coordinates": [
+            103.6131203,
+            -1.6101229
+        ]
+    },
+    {
+        "code": "IDDJJ",
+        "name": "Jayapura, Irian Jaya",
+        "city": "Jayapura, Irian Jaya",
+        "coordinates": [
+            140.6689995,
+            -2.5916025
+        ]
+    },
+    {
+        "code": "IDJKT",
+        "name": "Jakarta, Java",
+        "city": "Jakarta, Java",
+        "coordinates": [
+            106.83,
+            -6.13
+        ]
+    },
+    {
+        "code": "IDKAB",
+        "name": "Kabil",
+        "city": "Kabil",
+        "coordinates": [
+            104.13,
+            1.05
+        ]
+    },
+    {
+        "code": "IDLBM",
+        "name": "Lobam",
+        "city": "Lobam",
+        "coordinates": [
+            104.27,
+            1
+        ]
+    },
+    {
+        "code": "IDMAK",
+        "name": "Makassar",
+        "city": "Makassar",
+        "coordinates": [
+            119.4,
+            -5.12
+        ]
+    },
+    {
+        "code": "IDMES",
+        "name": "Medan, Sumatra",
+        "city": "Medan, Sumatra",
+        "coordinates": [
+            98.6722227,
+            3.5951956
+        ]
+    },
+    {
+        "code": "IDMRK",
+        "name": "Merak, Java",
+        "city": "Merak, Java",
+        "coordinates": [
+            106.0064628,
+            -5.9349331
+        ]
+    },
+    {
+        "code": "IDPDG",
+        "name": "Padang",
+        "city": "Padang",
+        "coordinates": [
+            100.35,
+            -0.95
+        ]
+    },
+    {
+        "code": "IDPJG",
+        "name": "Panjang (Lampung, Sumatra)",
+        "city": "Panjang (Lampung, Sumatra)",
+        "coordinates": [
+            105.3218997,
+            -5.464115899999999
+        ]
+    },
+    {
+        "code": "IDPKU",
+        "name": "Pekanbaru, Sumatra",
+        "city": "Pekanbaru, Sumatra",
+        "coordinates": [
+            101.4477793,
+            0.5070677
+        ]
+    },
+    {
+        "code": "IDPLM",
+        "name": "Palembang, Sumatra",
+        "city": "Palembang, Sumatra",
+        "coordinates": [
+            104.7754307,
+            -2.9760735
+        ]
+    },
+    {
+        "code": "IDPNJ",
+        "name": "Panjang",
+        "city": "Panjang",
+        "coordinates": [
+            105.3218997,
+            -5.464115899999999
+        ]
+    },
+    {
+        "code": "IDPNK",
+        "name": "Pontianak, Kalimantan",
+        "city": "Pontianak, Kalimantan",
+        "coordinates": [
+            109.3425039,
+            -0.0263303
+        ]
+    },
+    {
+        "code": "IDPWG",
+        "name": "Perawang",
+        "city": "Perawang",
+        "coordinates": [
+            101.62,
+            0.63
+        ]
+    },
+    {
+        "code": "IDSEQ",
+        "name": "Sungai Pakning, Sumatra",
+        "city": "Sungai Pakning, Sumatra",
+        "coordinates": [
+            102.0775411,
+            1.3501405
+        ]
+    },
+    {
+        "code": "IDSRG",
+        "name": "Semarang",
+        "city": "Semarang",
+        "coordinates": [
+            110.48,
+            -6.97
+        ]
+    },
+    {
+        "code": "IDSRI",
+        "name": "Samarinda, Kalimantan",
+        "city": "Samarinda, Kalimantan",
+        "coordinates": [
+            117.1436154,
+            -0.4948232
+        ]
+    },
+    {
+        "code": "IDSUB",
+        "name": "Surabaya",
+        "city": "Surabaya",
+        "coordinates": [
+            112.75,
+            -7.23
+        ]
+    },
+    {
+        "code": "IDTAB",
+        "name": "Taboneo",
+        "city": "Taboneo",
+        "coordinates": [
+            114.42,
+            -3.68
+        ]
+    },
+    {
+        "code": "IDTBG",
+        "name": "Teluk Betung, Sumatra",
+        "city": "Teluk Betung, Sumatra",
+        "coordinates": [
+            105.2670247,
+            -5.445867
+        ]
+    },
+    {
+        "code": "IDTPP",
+        "name": "Tanjung Priok",
+        "city": "Tanjung Priok",
+        "coordinates": [
+            106.8714848,
+            -6.1320555
+        ]
+    },
+    {
+        "code": "IDTTI",
+        "name": "Tebingtinggi",
+        "city": "Tebingtinggi",
+        "coordinates": [
+            99.1566855,
+            3.3262879
+        ]
+    },
+    {
+        "code": "IDUPG",
+        "name": "Ujung Pandang, Sulawesi",
+        "city": "Ujung Pandang, Sulawesi",
+        "coordinates": [
+            119.5494844,
+            -5.077747
+        ]
+    }
+]

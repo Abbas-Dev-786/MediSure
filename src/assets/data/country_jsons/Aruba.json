@@ -1,0 +1,20 @@
+[
+    {
+        "code": "AWAUA",
+        "name": "Aruba",
+        "city": "Aruba",
+        "coordinates": [
+            -69.97,
+            12.5
+        ]
+    },
+    {
+        "code": "AWORJ",
+        "name": "Oranjestad",
+        "city": "Oranjestad",
+        "coordinates": [
+            -70.0086306,
+            12.5092044
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "code": "DKAAL",
+        "name": "Aalborg",
+        "city": "Aalborg",
+        "coordinates": [
+            9.921747,
+            57.0488195
+        ]
+    },
+    {
+        "code": "DKAAR",
+        "name": "Aarhus",
+        "city": "Aarhus",
+        "coordinates": [
+            10.22,
+            56.15
+        ]
+    },
+    {
+        "code": "DKASN",
+        "name": "Assens",
+        "city": "Assens",
+        "coordinates": [
+            9.9008188,
+            55.2702263
+        ]
+    },
+    {
+        "code": "DKCPH",
+        "name": "Kobenhavn",
+        "city": "K\u00f8benhavn",
+        "coordinates": [
+            12.58,
+            55.67
+        ]
+    },
+    {
+        "code": "DKEBJ",
+        "name": "Esbjerg",
+        "city": "Esbjerg",
+        "coordinates": [
+            8.459405,
+            55.476466
+        ]
+    },
+    {
+        "code": "DKFRC",
+        "name": "Fredericia",
+        "city": "Fredericia",
+        "coordinates": [
+            9.749516999999999,
+            55.5689298
+        ]
+    },
+    {
+        "code": "DKHIR",
+        "name": "Hirtshals",
+        "city": "Hirtshals",
+        "coordinates": [
+            9.9668379,
+            57.58695299999999
+        ]
+    },
+    {
+        "code": "DKHLS",
+        "name": "Helsingor",
+        "city": "Helsing\u00f8r",
+        "coordinates": [
+            12.592127,
+            56.030787
+        ]
+    },
+    {
+        "code": "DKHSB",
+        "name": "Holstebro",
+        "city": "Holstebro",
+        "coordinates": [
+            8.621727,
+            56.36153400000001
+        ]
+    },
+    {
+        "code": "DKKAL",
+        "name": "Kalundborg",
+        "city": "Kalundborg",
+        "coordinates": [
+            11.089188,
+            55.686429
+        ]
+    },
+    {
+        "code": "DKKTD",
+        "name": "Kerteminde",
+        "city": "Kerteminde",
+        "coordinates": [
+            10.654979,
+            55.455882
+        ]
+    },
+    {
+        "code": "DKNBG",
+        "name": "Nyborg",
+        "city": "Nyborg",
+        "coordinates": [
+            10.799561,
+            55.324169
+        ]
+    },
+    {
+        "code": "DKODE",
+        "name": "Odense",
+        "city": "Odense",
+        "coordinates": [
+            10.40237,
+            55.40375599999999
+        ]
+    },
+    {
+        "code": "DKRUG",
+        "name": "Rungsted",
+        "city": "Rungsted",
+        "coordinates": [
+            12.52,
+            55.88
+        ]
+    },
+    {
+        "code": "DKSKA",
+        "name": "Skagen",
+        "city": "Skagen",
+        "coordinates": [
+            10.579186,
+            57.725004
+        ]
+    },
+    {
+        "code": "DKSVE",
+        "name": "Svendborg",
+        "city": "Svendborg",
+        "coordinates": [
+            10.607282,
+            55.067434
+        ]
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "code": "TRALI",
+        "name": "Aliaga",
+        "city": "Aliaga",
+        "coordinates": [
+            26.97074,
+            38.799561
+        ]
+    },
+    {
+        "code": "TRAMB",
+        "name": "Ambarli",
+        "city": "Ambarli",
+        "coordinates": [
+            41.68,
+            41.32
+        ]
+    },
+    {
+        "code": "TRAVC",
+        "name": "Avcilar",
+        "city": "Avcilar",
+        "coordinates": [
+            28.7,
+            40.97
+        ]
+    },
+    {
+        "code": "TRAYT",
+        "name": "Antalya",
+        "city": "Antalya",
+        "coordinates": [
+            30.7133233,
+            36.8968908
+        ]
+    },
+    {
+        "code": "TRBAY",
+        "name": "Bayrampasa",
+        "city": "Bayrampasa",
+        "coordinates": [
+            28.90045529999999,
+            41.0481503
+        ]
+    },
+    {
+        "code": "TRBDM",
+        "name": "Bandirma",
+        "city": "Bandirma",
+        "coordinates": [
+            27.97,
+            40.35
+        ]
+    },
+    {
+        "code": "TREYP",
+        "name": "Evyap Port /Kocaeli",
+        "city": "Evyap Port /Kocaeli",
+        "coordinates": [
+            29.7,
+            40.77
+        ]
+    },
+    {
+        "code": "TRGEB",
+        "name": "Gebze",
+        "city": "Gebze",
+        "coordinates": [
+            29.42,
+            40.78
+        ]
+    },
+    {
+        "code": "TRGEM",
+        "name": "Gemlik",
+        "city": "Gemlik",
+        "coordinates": [
+            29.155416,
+            40.43181999999999
+        ]
+    },
+    {
+        "code": "TRHAY",
+        "name": "Haydarpasa",
+        "city": "Haydarpasa",
+        "coordinates": [
+            29.011395,
+            41.0046297
+        ]
+    },
+    {
+        "code": "TRHER",
+        "name": "Hereke",
+        "city": "Hereke",
+        "coordinates": [
+            29.626024,
+            40.793768
+        ]
+    },
+    {
+        "code": "TRISK",
+        "name": "Iskenderun",
+        "city": "Iskenderun",
+        "coordinates": [
+            36.1756161,
+            36.584673
+        ]
+    },
+    {
+        "code": "TRIST",
+        "name": "Istanbul",
+        "city": "Istanbul",
+        "coordinates": [
+            28.9783589,
+            41.0082376
+        ]
+    },
+    {
+        "code": "TRIZM",
+        "name": "Izmir",
+        "city": "Izmir",
+        "coordinates": [
+            27.15,
+            38.42
+        ]
+    },
+    {
+        "code": "TRIZT",
+        "name": "Izmit",
+        "city": "Izmit",
+        "coordinates": [
+            29.95,
+            40.78
+        ]
+    },
+    {
+        "code": "TRKMX",
+        "name": "Kumport",
+        "city": "Kumport",
+        "coordinates": [
+            28.82,
+            40.95
+        ]
+    },
+    {
+        "code": "TRMAD",
+        "name": "Mardas",
+        "city": "Mardas",
+        "coordinates": [
+            28.95,
+            41.02
+        ]
+    },
+    {
+        "code": "TRMAR",
+        "name": "Marmara Ereglisi",
+        "city": "Marmara Ereglisi",
+        "coordinates": [
+            27.9014654,
+            41.041446
+        ]
+    },
+    {
+        "code": "TRMER",
+        "name": "Mersin",
+        "city": "Mersin",
+        "coordinates": [
+            34.63,
+            36.72
+        ]
+    },
+    {
+        "code": "TRNEM",
+        "name": "Nemrut Bay",
+        "city": "Nemrut Bay",
+        "coordinates": [
+            27.142826,
+            38.423734
+        ]
+    },
+    {
+        "code": "TRSSX",
+        "name": "Samsun",
+        "city": "Samsun",
+        "coordinates": [
+            36.3360667,
+            41.2797031
+        ]
+    },
+    {
+        "code": "TRTEK",
+        "name": "Tekirdag",
+        "city": "Tekirdag",
+        "coordinates": [
+            27.511674,
+            40.9780919
+        ]
+    },
+    {
+        "code": "TRTZX",
+        "name": "Trabzon",
+        "city": "Trabzon",
+        "coordinates": [
+            39.7167633,
+            41.0026969
+        ]
+    },
+    {
+        "code": "TRYAR",
+        "name": "Yarimca",
+        "city": "Yarimca",
+        "coordinates": [
+            29.727171,
+            40.771592
+        ]
+    }
+]

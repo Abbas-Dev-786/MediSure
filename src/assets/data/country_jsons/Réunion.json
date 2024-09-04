@@ -1,0 +1,38 @@
+[
+    {
+        "code": "RELPT",
+        "name": "Le Port",
+        "city": "Le",
+        "coordinates": [
+            55.3,
+            -20.92
+        ]
+    },
+    {
+        "code": "REPDG",
+        "name": "Port de Pointe des Galets",
+        "city": "Port de Pointe des Galets",
+        "coordinates": [
+            -20.9239169,
+            55.2856063
+        ]
+    },
+    {
+        "code": "REREU",
+        "name": "Reunion",
+        "city": "R\u00e9union",
+        "coordinates": [
+            55.53,
+            -20.88
+        ]
+    },
+    {
+        "code": "RERUN",
+        "name": "Saint-Denis de la Reunion Apt",
+        "city": "Saint-Denis de la R\u00e9union Apt",
+        "coordinates": [
+            55.53,
+            -20.88
+        ]
+    }
+]

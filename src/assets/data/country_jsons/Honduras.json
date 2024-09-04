@@ -1,0 +1,71 @@
+[
+    {
+        "code": "HNAMP",
+        "name": "Amapala",
+        "city": "Amapala",
+        "coordinates": [
+            -87.65194729999999,
+            13.2916538
+        ]
+    },
+    {
+        "code": "HNLCE",
+        "name": "La Ceiba",
+        "city": "La Ceiba",
+        "coordinates": [
+            -86.7919009,
+            15.770288
+        ]
+    },
+    {
+        "code": "HNPCA",
+        "name": "Puerto Castilla",
+        "city": "Puerto Castilla",
+        "coordinates": [
+            -85.9585544,
+            16.0173268
+        ]
+    },
+    {
+        "code": "HNPCR",
+        "name": "Puerto Cortes",
+        "city": "Puerto Cort\u00e9s",
+        "coordinates": [
+            -87.92857769999999,
+            15.825072
+        ]
+    },
+    {
+        "code": "HNRTB",
+        "name": "Roatan",
+        "city": "Roat\u00e1n",
+        "coordinates": [
+            -86.55,
+            16.3
+        ]
+    },
+    {
+        "code": "HNSLO",
+        "name": "San Lorenzo",
+        "city": "San Lorenzo",
+        "coordinates": [
+            -87.45544319999999,
+            13.4326204
+        ]
+    },
+    {
+        "code": "HNTEA",
+        "name": "Tela",
+        "city": "Tela",
+        "coordinates": [
+            -87.46535019999999,
+            15.7732601
+        ]
+    },
+    {
+        "code": "HNTGU",
+        "name": "Tegucigalpa",
+        "city": "Tegucigalpa",
+        "coordinates": null
+    }
+]

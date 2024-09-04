@@ -1,0 +1,308 @@
+[
+    {
+        "code": "ITAOI",
+        "name": "Ancona",
+        "city": "Ancona",
+        "coordinates": [
+            13.5,
+            43.63
+        ]
+    },
+    {
+        "code": "ITAUG",
+        "name": "Augusta",
+        "city": "Augusta",
+        "coordinates": [
+            15.22,
+            37.22
+        ]
+    },
+    {
+        "code": "ITBRI",
+        "name": "Bari",
+        "city": "Bari",
+        "coordinates": [
+            16.85,
+            41.13
+        ]
+    },
+    {
+        "code": "ITCAG",
+        "name": "Cagliari",
+        "city": "Cagliari",
+        "coordinates": [
+            9.12,
+            39.22
+        ]
+    },
+    {
+        "code": "ITCRV",
+        "name": "Crotone",
+        "city": "Crotone",
+        "coordinates": [
+            17.13,
+            39.08
+        ]
+    },
+    {
+        "code": "ITCTA",
+        "name": "Catania",
+        "city": "Catania",
+        "coordinates": [
+            15.1,
+            37.5
+        ]
+    },
+    {
+        "code": "ITCVV",
+        "name": "Civitavecchia",
+        "city": "Civitavecchia",
+        "coordinates": [
+            11.8,
+            42.1
+        ]
+    },
+    {
+        "code": "ITFAE",
+        "name": "Faenza",
+        "city": "Faenza",
+        "coordinates": [
+            11.8774091,
+            44.2898527
+        ]
+    },
+    {
+        "code": "ITGAE",
+        "name": "Gaeta",
+        "city": "Gaeta",
+        "coordinates": [
+            13.58,
+            41.2
+        ]
+    },
+    {
+        "code": "ITGIT",
+        "name": "Gioia Tauro",
+        "city": "Gioia Tauro",
+        "coordinates": [
+            15.9,
+            38.42
+        ]
+    },
+    {
+        "code": "ITGOA",
+        "name": "Genova",
+        "city": "Genova",
+        "coordinates": [
+            8.95,
+            44.42
+        ]
+    },
+    {
+        "code": "ITLIV",
+        "name": "Livorno",
+        "city": "Livorno",
+        "coordinates": [
+            10.32,
+            43.55
+        ]
+    },
+    {
+        "code": "ITMIL",
+        "name": "Milano",
+        "city": "Milano",
+        "coordinates": [
+            9.1859243,
+            45.4654219
+        ]
+    },
+    {
+        "code": "ITMNF",
+        "name": "Monfalcone",
+        "city": "Monfalcone",
+        "coordinates": [
+            13.5331727,
+            45.8050468
+        ]
+    },
+    {
+        "code": "ITMOD",
+        "name": "Modena",
+        "city": "Modena",
+        "coordinates": [
+            10.9252269,
+            44.647128
+        ]
+    },
+    {
+        "code": "ITNAP",
+        "name": "Napoli",
+        "city": "Napoli",
+        "coordinates": [
+            14.25,
+            40.83
+        ]
+    },
+    {
+        "code": "ITPDA",
+        "name": "Padova",
+        "city": "Padova",
+        "coordinates": [
+            11.8767611,
+            45.4064349
+        ]
+    },
+    {
+        "code": "ITPES",
+        "name": "Pesaro",
+        "city": "Pesaro",
+        "coordinates": [
+            12.92,
+            43.9
+        ]
+    },
+    {
+        "code": "ITPGA",
+        "name": "Porto Garibaldi",
+        "city": "Porto Garibaldi",
+        "coordinates": [
+            12.2395659,
+            44.6780654
+        ]
+    },
+    {
+        "code": "ITPMO",
+        "name": "Palermo",
+        "city": "Palermo",
+        "coordinates": [
+            13.37,
+            38.12
+        ]
+    },
+    {
+        "code": "ITPRJ",
+        "name": "Capri",
+        "city": "Capri",
+        "coordinates": [
+            14.23,
+            40.55
+        ]
+    },
+    {
+        "code": "ITPSR",
+        "name": "Pescara",
+        "city": "Pescara",
+        "coordinates": [
+            14.23,
+            42.47
+        ]
+    },
+    {
+        "code": "ITPVE",
+        "name": "Portoscuso (Porto Vesme)",
+        "city": "Portoscuso (Porto Vesme)",
+        "coordinates": [
+            8.38,
+            39.2
+        ]
+    },
+    {
+        "code": "ITRAN",
+        "name": "Ravenna",
+        "city": "Ravenna",
+        "coordinates": [
+            12.2035294,
+            44.4183598
+        ]
+    },
+    {
+        "code": "ITSAL",
+        "name": "Salerno",
+        "city": "Salerno",
+        "coordinates": [
+            14.7680961,
+            40.68244079999999
+        ]
+    },
+    {
+        "code": "ITSPE",
+        "name": "La Spezia",
+        "city": "La Spezia",
+        "coordinates": [
+            9.83,
+            44.12
+        ]
+    },
+    {
+        "code": "ITSVN",
+        "name": "Savona",
+        "city": "Savona",
+        "coordinates": [
+            8.5,
+            44.28
+        ]
+    },
+    {
+        "code": "ITTAR",
+        "name": "Taranto",
+        "city": "Taranto",
+        "coordinates": [
+            17.23,
+            40.48
+        ]
+    },
+    {
+        "code": "ITTPS",
+        "name": "Trapani",
+        "city": "Trapani",
+        "coordinates": [
+            12.48,
+            38.02
+        ]
+    },
+    {
+        "code": "ITTRN",
+        "name": "Torino",
+        "city": "Torino",
+        "coordinates": [
+            7.686856499999999,
+            45.070312
+        ]
+    },
+    {
+        "code": "ITTRS",
+        "name": "Trieste",
+        "city": "Trieste",
+        "coordinates": [
+            13.7768182,
+            45.6495264
+        ]
+    },
+    {
+        "code": "ITVCE",
+        "name": "Venezia",
+        "city": "Venezia",
+        "coordinates": [
+            12.33,
+            45.43
+        ]
+    },
+    {
+        "code": "ITVDL",
+        "name": "Vado Ligure",
+        "city": "Vado Ligure",
+        "coordinates": [
+            8.45,
+            44.27
+        ]
+    },
+    {
+        "code": "ITVIA",
+        "name": "Viareggio",
+        "city": "Viareggio",
+        "coordinates": [
+            10.2513103,
+            43.8657267
+        ]
+    }
+]

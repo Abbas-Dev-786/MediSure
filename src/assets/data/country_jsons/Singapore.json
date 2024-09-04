@@ -1,0 +1,20 @@
+[
+    {
+        "code": "SGJUR",
+        "name": "Jurong/Singapore",
+        "city": "Jurong/Singapore",
+        "coordinates": [
+            103.7,
+            1.33
+        ]
+    },
+    {
+        "code": "SGSIN",
+        "name": "Singapore",
+        "city": "Singapore",
+        "coordinates": [
+            103.8509491,
+            1.2800945
+        ]
+    }
+]

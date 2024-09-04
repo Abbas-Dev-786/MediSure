@@ -1,0 +1,20 @@
+[
+    {
+        "code": "HTCAP",
+        "name": "Cap-Haitien",
+        "city": "Cap-Ha\u00eftien",
+        "coordinates": [
+            -72.2,
+            19.75
+        ]
+    },
+    {
+        "code": "HTPAP",
+        "name": "Port-au-Prince",
+        "city": "Port-au-Prince",
+        "coordinates": [
+            -72.3074326,
+            18.594395
+        ]
+    }
+]

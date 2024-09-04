@@ -1,0 +1,65 @@
+[
+    {
+        "code": "TNGAE",
+        "name": "Gabes",
+        "city": "Gab\u00e8s",
+        "coordinates": [
+            10.12,
+            33.88
+        ]
+    },
+    {
+        "code": "TNJAR",
+        "name": "Jarjis",
+        "city": "Jarjis",
+        "coordinates": [
+            -11.1,
+            33.5
+        ]
+    },
+    {
+        "code": "TNLGN",
+        "name": "La Goulette Nord (Halqueloued)",
+        "city": "La Goulette Nord (Halqueloued)",
+        "coordinates": [
+            10.3020843,
+            36.8200203
+        ]
+    },
+    {
+        "code": "TNRDS",
+        "name": "Rades",
+        "city": "Rad\u00e8s",
+        "coordinates": [
+            10.27,
+            36.77
+        ]
+    },
+    {
+        "code": "TNSFA",
+        "name": "Sfax",
+        "city": "Sfax",
+        "coordinates": [
+            10.766163,
+            34.7478469
+        ]
+    },
+    {
+        "code": "TNSUS",
+        "name": "Sousse",
+        "city": "Sousse",
+        "coordinates": [
+            10.608395,
+            35.825603
+        ]
+    },
+    {
+        "code": "TNTUN",
+        "name": "Tunis",
+        "city": "Tunis",
+        "coordinates": [
+            10.1815316,
+            36.8064948
+        ]
+    }
+]

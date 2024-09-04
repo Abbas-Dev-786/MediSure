@@ -1,0 +1,38 @@
+[
+    {
+        "code": "GACLZ",
+        "name": "Cap Lopez",
+        "city": "Cap Lopez",
+        "coordinates": [
+            8.7811645,
+            -0.7726462
+        ]
+    },
+    {
+        "code": "GALBV",
+        "name": "Libreville",
+        "city": "Libreville",
+        "coordinates": [
+            9.4672676,
+            0.4161976
+        ]
+    },
+    {
+        "code": "GAOWE",
+        "name": "Owendo",
+        "city": "Owendo",
+        "coordinates": [
+            9.483282599999999,
+            0.3379564
+        ]
+    },
+    {
+        "code": "GAPOG",
+        "name": "Port Gentil",
+        "city": "Port Gentil",
+        "coordinates": [
+            8.7591311,
+            -0.7351025999999999
+        ]
+    }
+]

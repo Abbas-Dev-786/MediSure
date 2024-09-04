@@ -1,0 +1,44 @@
+[
+    {
+        "code": "HRDBV",
+        "name": "Dubrovnik",
+        "city": "Dubrovnik",
+        "coordinates": [
+            18.08,
+            42.65
+        ]
+    },
+    {
+        "code": "HRLST",
+        "name": "Lastovo",
+        "city": "Lastovo",
+        "coordinates": null
+    },
+    {
+        "code": "HRPLE",
+        "name": "Ploce",
+        "city": "Ploce",
+        "coordinates": [
+            17.43,
+            43.05
+        ]
+    },
+    {
+        "code": "HRRJK",
+        "name": "Rijeka",
+        "city": "Rijeka",
+        "coordinates": [
+            14.4,
+            45.33
+        ]
+    },
+    {
+        "code": "HRSPU",
+        "name": "Split",
+        "city": "Split",
+        "coordinates": [
+            16.45,
+            43.5
+        ]
+    }
+]

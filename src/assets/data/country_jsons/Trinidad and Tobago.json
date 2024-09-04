@@ -1,0 +1,38 @@
+[
+    {
+        "code": "TTPOS",
+        "name": "Port-of-Spain",
+        "city": "Port-of-Spain",
+        "coordinates": [
+            -61.52,
+            10.65
+        ]
+    },
+    {
+        "code": "TTPTP",
+        "name": "Pointe a Pierre",
+        "city": "Pointe a Pierre",
+        "coordinates": [
+            -61.45959930000001,
+            10.3155401
+        ]
+    },
+    {
+        "code": "TTPTS",
+        "name": "Point Lisas",
+        "city": "Point Lisas",
+        "coordinates": [
+            -61.4630653,
+            10.4056994
+        ]
+    },
+    {
+        "code": "TTSFE",
+        "name": "San Fernando",
+        "city": "San Fernando",
+        "coordinates": [
+            -61.4493842,
+            10.2905853
+        ]
+    }
+]

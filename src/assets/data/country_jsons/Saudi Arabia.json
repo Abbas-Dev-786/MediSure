@@ -1,0 +1,56 @@
+[
+    {
+        "code": "SADMM",
+        "name": "Ad Dammam",
+        "city": "Ad Dammam",
+        "coordinates": [
+            50.1,
+            26.42
+        ]
+    },
+    {
+        "code": "SADMN",
+        "name": "Dammam",
+        "city": "Dammam",
+        "coordinates": [
+            49.9777136,
+            26.3926665
+        ]
+    },
+    {
+        "code": "SAJED",
+        "name": "Jeddah",
+        "city": "Jeddah",
+        "coordinates": [
+            39.2375507,
+            21.2854067
+        ]
+    },
+    {
+        "code": "SAJUB",
+        "name": "Jubail",
+        "city": "Jubail",
+        "coordinates": [
+            49.5687416,
+            26.9597709
+        ]
+    },
+    {
+        "code": "SAKAC",
+        "name": "King Abdullah City",
+        "city": "King Abdullah City",
+        "coordinates": [
+            39.08,
+            22.4
+        ]
+    },
+    {
+        "code": "SARUH",
+        "name": "Riyadh",
+        "city": "Riyadh",
+        "coordinates": [
+            46.9028375,
+            24.7494029
+        ]
+    }
+]

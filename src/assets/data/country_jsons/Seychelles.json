@@ -1,0 +1,20 @@
+[
+    {
+        "code": "SCMAW",
+        "name": "Mahe",
+        "city": "Mahe",
+        "coordinates": [
+            55.480396,
+            -4.6826693
+        ]
+    },
+    {
+        "code": "SCPOV",
+        "name": "Port Victoria",
+        "city": "Port Victoria",
+        "coordinates": [
+            55.4833333,
+            -4.6166667
+        ]
+    }
+]

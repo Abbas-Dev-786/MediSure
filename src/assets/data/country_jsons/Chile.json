@@ -1,0 +1,461 @@
+[
+    {
+        "code": "CLANF",
+        "name": "Antofagasta",
+        "city": "Antofagasta",
+        "coordinates": [
+            -70.38,
+            -23.63
+        ]
+    },
+    {
+        "code": "CLARI",
+        "name": "Arica",
+        "city": "Arica",
+        "coordinates": [
+            -70.32,
+            -18.48
+        ]
+    },
+    {
+        "code": "CLBAG",
+        "name": "Bahia San Gregorio",
+        "city": "Bah\u00eda San Gregorio",
+        "coordinates": [
+            -70.13,
+            -52.62
+        ]
+    },
+    {
+        "code": "CLBAR",
+        "name": "Barquito",
+        "city": "Barquito",
+        "coordinates": [
+            -70.63,
+            -26.35
+        ]
+    },
+    {
+        "code": "CLCAP",
+        "name": "San Vicente",
+        "city": "San Vicente",
+        "coordinates": [
+            -4.397057999999999,
+            43.3813069
+        ]
+    },
+    {
+        "code": "CLCBC",
+        "name": "Calbuco",
+        "city": "Calbuco",
+        "coordinates": [
+            -73.13,
+            -41.75
+        ]
+    },
+    {
+        "code": "CLCCL",
+        "name": "Caleta Coloso",
+        "city": "Caleta Coloso",
+        "coordinates": [
+            -70.29371789999999,
+            -18.4350352
+        ]
+    },
+    {
+        "code": "CLCHB",
+        "name": "Chacabuco",
+        "city": "Chacabuco",
+        "coordinates": [
+            -72.82,
+            -45.48
+        ]
+    },
+    {
+        "code": "CLCLD",
+        "name": "Caldera",
+        "city": "Caldera",
+        "coordinates": [
+            -70.8,
+            -27.03
+        ]
+    },
+    {
+        "code": "CLCNL",
+        "name": "Coronel",
+        "city": "Coronel",
+        "coordinates": [
+            -73.15,
+            -37.02
+        ]
+    },
+    {
+        "code": "CLCNR",
+        "name": "Chanaral",
+        "city": "Cha\u00f1aral",
+        "coordinates": [
+            -70.62,
+            -26.35
+        ]
+    },
+    {
+        "code": "CLCNX",
+        "name": "Cabo Negro",
+        "city": "Cabo Negro",
+        "coordinates": [
+            -70.85,
+            -52.97
+        ]
+    },
+    {
+        "code": "CLCQQ",
+        "name": "Coquimbo",
+        "city": "Coquimbo",
+        "coordinates": [
+            -71.33,
+            -29.97
+        ]
+    },
+    {
+        "code": "CLCRR",
+        "name": "Corral",
+        "city": "Corral",
+        "coordinates": [
+            -73.43,
+            -39.87
+        ]
+    },
+    {
+        "code": "CLDCH",
+        "name": "Dalcahue",
+        "city": "Dalcahue",
+        "coordinates": [
+            -73.67,
+            -42.38
+        ]
+    },
+    {
+        "code": "CLGYC",
+        "name": "Guayacan",
+        "city": "Guayac\u00e1n",
+        "coordinates": [
+            -71.37,
+            -29.98
+        ]
+    },
+    {
+        "code": "CLHSO",
+        "name": "Huasco",
+        "city": "Huasco",
+        "coordinates": [
+            -71.22,
+            -28.45
+        ]
+    },
+    {
+        "code": "CLIPC",
+        "name": "Isla de Pascua",
+        "city": "Isla de Pascua",
+        "coordinates": [
+            -109.42,
+            -27.15
+        ]
+    },
+    {
+        "code": "CLIQQ",
+        "name": "Iquique",
+        "city": "Iquique",
+        "coordinates": [
+            -70.13,
+            -20.22
+        ]
+    },
+    {
+        "code": "CLJRL",
+        "name": "Jureles",
+        "city": "Jureles",
+        "coordinates": [
+            -36.9721439,
+            -73.2265222
+        ]
+    },
+    {
+        "code": "CLLOS",
+        "name": "Los Vilos",
+        "city": "Los Vilos",
+        "coordinates": [
+            -71.5,
+            -31.9
+        ]
+    },
+    {
+        "code": "CLLQN",
+        "name": "Lirquen",
+        "city": "Lirqu\u00e9n",
+        "coordinates": [
+            -72.98,
+            -36.7
+        ]
+    },
+    {
+        "code": "CLLVS",
+        "name": "Las Ventanas",
+        "city": "Las Ventanas",
+        "coordinates": [
+            -71.65,
+            -33.27
+        ]
+    },
+    {
+        "code": "CLMCH",
+        "name": "Michilla",
+        "city": "Michilla",
+        "coordinates": [
+            -70.27768979999999,
+            -22.7183138
+        ]
+    },
+    {
+        "code": "CLMJS",
+        "name": "Mejillones",
+        "city": "Mejillones",
+        "coordinates": [
+            -70.45,
+            -23.1
+        ]
+    },
+    {
+        "code": "CLPAG",
+        "name": "Puerto Angamos",
+        "city": "Puerto Angamos",
+        "coordinates": [
+            -70.45,
+            -23.08
+        ]
+    },
+    {
+        "code": "CLPCH",
+        "name": "Puerto Chacabuco",
+        "city": "Puerto Chacabuco",
+        "coordinates": [
+            -72.83,
+            -45.48
+        ]
+    },
+    {
+        "code": "CLPEO",
+        "name": "Penco",
+        "city": "Penco",
+        "coordinates": [
+            -72.98,
+            -36.72
+        ]
+    },
+    {
+        "code": "CLPGO",
+        "name": "Punta Chungo",
+        "city": "Punta Chungo",
+        "coordinates": [
+            -31.885551,
+            -71.5038607
+        ]
+    },
+    {
+        "code": "CLPMC",
+        "name": "Puerto Montt",
+        "city": "Puerto Montt",
+        "coordinates": [
+            -72.95,
+            -41.47
+        ]
+    },
+    {
+        "code": "CLPNT",
+        "name": "Puerto Natales",
+        "city": "Puerto Natales",
+        "coordinates": [
+            -72.5,
+            -51.72
+        ]
+    },
+    {
+        "code": "CLPPC",
+        "name": "Punta Patache",
+        "city": "Punta Patache",
+        "coordinates": [
+            -70.22,
+            -20.82
+        ]
+    },
+    {
+        "code": "CLPPD",
+        "name": "Punta Padrones",
+        "city": "Punta Padrones",
+        "coordinates": [
+            -27.0522946,
+            -70.841904
+        ]
+    },
+    {
+        "code": "CLPTE",
+        "name": "Quellon (Puerto Quellon)",
+        "city": "Quell\u00f3n (Puerto Quell\u00f3n)",
+        "coordinates": [
+            -73.62,
+            -43.1
+        ]
+    },
+    {
+        "code": "CLPTI",
+        "name": "Patillos",
+        "city": "Patillos",
+        "coordinates": [
+            -70.18,
+            -20.75
+        ]
+    },
+    {
+        "code": "CLPUQ",
+        "name": "Punta Arenas",
+        "city": "Punta Arenas",
+        "coordinates": [
+            -70.93,
+            -53.13
+        ]
+    },
+    {
+        "code": "CLQMC",
+        "name": "Quemchi",
+        "city": "Quemchi",
+        "coordinates": [
+            -73.48,
+            -42.13
+        ]
+    },
+    {
+        "code": "CLQTV",
+        "name": "Quintero",
+        "city": "Quintero",
+        "coordinates": [
+            -71.53,
+            -32.77
+        ]
+    },
+    {
+        "code": "CLSAI",
+        "name": "San Antonio",
+        "city": "San Antonio",
+        "coordinates": [
+            -71.6,
+            -33.6
+        ]
+    },
+    {
+        "code": "CLSVE",
+        "name": "San Vicente",
+        "city": "San Vicente",
+        "coordinates": [
+            -73.13,
+            -36.7
+        ]
+    },
+    {
+        "code": "CLTAL",
+        "name": "Talcahuano",
+        "city": "Talcahuano",
+        "coordinates": [
+            -73.12,
+            -36.73
+        ]
+    },
+    {
+        "code": "CLTHO",
+        "name": "Talcahuano",
+        "city": "Talcahuano",
+        "coordinates": [
+            -73.1169808,
+            -36.7247834
+        ]
+    },
+    {
+        "code": "CLTOM",
+        "name": "Tome",
+        "city": "Tom\u00e9",
+        "coordinates": [
+            -72.95,
+            -36.6
+        ]
+    },
+    {
+        "code": "CLTOQ",
+        "name": "Tocopilla",
+        "city": "Tocopilla",
+        "coordinates": [
+            -70.18,
+            -22.08
+        ]
+    },
+    {
+        "code": "CLTTC",
+        "name": "Taltal",
+        "city": "Taltal",
+        "coordinates": [
+            -70.47,
+            -25.4
+        ]
+    },
+    {
+        "code": "CLVAP",
+        "name": "Valparaiso",
+        "city": "Valparaiso",
+        "coordinates": [
+            -71.63,
+            -33.03
+        ]
+    },
+    {
+        "code": "CLWCA",
+        "name": "Castro",
+        "city": "Castro",
+        "coordinates": [
+            -73.77,
+            -42.47
+        ]
+    },
+    {
+        "code": "CLWCH",
+        "name": "Chaiten",
+        "city": "Chait\u00e9n",
+        "coordinates": [
+            -72.7,
+            -42.92
+        ]
+    },
+    {
+        "code": "CLWPA",
+        "name": "Puerto Aisen",
+        "city": "Puerto Ais\u00e9n",
+        "coordinates": [
+            -72.7,
+            -45.38
+        ]
+    },
+    {
+        "code": "CLWPU",
+        "name": "Puerto Williams",
+        "city": "Puerto Williams",
+        "coordinates": [
+            -67.62,
+            -54.92
+        ]
+    },
+    {
+        "code": "CLZUD",
+        "name": "Ancud",
+        "city": "Ancud",
+        "coordinates": [
+            -73.83,
+            -41.85
+        ]
+    }
+]

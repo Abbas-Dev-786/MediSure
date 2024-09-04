@@ -1,0 +1,20 @@
+[
+    {
+        "code": "AIBLP",
+        "name": "Blowing Point",
+        "city": "Blowing Point",
+        "coordinates": [
+            -63.093518,
+            18.177343
+        ]
+    },
+    {
+        "code": "AIRBY",
+        "name": "Road Bay",
+        "city": "Road Bay",
+        "coordinates": [
+            -63.0653265,
+            18.2207493
+        ]
+    }
+]

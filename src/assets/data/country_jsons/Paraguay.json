@@ -1,0 +1,65 @@
+[
+    {
+        "code": "PYASU",
+        "name": "Asuncion",
+        "city": "Asunci\u00f3n",
+        "coordinates": [
+            -57.67,
+            -25.27
+        ]
+    },
+    {
+        "code": "PYBCM",
+        "name": "Barrio Caacupe Mi",
+        "city": "Barrio Caacup\u00e9 M\u00ed",
+        "coordinates": [
+            -57.55,
+            -25.22
+        ]
+    },
+    {
+        "code": "PYFNX",
+        "name": "Fenix",
+        "city": "Fenix",
+        "coordinates": [
+            -57.57592599999999,
+            -25.2637399
+        ]
+    },
+    {
+        "code": "PYPIL",
+        "name": "Pilar",
+        "city": "Pilar",
+        "coordinates": [
+            -58.2918546,
+            -26.8634263
+        ]
+    },
+    {
+        "code": "PYPSE",
+        "name": "Pto Seguro/col Mariano Roque Alonso",
+        "city": "Pto Seguro/col Mariano Roque Alonso",
+        "coordinates": [
+            -57.55,
+            -25.166667
+        ]
+    },
+    {
+        "code": "PYSAN",
+        "name": "San Antonio",
+        "city": "San Antonio",
+        "coordinates": [
+            -57.54761449999999,
+            -25.4200064
+        ]
+    },
+    {
+        "code": "PYTER",
+        "name": "Terport (San Antonio)",
+        "city": "Terport (San Antonio)",
+        "coordinates": [
+            -57.63,
+            -25.38
+        ]
+    }
+]

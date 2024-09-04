@@ -1,0 +1,506 @@
+[
+    {
+        "code": "NOAAV",
+        "name": "Alvik",
+        "city": "\u00c5lvik",
+        "coordinates": [
+            6.42,
+            60.42
+        ]
+    },
+    {
+        "code": "NOAES",
+        "name": "Alesund",
+        "city": "\u00c5lesund",
+        "coordinates": [
+            6.15,
+            62.47
+        ]
+    },
+    {
+        "code": "NOAGO",
+        "name": "Agotnes",
+        "city": "\u00c5gotnes",
+        "coordinates": [
+            5.02,
+            60.4
+        ]
+    },
+    {
+        "code": "NOAND",
+        "name": "Andalsnes",
+        "city": "\u00c5ndalsnes",
+        "coordinates": [
+            7.7,
+            62.57
+        ]
+    },
+    {
+        "code": "NOASV",
+        "name": "Austevoll",
+        "city": "Austevoll",
+        "coordinates": [
+            5.15,
+            60.1
+        ]
+    },
+    {
+        "code": "NOBGO",
+        "name": "Bergen",
+        "city": "Bergen",
+        "coordinates": [
+            5.32,
+            60.38
+        ]
+    },
+    {
+        "code": "NOBOO",
+        "name": "Bodo",
+        "city": "Bod\u00f8",
+        "coordinates": [
+            14.37,
+            67.28
+        ]
+    },
+    {
+        "code": "NOBVK",
+        "name": "Brevik",
+        "city": "Brevik",
+        "coordinates": [
+            9.7,
+            59.05
+        ]
+    },
+    {
+        "code": "NODRM",
+        "name": "Drammen",
+        "city": "Drammen",
+        "coordinates": [
+            10.23,
+            59.73
+        ]
+    },
+    {
+        "code": "NOEGD",
+        "name": "Eigersund",
+        "city": "Eigersund",
+        "coordinates": [
+            5.899172099999999,
+            58.3730054
+        ]
+    },
+    {
+        "code": "NOFKG",
+        "name": "Frekhaug",
+        "city": "Frekhaug",
+        "coordinates": [
+            5.2397138,
+            60.51194100000001
+        ]
+    },
+    {
+        "code": "NOFRK",
+        "name": "Fredrikstad",
+        "city": "Fredrikstad",
+        "coordinates": [
+            10.92,
+            59.2
+        ]
+    },
+    {
+        "code": "NOFRO",
+        "name": "Floro",
+        "city": "Flor\u00f8",
+        "coordinates": [
+            5.02,
+            61.6
+        ]
+    },
+    {
+        "code": "NOFUS",
+        "name": "Fusa",
+        "city": "Fusa",
+        "coordinates": [
+            5.62,
+            60.2
+        ]
+    },
+    {
+        "code": "NOGJM",
+        "name": "Gjemnes",
+        "city": "Gjemnes",
+        "coordinates": [
+            7.7628928,
+            62.95102639999999
+        ]
+    },
+    {
+        "code": "NOHAL",
+        "name": "Halden",
+        "city": "Halden",
+        "coordinates": [
+            11.37,
+            59.1
+        ]
+    },
+    {
+        "code": "NOHAU",
+        "name": "Haugesund",
+        "city": "Haugesund",
+        "coordinates": [
+            5.25,
+            59.4
+        ]
+    },
+    {
+        "code": "NOHES",
+        "name": "Hestvika",
+        "city": "Hestvika",
+        "coordinates": [
+            9.193158,
+            63.56376799999999
+        ]
+    },
+    {
+        "code": "NOHLA",
+        "name": "Holla",
+        "city": "Holla",
+        "coordinates": [
+            9.18,
+            59.6
+        ]
+    },
+    {
+        "code": "NOHOG",
+        "name": "Hogset",
+        "city": "H\u00f8gset",
+        "coordinates": [
+            15.02,
+            67.13
+        ]
+    },
+    {
+        "code": "NOHOY",
+        "name": "Husoy - Tonsberg",
+        "city": "Hus\u00f8y - T\u00f8nsberg",
+        "coordinates": [
+            10.45,
+            59.23
+        ]
+    },
+    {
+        "code": "NOHRI",
+        "name": "Hareid",
+        "city": "Hareid",
+        "coordinates": [
+            6.03,
+            62.37
+        ]
+    },
+    {
+        "code": "NOHRY",
+        "name": "Heroya",
+        "city": "Her\u00f8ya",
+        "coordinates": [
+            9.62,
+            59.12
+        ]
+    },
+    {
+        "code": "NOHUS",
+        "name": "Husnes",
+        "city": "Husnes",
+        "coordinates": [
+            5.77,
+            59.87
+        ]
+    },
+    {
+        "code": "NOHVI",
+        "name": "Havik",
+        "city": "H\u00e5vik",
+        "coordinates": [
+            5.32,
+            59.3
+        ]
+    },
+    {
+        "code": "NOIKR",
+        "name": "Ikornnes",
+        "city": "Ikornnes",
+        "coordinates": [
+            6.55,
+            62.38
+        ]
+    },
+    {
+        "code": "NOKMY",
+        "name": "Karmoy",
+        "city": "Karm\u00f8y",
+        "coordinates": [
+            5.263402,
+            59.276775
+        ]
+    },
+    {
+        "code": "NOKRS",
+        "name": "Kristiansand",
+        "city": "Kristiansand",
+        "coordinates": [
+            7.98,
+            58.13
+        ]
+    },
+    {
+        "code": "NOKRV",
+        "name": "Knarrevik",
+        "city": "Knarrevik",
+        "coordinates": [
+            5.15,
+            60.37
+        ]
+    },
+    {
+        "code": "NOKSU",
+        "name": "Kristiansund",
+        "city": "Kristiansund",
+        "coordinates": [
+            7.73,
+            63.1
+        ]
+    },
+    {
+        "code": "NOLAR",
+        "name": "Larvik",
+        "city": "Larvik",
+        "coordinates": [
+            10.02,
+            59.03
+        ]
+    },
+    {
+        "code": "NOLND",
+        "name": "Lyngdal",
+        "city": "Lyngdal",
+        "coordinates": [
+            7.070436099999999,
+            58.1378983
+        ]
+    },
+    {
+        "code": "NOMAY",
+        "name": "Maloy",
+        "city": "M\u00e5l\u00f8y",
+        "coordinates": [
+            5.1,
+            61.93
+        ]
+    },
+    {
+        "code": "NOMOL",
+        "name": "Molde",
+        "city": "Molde",
+        "coordinates": [
+            7.15,
+            62.73
+        ]
+    },
+    {
+        "code": "NOMON",
+        "name": "Mongstad",
+        "city": "Mongstad",
+        "coordinates": [
+            5.02,
+            60.82
+        ]
+    },
+    {
+        "code": "NOMQN",
+        "name": "Mo i Rana",
+        "city": "Mo i Rana",
+        "coordinates": [
+            14.13,
+            66.32
+        ]
+    },
+    {
+        "code": "NOMSS",
+        "name": "Moss",
+        "city": "Moss",
+        "coordinates": [
+            10.65,
+            59.42
+        ]
+    },
+    {
+        "code": "NOODD",
+        "name": "Odda",
+        "city": "Odda",
+        "coordinates": [
+            6.53,
+            60.07
+        ]
+    },
+    {
+        "code": "NOORK",
+        "name": "Orkanger",
+        "city": "Orkanger",
+        "coordinates": [
+            9.83,
+            63.32
+        ]
+    },
+    {
+        "code": "NOOSL",
+        "name": "Oslo",
+        "city": "Oslo",
+        "coordinates": [
+            10.73,
+            59.9
+        ]
+    },
+    {
+        "code": "NOPOR",
+        "name": "Porsgrunn",
+        "city": "Porsgrunn",
+        "coordinates": [
+            9.63,
+            59.13
+        ]
+    },
+    {
+        "code": "NOSAD",
+        "name": "Sandefjord",
+        "city": "Sandefjord",
+        "coordinates": [
+            10.22,
+            59.12
+        ]
+    },
+    {
+        "code": "NOSAU",
+        "name": "Sauda",
+        "city": "Sauda",
+        "coordinates": [
+            6.35,
+            59.63
+        ]
+    },
+    {
+        "code": "NOSKE",
+        "name": "Skien",
+        "city": "Skien",
+        "coordinates": [
+            9.6,
+            59.2
+        ]
+    },
+    {
+        "code": "NOSKX",
+        "name": "Skogn",
+        "city": "Skogn",
+        "coordinates": [
+            11.15,
+            63.7
+        ]
+    },
+    {
+        "code": "NOSLX",
+        "name": "Sortland",
+        "city": "Sortland",
+        "coordinates": [
+            15.42,
+            68.7
+        ]
+    },
+    {
+        "code": "NOSPG",
+        "name": "Sarpsborg",
+        "city": "Sarpsborg",
+        "coordinates": [
+            11.1,
+            59.27
+        ]
+    },
+    {
+        "code": "NOSRP",
+        "name": "Stord",
+        "city": "Stord",
+        "coordinates": [
+            5.48,
+            59.75
+        ]
+    },
+    {
+        "code": "NOSTM",
+        "name": "Straumen",
+        "city": "Straumen",
+        "coordinates": [
+            15.6,
+            67.35
+        ]
+    },
+    {
+        "code": "NOSUN",
+        "name": "Sunndalsora",
+        "city": "Sunndals\u00f8ra",
+        "coordinates": [
+            8.55,
+            62.67
+        ]
+    },
+    {
+        "code": "NOSVE",
+        "name": "Svelgen",
+        "city": "Svelgen",
+        "coordinates": [
+            5.28,
+            61.77
+        ]
+    },
+    {
+        "code": "NOSVG",
+        "name": "Stavanger",
+        "city": "Stavanger",
+        "coordinates": [
+            5.75,
+            58.97
+        ]
+    },
+    {
+        "code": "NOTAE",
+        "name": "Tananger",
+        "city": "Tananger",
+        "coordinates": [
+            5.58,
+            58.92
+        ]
+    },
+    {
+        "code": "NOTON",
+        "name": "Tonsberg",
+        "city": "T\u00f8nsberg",
+        "coordinates": [
+            10.42,
+            59.25
+        ]
+    },
+    {
+        "code": "NOTOS",
+        "name": "Tromso",
+        "city": "Troms\u00f8",
+        "coordinates": [
+            18.97,
+            69.67
+        ]
+    },
+    {
+        "code": "NOTRD",
+        "name": "Trondheim",
+        "city": "Trondheim",
+        "coordinates": [
+            10.4,
+            63.43
+        ]
+    }
+]

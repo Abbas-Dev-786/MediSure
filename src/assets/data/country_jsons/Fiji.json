@@ -1,0 +1,20 @@
+[
+    {
+        "code": "FJLTK",
+        "name": "Lautoka",
+        "city": "Lautoka",
+        "coordinates": [
+            177.45,
+            -17.62
+        ]
+    },
+    {
+        "code": "FJSUV",
+        "name": "Suva",
+        "city": "Suva",
+        "coordinates": [
+            178.4500789,
+            -18.1248086
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "code": "IEDRO",
+        "name": "Drogheda",
+        "city": "Drogheda",
+        "coordinates": [
+            -6.3560985,
+            53.717856
+        ]
+    },
+    {
+        "code": "IEDUB",
+        "name": "Dublin",
+        "city": "Dublin",
+        "coordinates": [
+            -6.2603097,
+            53.3498053
+        ]
+    },
+    {
+        "code": "IEFOV",
+        "name": "Foynes",
+        "city": "Foynes",
+        "coordinates": [
+            -9.1051123,
+            52.6105253
+        ]
+    },
+    {
+        "code": "IEGWY",
+        "name": "Galway",
+        "city": "Galway",
+        "coordinates": [
+            -9.0567905,
+            53.270668
+        ]
+    },
+    {
+        "code": "IEKLN",
+        "name": "Kinsale",
+        "city": "Kinsale",
+        "coordinates": [
+            -8.5225014,
+            51.7060502
+        ]
+    },
+    {
+        "code": "IEORK",
+        "name": "Cork",
+        "city": "Cork",
+        "coordinates": [
+            -8.4863157,
+            51.8968917
+        ]
+    },
+    {
+        "code": "IEWAT",
+        "name": "Waterford",
+        "city": "Waterford",
+        "coordinates": [
+            -7.1,
+            52.25
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "LVAIZ",
+        "name": "Aizkraukle",
+        "city": "Aizkraukle",
+        "coordinates": [
+            25.27645,
+            57.69487600000001
+        ]
+    },
+    {
+        "code": "LVRIX",
+        "name": "Riga",
+        "city": "Riga",
+        "coordinates": [
+            24.093533,
+            56.961029
+        ]
+    },
+    {
+        "code": "LVSAL",
+        "name": "Salacgriva",
+        "city": "Salacgriva",
+        "coordinates": [
+            24.4923901,
+            57.7069608
+        ]
+    },
+    {
+        "code": "LVVNT",
+        "name": "Ventspils",
+        "city": "Ventspils",
+        "coordinates": [
+            21.8587558,
+            57.2833682
+        ]
+    }
+]

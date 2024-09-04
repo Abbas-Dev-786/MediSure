@@ -1,0 +1,146 @@
+[
+    {
+        "code": "RUARH",
+        "name": "Arkhangelsk",
+        "city": "Arkhangelsk",
+        "coordinates": [
+            40.5601553,
+            64.54725069999999
+        ]
+    },
+    {
+        "code": "RUGDX",
+        "name": "Magadan",
+        "city": "Magadan",
+        "coordinates": [
+            150.8301413,
+            59.5611525
+        ]
+    },
+    {
+        "code": "RUKGD",
+        "name": "Kaliningrad",
+        "city": "Kaliningrad",
+        "coordinates": [
+            20.4522144,
+            54.7104264
+        ]
+    },
+    {
+        "code": "RUKHO",
+        "name": "Kholmsk",
+        "city": "Kholmsk",
+        "coordinates": [
+            142.05,
+            47.05
+        ]
+    },
+    {
+        "code": "RUKOR",
+        "name": "Korsakov",
+        "city": "Korsakov",
+        "coordinates": [
+            142.7841876,
+            46.6353796
+        ]
+    },
+    {
+        "code": "RUKRR",
+        "name": "Krasnodar",
+        "city": "Krasnodar",
+        "coordinates": [
+            38.987221,
+            45.03926740000001
+        ]
+    },
+    {
+        "code": "RULED",
+        "name": "Saint Petersburg (ex Leningrad)",
+        "city": "Saint Petersburg (ex Leningrad)",
+        "coordinates": [
+            30.25,
+            59.88
+        ]
+    },
+    {
+        "code": "RUMMK",
+        "name": "Murmansk",
+        "city": "Murmansk",
+        "coordinates": [
+            33.0826598,
+            68.9585244
+        ]
+    },
+    {
+        "code": "RUNJK",
+        "name": "Nakhodka",
+        "city": "Nakhodka",
+        "coordinates": [
+            132.8834039,
+            42.8222753
+        ]
+    },
+    {
+        "code": "RUNVS",
+        "name": "Novorossiysk",
+        "city": "Novorossiysk",
+        "coordinates": [
+            37.77,
+            44.72
+        ]
+    },
+    {
+        "code": "RUPTP",
+        "name": "Potapova",
+        "city": "Potapova",
+        "coordinates": [
+            103.948625,
+            56.13214199999999
+        ]
+    },
+    {
+        "code": "RUROV",
+        "name": "Rostov",
+        "city": "Rostov",
+        "coordinates": [
+            39.701505,
+            47.2357137
+        ]
+    },
+    {
+        "code": "RUTAG",
+        "name": "Taganrog",
+        "city": "Taganrog",
+        "coordinates": [
+            38.8676013,
+            47.2416334
+        ]
+    },
+    {
+        "code": "RUVVO",
+        "name": "Vladivostok",
+        "city": "Vladivostok",
+        "coordinates": [
+            132.0064506,
+            43.1737387
+        ]
+    },
+    {
+        "code": "RUVYG",
+        "name": "Vyborg",
+        "city": "Vyborg",
+        "coordinates": [
+            28.75715709999999,
+            60.7139529
+        ]
+    },
+    {
+        "code": "RUVYP",
+        "name": "Vostochnyy Port",
+        "city": "Vostochnyy",
+        "coordinates": [
+            133.05,
+            42.77
+        ]
+    }
+]

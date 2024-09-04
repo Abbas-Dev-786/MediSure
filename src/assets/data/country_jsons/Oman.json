@@ -1,0 +1,47 @@
+[
+    {
+        "code": "OMMCT",
+        "name": "Muscat",
+        "city": "Muscat",
+        "coordinates": [
+            58.4059227,
+            23.58589
+        ]
+    },
+    {
+        "code": "OMMNQ",
+        "name": "Mina' Qabus",
+        "city": "Mina' Qabus",
+        "coordinates": [
+            58.57,
+            23.62
+        ]
+    },
+    {
+        "code": "OMOPQ",
+        "name": "Port Qaboos",
+        "city": "Port Qaboos",
+        "coordinates": [
+            58.5615244,
+            23.6275477
+        ]
+    },
+    {
+        "code": "OMSLL",
+        "name": "Salalah",
+        "city": "Salalah",
+        "coordinates": [
+            54.1065864,
+            17.0506675
+        ]
+    },
+    {
+        "code": "OMSOH",
+        "name": "Sohar",
+        "city": "Sohar",
+        "coordinates": [
+            56.7075141,
+            24.3460959
+        ]
+    }
+]

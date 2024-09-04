@@ -1,0 +1,29 @@
+[
+    {
+        "code": "KWKWI",
+        "name": "Kuwait",
+        "city": "Kuwait",
+        "coordinates": [
+            47.9774052,
+            29.375859
+        ]
+    },
+    {
+        "code": "KWSAA",
+        "name": "Shuaiba",
+        "city": "Shuaiba",
+        "coordinates": [
+            48.13,
+            29.03
+        ]
+    },
+    {
+        "code": "KWSWK",
+        "name": "Shuwaikh",
+        "city": "Shuwaikh",
+        "coordinates": [
+            47.9670891,
+            29.3671915
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "code": "SYDAM",
+        "name": "Damascus (Damas)",
+        "city": "Damascus (Damas)",
+        "coordinates": [
+            36.2765279,
+            33.5138073
+        ]
+    },
+    {
+        "code": "SYLTK",
+        "name": "Latakia",
+        "city": "Latakia",
+        "coordinates": [
+            35.78,
+            35.52
+        ]
+    },
+    {
+        "code": "SYTTS",
+        "name": "Tartus",
+        "city": "Tartus",
+        "coordinates": [
+            35.9,
+            34.9
+        ]
+    }
+]

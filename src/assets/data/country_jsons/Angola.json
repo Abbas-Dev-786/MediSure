@@ -1,0 +1,47 @@
+[
+    {
+        "code": "AOCAB",
+        "name": "Cabinda",
+        "city": "Cabinda",
+        "coordinates": [
+            12.197583,
+            -5.570573899999999
+        ]
+    },
+    {
+        "code": "AOLAD",
+        "name": "Luanda",
+        "city": "Luanda",
+        "coordinates": [
+            13.2894368,
+            -8.839987599999999
+        ]
+    },
+    {
+        "code": "AOLOB",
+        "name": "Lobito",
+        "city": "Lobito",
+        "coordinates": [
+            13.5610451,
+            -12.3757287
+        ]
+    },
+    {
+        "code": "AOMSZ",
+        "name": "Namibe",
+        "city": "Namibe",
+        "coordinates": [
+            12.1575544,
+            -15.1978317
+        ]
+    },
+    {
+        "code": "AOSZA",
+        "name": "Soyo",
+        "city": "Soyo",
+        "coordinates": [
+            12.3521148,
+            -6.1410265
+        ]
+    }
+]

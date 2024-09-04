@@ -1,0 +1,245 @@
+[
+    {
+        "code": "AUABP",
+        "name": "Abbot Point",
+        "city": "Abbot Point",
+        "coordinates": [
+            148.0846726,
+            -19.9078861
+        ]
+    },
+    {
+        "code": "AUADL",
+        "name": "Adelaide",
+        "city": "Adelaide",
+        "coordinates": [
+            138.58,
+            -34.92
+        ]
+    },
+    {
+        "code": "AUARD",
+        "name": "Ardrossan",
+        "city": "Ardrossan",
+        "coordinates": [
+            137.9174283,
+            -34.4230702
+        ]
+    },
+    {
+        "code": "AUBBY",
+        "name": "Bremer Bay",
+        "city": "Bremer Bay",
+        "coordinates": [
+            119.379376,
+            -34.3926208
+        ]
+    },
+    {
+        "code": "AUBEL",
+        "name": "Bell Bay",
+        "city": "Bell Bay",
+        "coordinates": [
+            146.8635558,
+            -41.1154147
+        ]
+    },
+    {
+        "code": "AUBNE",
+        "name": "Brisbane",
+        "city": "Brisbane",
+        "coordinates": [
+            153.02,
+            -27.47
+        ]
+    },
+    {
+        "code": "AUBOO",
+        "name": "Booby Island",
+        "city": "Booby Island",
+        "coordinates": [
+            141.92,
+            -10.6
+        ]
+    },
+    {
+        "code": "AUBWT",
+        "name": "Burnie",
+        "city": "Burnie",
+        "coordinates": [
+            145.9068513,
+            -41.0524649
+        ]
+    },
+    {
+        "code": "AUCHT",
+        "name": "Chittering",
+        "city": "Chittering",
+        "coordinates": [
+            116.1010108,
+            -31.4700549
+        ]
+    },
+    {
+        "code": "AUCNS",
+        "name": "Cairns",
+        "city": "Cairns",
+        "coordinates": [
+            145.7708595,
+            -16.9203338
+        ]
+    },
+    {
+        "code": "AUDPO",
+        "name": "Devonport",
+        "city": "Devonport",
+        "coordinates": [
+            146.3609534,
+            -41.1783532
+        ]
+    },
+    {
+        "code": "AUDRW",
+        "name": "Darwin",
+        "city": "Darwin",
+        "coordinates": [
+            130.83,
+            -12.45
+        ]
+    },
+    {
+        "code": "AUFRE",
+        "name": "Fremantle",
+        "city": "Fremantle",
+        "coordinates": [
+            115.7471797,
+            -32.0560399
+        ]
+    },
+    {
+        "code": "AUGLT",
+        "name": "Gladstone",
+        "city": "Gladstone",
+        "coordinates": [
+            151.2597998,
+            -23.8487083
+        ]
+    },
+    {
+        "code": "AUGOV",
+        "name": "Gove",
+        "city": "Gove",
+        "coordinates": [
+            130.8717878,
+            -12.3780716
+        ]
+    },
+    {
+        "code": "AUHBA",
+        "name": "Hobart",
+        "city": "Hobart",
+        "coordinates": [
+            147.3,
+            -42.87
+        ]
+    },
+    {
+        "code": "AUHPT",
+        "name": "Hay Point",
+        "city": "Hay Point",
+        "coordinates": [
+            149.2921629,
+            -21.3055785
+        ]
+    },
+    {
+        "code": "AULST",
+        "name": "Launceston",
+        "city": "Launceston",
+        "coordinates": [
+            147.1124679,
+            -41.4261807
+        ]
+    },
+    {
+        "code": "AUMEL",
+        "name": "Melbourne",
+        "city": "Melbourne",
+        "coordinates": [
+            144.97,
+            -37.82
+        ]
+    },
+    {
+        "code": "AUNLK",
+        "name": "New Norfolk",
+        "city": "New Norfolk",
+        "coordinates": [
+            147.0636496,
+            -42.7806827
+        ]
+    },
+    {
+        "code": "AUNTL",
+        "name": "Newcastle",
+        "city": "Newcastle",
+        "coordinates": [
+            151.7789205,
+            -32.926689
+        ]
+    },
+    {
+        "code": "AUPAE",
+        "name": "Port Adelaide",
+        "city": "Port Adelaide",
+        "coordinates": [
+            138.5073616,
+            -34.8477448
+        ]
+    },
+    {
+        "code": "AUPHE",
+        "name": "Port Hedland",
+        "city": "Port Hedland",
+        "coordinates": [
+            118.5752577,
+            -20.3116266
+        ]
+    },
+    {
+        "code": "AUPKL",
+        "name": "Port Kembla",
+        "city": "Port Kembla",
+        "coordinates": [
+            150.900495,
+            -34.4800735
+        ]
+    },
+    {
+        "code": "AUSYD",
+        "name": "Sydney",
+        "city": "Sydney",
+        "coordinates": [
+            151.2,
+            -33.85
+        ]
+    },
+    {
+        "code": "AUTSV",
+        "name": "Townsville",
+        "city": "Townsville",
+        "coordinates": [
+            146.8178707,
+            -19.2576268
+        ]
+    },
+    {
+        "code": "AUWEI",
+        "name": "Weipa",
+        "city": "Weipa",
+        "coordinates": [
+            141.8384064,
+            -12.6591475
+        ]
+    }
+]

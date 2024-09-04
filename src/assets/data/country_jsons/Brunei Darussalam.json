@@ -1,0 +1,29 @@
+[
+    {
+        "code": "BNBWN",
+        "name": "Bandar Seri Begawan",
+        "city": "Bandar Seri Begawan",
+        "coordinates": [
+            114.93,
+            4.88
+        ]
+    },
+    {
+        "code": "BNKUB",
+        "name": "Kuala Belait",
+        "city": "Kuala Belait",
+        "coordinates": [
+            114.2212174,
+            4.5831986
+        ]
+    },
+    {
+        "code": "BNMUA",
+        "name": "Muara",
+        "city": "Muara",
+        "coordinates": [
+            115.0732883,
+            5.0333206
+        ]
+    }
+]

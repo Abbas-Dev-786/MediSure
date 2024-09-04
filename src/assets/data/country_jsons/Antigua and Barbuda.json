@@ -1,0 +1,20 @@
+[
+    {
+        "code": "AGANU",
+        "name": "Antigua",
+        "city": "Antigua",
+        "coordinates": [
+            -61.8175207,
+            17.0746557
+        ]
+    },
+    {
+        "code": "AGSJO",
+        "name": "Saint John's",
+        "city": "Saint John's",
+        "coordinates": [
+            -61.85,
+            17.12
+        ]
+    }
+]

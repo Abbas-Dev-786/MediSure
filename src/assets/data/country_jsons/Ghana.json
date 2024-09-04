@@ -1,0 +1,20 @@
+[
+    {
+        "code": "GHTEM",
+        "name": "Tema",
+        "city": "Tema",
+        "coordinates": [
+            0.0186555,
+            5.7089238
+        ]
+    },
+    {
+        "code": "GHTKD",
+        "name": "Takoradi",
+        "city": "Takoradi",
+        "coordinates": [
+            -1.7830973,
+            4.9015794
+        ]
+    }
+]

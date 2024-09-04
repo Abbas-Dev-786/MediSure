@@ -1,0 +1,20 @@
+[
+    {
+        "code": "LBBEY",
+        "name": "Beirut",
+        "city": "Beirut",
+        "coordinates": [
+            35.48,
+            33.83
+        ]
+    },
+    {
+        "code": "LBKYE",
+        "name": "Tripoli",
+        "city": "Tripoli",
+        "coordinates": [
+            35.8308371,
+            34.4380941
+        ]
+    }
+]

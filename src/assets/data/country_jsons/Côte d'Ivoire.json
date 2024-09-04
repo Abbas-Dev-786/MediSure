@@ -1,0 +1,20 @@
+[
+    {
+        "code": "CIABJ",
+        "name": "Abidjan",
+        "city": "Abidjan",
+        "coordinates": [
+            -4.0082563,
+            5.3599517
+        ]
+    },
+    {
+        "code": "CISPY",
+        "name": "San-Pedro",
+        "city": "San-P\u00e9dro",
+        "coordinates": [
+            -6.62,
+            4.73
+        ]
+    }
+]

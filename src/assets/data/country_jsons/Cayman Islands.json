@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KYGCM",
+        "name": "Grand Cayman",
+        "city": "Grand Cayman",
+        "coordinates": [
+            -81.35,
+            19.28
+        ]
+    },
+    {
+        "code": "KYGEC",
+        "name": "Georgetown, Grand Cayman",
+        "city": "Georgetown, Grand Cayman",
+        "coordinates": [
+            -81.38,
+            19.3
+        ]
+    }
+]

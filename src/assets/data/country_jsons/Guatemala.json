@@ -1,0 +1,47 @@
+[
+    {
+        "code": "GTCHR",
+        "name": "Champerico",
+        "city": "Champerico",
+        "coordinates": [
+            -91.92,
+            14.3
+        ]
+    },
+    {
+        "code": "GTGUA",
+        "name": "Guatemala City",
+        "city": "Guatemala City",
+        "coordinates": [
+            -90.5068824,
+            14.6349149
+        ]
+    },
+    {
+        "code": "GTPBR",
+        "name": "Puerto Barrios",
+        "city": "Puerto Barrios",
+        "coordinates": [
+            -88.58551729999999,
+            15.695364
+        ]
+    },
+    {
+        "code": "GTPRQ",
+        "name": "Puerto Quetzal",
+        "city": "Puerto Quetzal",
+        "coordinates": [
+            -90.7580342,
+            13.9306292
+        ]
+    },
+    {
+        "code": "GTSTC",
+        "name": "Puerto Santo Tomas de Castilla",
+        "city": "Puerto Santo Tom\u00e1s de Castilla",
+        "coordinates": [
+            -88.62,
+            15.7
+        ]
+    }
+]

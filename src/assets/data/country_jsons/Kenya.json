@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KEMBA",
+        "name": "Mombasa",
+        "city": "Mombasa",
+        "coordinates": [
+            39.6682065,
+            -4.0434771
+        ]
+    },
+    {
+        "code": "KENBO",
+        "name": "Nairobi",
+        "city": "Nairobi",
+        "coordinates": [
+            36.8219462,
+            -1.2920659
+        ]
+    }
+]

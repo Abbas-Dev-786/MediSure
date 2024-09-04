@@ -1,0 +1,200 @@
+[
+    {
+        "code": "SEAHU",
+        "name": "Ahus",
+        "city": "\u00c5hus",
+        "coordinates": [
+            14.2979949,
+            55.9250391
+        ]
+    },
+    {
+        "code": "SEFAG",
+        "name": "Falkenberg",
+        "city": "Falkenberg",
+        "coordinates": [
+            12.4888013,
+            56.90273329999999
+        ]
+    },
+    {
+        "code": "SEGOT",
+        "name": "Goteborg",
+        "city": "G\u00f6teborg",
+        "coordinates": [
+            11.97,
+            57.72
+        ]
+    },
+    {
+        "code": "SEGVX",
+        "name": "Gavle",
+        "city": "G\u00e4vle",
+        "coordinates": [
+            17.1412726,
+            60.6748796
+        ]
+    },
+    {
+        "code": "SEHAD",
+        "name": "Halmstad",
+        "city": "Halmstad",
+        "coordinates": [
+            12.8577884,
+            56.6743748
+        ]
+    },
+    {
+        "code": "SEHEL",
+        "name": "Helsingborg",
+        "city": "Helsingborg",
+        "coordinates": [
+            12.6945121,
+            56.0464674
+        ]
+    },
+    {
+        "code": "SEKAN",
+        "name": "Karlshamn",
+        "city": "Karlshamn",
+        "coordinates": [
+            14.863073,
+            56.170303
+        ]
+    },
+    {
+        "code": "SEKSD",
+        "name": "Karlstad",
+        "city": "Karlstad",
+        "coordinates": [
+            13.5114977,
+            59.4021806
+        ]
+    },
+    {
+        "code": "SELAA",
+        "name": "Landskrona",
+        "city": "Landskrona",
+        "coordinates": [
+            12.8300802,
+            55.8703477
+        ]
+    },
+    {
+        "code": "SEMMA",
+        "name": "Malmo",
+        "city": "Malm\u00f6",
+        "coordinates": [
+            13,
+            55.6
+        ]
+    },
+    {
+        "code": "SENRK",
+        "name": "Norrkoping",
+        "city": "Norrk\u00f6ping",
+        "coordinates": [
+            16.192421,
+            58.587745
+        ]
+    },
+    {
+        "code": "SEOSK",
+        "name": "Oskarshamn",
+        "city": "Oskarshamn",
+        "coordinates": [
+            16.4473984,
+            57.26569929999999
+        ]
+    },
+    {
+        "code": "SEOXE",
+        "name": "Oxelosund",
+        "city": "Oxel\u00f6sund",
+        "coordinates": [
+            17.1037333,
+            58.6701741
+        ]
+    },
+    {
+        "code": "SESDL",
+        "name": "Sundsvall",
+        "city": "Sundsvall",
+        "coordinates": [
+            17.3,
+            62.38
+        ]
+    },
+    {
+        "code": "SESFT",
+        "name": "Skelleftea",
+        "city": "Skellefte\u00e5",
+        "coordinates": [
+            20.950917,
+            64.750244
+        ]
+    },
+    {
+        "code": "SESKE",
+        "name": "Skelleftehamn",
+        "city": "Skelleftehamn",
+        "coordinates": [
+            21.2361263,
+            64.6861026
+        ]
+    },
+    {
+        "code": "SESOE",
+        "name": "Sodertalje",
+        "city": "S\u00f6dert\u00e4lje",
+        "coordinates": [
+            17.62,
+            59.2
+        ]
+    },
+    {
+        "code": "SESTO",
+        "name": "Stockholm",
+        "city": "Stockholm",
+        "coordinates": [
+            18.0685808,
+            59.32932349999999
+        ]
+    },
+    {
+        "code": "SETRG",
+        "name": "Trelleborg",
+        "city": "Trelleborg",
+        "coordinates": [
+            13.1574231,
+            55.3762427
+        ]
+    },
+    {
+        "code": "SEUDD",
+        "name": "Uddevalla",
+        "city": "Uddevalla",
+        "coordinates": [
+            11.935649,
+            58.3498003
+        ]
+    },
+    {
+        "code": "SEUME",
+        "name": "Umea",
+        "city": "Ume\u00e5",
+        "coordinates": [
+            20.25,
+            63.83
+        ]
+    },
+    {
+        "code": "SEVST",
+        "name": "Vasteras",
+        "city": "V\u00e4ster\u00e5s",
+        "coordinates": [
+            16.5448091,
+            59.60990049999999
+        ]
+    }
+]

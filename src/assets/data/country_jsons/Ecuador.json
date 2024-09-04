@@ -1,0 +1,74 @@
+[
+    {
+        "code": "ECBHA",
+        "name": "Bahia de Caraquez",
+        "city": "Bah\u00eda de Car\u00e1quez",
+        "coordinates": [
+            -80.5,
+            -0.55
+        ]
+    },
+    {
+        "code": "ECCHA",
+        "name": "Chanduy",
+        "city": "Chanduy",
+        "coordinates": [
+            -80.67,
+            -2.42
+        ]
+    },
+    {
+        "code": "ECESM",
+        "name": "Esmeraldas",
+        "city": "Esmeraldas",
+        "coordinates": [
+            -79.7,
+            0.98
+        ]
+    },
+    {
+        "code": "ECGYE",
+        "name": "Guayaquil",
+        "city": "Guayaquil",
+        "coordinates": [
+            -79.9,
+            -2.17
+        ]
+    },
+    {
+        "code": "ECLLD",
+        "name": "La Libertad",
+        "city": "La Libertad",
+        "coordinates": [
+            -80.9,
+            -2.23
+        ]
+    },
+    {
+        "code": "ECMEC",
+        "name": "Manta",
+        "city": "Manta",
+        "coordinates": [
+            -80.73,
+            -0.95
+        ]
+    },
+    {
+        "code": "ECMTV",
+        "name": "Monteverde",
+        "city": "Monteverde",
+        "coordinates": [
+            -80.72,
+            -2.03
+        ]
+    },
+    {
+        "code": "ECPBO",
+        "name": "Puerto Bolivar",
+        "city": "Puerto Bol\u00edvar",
+        "coordinates": [
+            -79.98,
+            -3.27
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "code": "CVMIN",
+        "name": "Mindelo",
+        "city": "Mindelo",
+        "coordinates": [
+            -25,
+            16.88
+        ]
+    },
+    {
+        "code": "CVPAL",
+        "name": "Palmeira",
+        "city": "Palmeira",
+        "coordinates": [
+            -22.9788596,
+            16.7582698
+        ]
+    },
+    {
+        "code": "CVRAI",
+        "name": "Praia",
+        "city": "Praia",
+        "coordinates": [
+            -23.5133267,
+            14.93305
+        ]
+    }
+]

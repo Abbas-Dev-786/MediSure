@@ -1,0 +1,20 @@
+[
+    {
+        "code": "BGBOJ",
+        "name": "Burgas",
+        "city": "Burgas",
+        "coordinates": [
+            27.4626361,
+            42.50479259999999
+        ]
+    },
+    {
+        "code": "BGVAR",
+        "name": "Varna",
+        "city": "Varna",
+        "coordinates": [
+            27.9147333,
+            43.2140504
+        ]
+    }
+]

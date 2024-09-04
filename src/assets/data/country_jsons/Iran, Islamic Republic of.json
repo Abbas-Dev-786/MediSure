@@ -1,0 +1,47 @@
+[
+    {
+        "code": "IRBKM",
+        "name": "Bandar Khomeini",
+        "city": "Bandar Khomeini",
+        "coordinates": [
+            49.1,
+            30.43
+        ]
+    },
+    {
+        "code": "IRBND",
+        "name": "Bandar Abbas",
+        "city": "Bandar Abbas",
+        "coordinates": [
+            56.27,
+            27.18
+        ]
+    },
+    {
+        "code": "IRBUZ",
+        "name": "Bushehr",
+        "city": "Bushehr",
+        "coordinates": [
+            50.83,
+            28.97
+        ]
+    },
+    {
+        "code": "IRKHO",
+        "name": "Khorramshahr",
+        "city": "Khorramshahr",
+        "coordinates": [
+            48.1891185,
+            30.4256219
+        ]
+    },
+    {
+        "code": "IRZBR",
+        "name": "Chah Bahar",
+        "city": "Chah Bahar",
+        "coordinates": [
+            60.6459285,
+            25.296878
+        ]
+    }
+]

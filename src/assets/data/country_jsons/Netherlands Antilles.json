@@ -1,0 +1,56 @@
+[
+    {
+        "code": "ANBON",
+        "name": "Bonaire",
+        "city": "Bonaire",
+        "coordinates": [
+            -68.26238219999999,
+            12.2018902
+        ]
+    },
+    {
+        "code": "ANCUR",
+        "name": "Curacao",
+        "city": "Curacao",
+        "coordinates": [
+            -68.8824233,
+            12.1224221
+        ]
+    },
+    {
+        "code": "ANGSB",
+        "name": "Galisby",
+        "city": "Galisby",
+        "coordinates": [
+            12.1686756,
+            -68.4486145
+        ]
+    },
+    {
+        "code": "ANPHI",
+        "name": "Philipsburg",
+        "city": "Philipsburg",
+        "coordinates": [
+            -63.04713709999999,
+            18.0295839
+        ]
+    },
+    {
+        "code": "ANSXM",
+        "name": "St Maarten",
+        "city": "St Maarten",
+        "coordinates": [
+            -68.81088489999999,
+            12.2248767
+        ]
+    },
+    {
+        "code": "ANWIL",
+        "name": "Willemstad",
+        "city": "Willemstad",
+        "coordinates": [
+            -68.8824233,
+            12.1224221
+        ]
+    }
+]

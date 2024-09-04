@@ -1,0 +1,119 @@
+[
+    {
+        "code": "VNCLI",
+        "name": "Cat Lai",
+        "city": "C\u00e1t L\u00e1i",
+        "coordinates": [
+            106.78,
+            10.77
+        ]
+    },
+    {
+        "code": "VNCLN",
+        "name": "Cai Lan",
+        "city": "Cai Lan",
+        "coordinates": [
+            107.05,
+            21.42
+        ]
+    },
+    {
+        "code": "VNDAD",
+        "name": "Da Nang",
+        "city": "Da Nang",
+        "coordinates": [
+            108.2021667,
+            16.0544068
+        ]
+    },
+    {
+        "code": "VNHPH",
+        "name": "Haiphong",
+        "city": "Haiphong",
+        "coordinates": [
+            106.6880841,
+            20.8449115
+        ]
+    },
+    {
+        "code": "VNNHA",
+        "name": "Nha Trang",
+        "city": "Nha Trang",
+        "coordinates": [
+            109.1967488,
+            12.2387911
+        ]
+    },
+    {
+        "code": "VNPHG",
+        "name": "Phuoc Long",
+        "city": "Phu\u00f3c Long",
+        "coordinates": [
+            106.95,
+            10.72
+        ]
+    },
+    {
+        "code": "VNSGN",
+        "name": "Ho Chi Minh City",
+        "city": "Ho Chi Minh City",
+        "coordinates": [
+            106.67,
+            10.77
+        ]
+    },
+    {
+        "code": "VNSTD",
+        "name": "Su Tu Den",
+        "city": "Su Tu Den",
+        "coordinates": [
+            108.2614775,
+            10.9804603
+        ]
+    },
+    {
+        "code": "VNTOT",
+        "name": "Cai Mep",
+        "city": "Cai Mep",
+        "coordinates": [
+            107.1551514,
+            10.5850216
+        ]
+    },
+    {
+        "code": "VNTTD",
+        "name": "Tan Thuan Dong",
+        "city": "T\u00e2n Thuan D\u00f4ng",
+        "coordinates": [
+            106.72,
+            10.73
+        ]
+    },
+    {
+        "code": "VNUIH",
+        "name": "Qui Nhon",
+        "city": "Qui Nhon",
+        "coordinates": [
+            109.22,
+            13.77
+        ]
+    },
+    {
+        "code": "VNVIC",
+        "name": "Ho Chi Minh, VICT",
+        "city": "Ho Chi Minh, VICT",
+        "coordinates": [
+            106.6721498,
+            10.796011
+        ]
+    },
+    {
+        "code": "VNVUT",
+        "name": "Vung Tau",
+        "city": "Vung Tau",
+        "coordinates": [
+            107.07,
+            10.35
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "UYCYR",
+        "name": "Colonia",
+        "city": "Colonia",
+        "coordinates": [
+            -55.765835,
+            -32.522779
+        ]
+    },
+    {
+        "code": "UYMVD",
+        "name": "Montevideo",
+        "city": "Montevideo",
+        "coordinates": [
+            -56.16453139999999,
+            -34.9011127
+        ]
+    },
+    {
+        "code": "UYNVP",
+        "name": "Nueva Palmira",
+        "city": "Nueva Palmira",
+        "coordinates": [
+            -58.4002165,
+            -33.877469
+        ]
+    },
+    {
+        "code": "UYPDU",
+        "name": "Paysandu",
+        "city": "Paysandu",
+        "coordinates": [
+            -57.4627259,
+            -32.2216595
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "SVAQJ",
+        "name": "Acajutla",
+        "city": "Acajutla",
+        "coordinates": [
+            -89.82708939999999,
+            13.5957
+        ]
+    },
+    {
+        "code": "SVLLD",
+        "name": "La Libertad",
+        "city": "La Libertad",
+        "coordinates": [
+            -89.32,
+            13.48
+        ]
+    },
+    {
+        "code": "SVLUN",
+        "name": "La Union",
+        "city": "La Union",
+        "coordinates": [
+            -87.8500644,
+            13.3323464
+        ]
+    },
+    {
+        "code": "SVSAL",
+        "name": "San Salvador",
+        "city": "San Salvador",
+        "coordinates": [
+            -89.2181911,
+            13.6929403
+        ]
+    }
+]

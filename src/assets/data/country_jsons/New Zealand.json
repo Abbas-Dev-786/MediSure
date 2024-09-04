@@ -1,0 +1,164 @@
+[
+    {
+        "code": "NZAKL",
+        "name": "Auckland",
+        "city": "Auckland",
+        "coordinates": [
+            174.8,
+            -36.83
+        ]
+    },
+    {
+        "code": "NZBLU",
+        "name": "Bluff",
+        "city": "Bluff",
+        "coordinates": [
+            168.32,
+            -46.6
+        ]
+    },
+    {
+        "code": "NZCHC",
+        "name": "Christchurch",
+        "city": "Christchurch",
+        "coordinates": [
+            172.63,
+            -43.53
+        ]
+    },
+    {
+        "code": "NZDUD",
+        "name": "Dunedin",
+        "city": "Dunedin",
+        "coordinates": [
+            170.5,
+            -45.87
+        ]
+    },
+    {
+        "code": "NZHLZ",
+        "name": "Hamilton",
+        "city": "Hamilton",
+        "coordinates": [
+            175.28,
+            -37.78
+        ]
+    },
+    {
+        "code": "NZLYT",
+        "name": "Lyttelton",
+        "city": "Lyttelton",
+        "coordinates": [
+            172.72,
+            -43.6
+        ]
+    },
+    {
+        "code": "NZMNR",
+        "name": "Middleton/Christchurch",
+        "city": "Middleton/Christchurch",
+        "coordinates": [
+            172.5909435,
+            -43.5442039
+        ]
+    },
+    {
+        "code": "NZNPE",
+        "name": "Napier",
+        "city": "Napier",
+        "coordinates": [
+            176.9,
+            -39.47
+        ]
+    },
+    {
+        "code": "NZNPL",
+        "name": "New Plymouth",
+        "city": "New Plymouth",
+        "coordinates": [
+            174.02,
+            -39.05
+        ]
+    },
+    {
+        "code": "NZNSN",
+        "name": "Nelson",
+        "city": "Nelson",
+        "coordinates": [
+            173.27,
+            -41.25
+        ]
+    },
+    {
+        "code": "NZPMR",
+        "name": "Palmerston North",
+        "city": "Palmerston North",
+        "coordinates": [
+            175.6082145,
+            -40.3523065
+        ]
+    },
+    {
+        "code": "NZPOE",
+        "name": "Port Chalmers",
+        "city": "Port Chalmers",
+        "coordinates": [
+            170.6,
+            -45.82
+        ]
+    },
+    {
+        "code": "NZTIU",
+        "name": "Timaru",
+        "city": "Timaru",
+        "coordinates": [
+            171.25,
+            -44.38
+        ]
+    },
+    {
+        "code": "NZTKA",
+        "name": "Temuka",
+        "city": "Temuka",
+        "coordinates": [
+            171.27,
+            -44.25
+        ]
+    },
+    {
+        "code": "NZTRG",
+        "name": "Tauranga",
+        "city": "Tauranga",
+        "coordinates": [
+            176.17,
+            -37.68
+        ]
+    },
+    {
+        "code": "NZWAG",
+        "name": "Wanganui",
+        "city": "Wanganui",
+        "coordinates": [
+            174.98,
+            -39.93
+        ]
+    },
+    {
+        "code": "NZWLG",
+        "name": "Wellington",
+        "city": "Wellington",
+        "coordinates": [
+            174.78,
+            -41.27
+        ]
+    },
+    {
+        "code": "NZWRE",
+        "name": "Whangarei",
+        "city": "Whangarei",
+        "coordinates": [
+            174.48,
+            -35.83
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "code": "EEHLD",
+        "name": "Haldi",
+        "city": "Haldi",
+        "coordinates": [
+            22.4658999,
+            58.8093999
+        ]
+    },
+    {
+        "code": "EEMUG",
+        "name": "Muuga",
+        "city": "Muuga",
+        "coordinates": [
+            24.97,
+            59.5
+        ]
+    },
+    {
+        "code": "EETLL",
+        "name": "Tallinn",
+        "city": "Tallinn",
+        "coordinates": [
+            24.73,
+            59.43
+        ]
+    }
+]

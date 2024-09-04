@@ -1,0 +1,308 @@
+[
+    {
+        "code": "FRBAS",
+        "name": "Bassens",
+        "city": "Bassens",
+        "coordinates": [
+            -0.516238,
+            44.899835
+        ]
+    },
+    {
+        "code": "FRBAY",
+        "name": "Bayonne",
+        "city": "Bayonne",
+        "coordinates": [
+            -1.474841,
+            43.492949
+        ]
+    },
+    {
+        "code": "FRBES",
+        "name": "Brest",
+        "city": "Brest",
+        "coordinates": [
+            -4.48,
+            48.4
+        ]
+    },
+    {
+        "code": "FRBOD",
+        "name": "Bordeaux",
+        "city": "Bordeaux",
+        "coordinates": [
+            -0.57918,
+            44.837789
+        ]
+    },
+    {
+        "code": "FRBOL",
+        "name": "Boulogne-sur-Mer",
+        "city": "Boulogne-sur-Mer",
+        "coordinates": [
+            1.62,
+            50.72
+        ]
+    },
+    {
+        "code": "FRCQF",
+        "name": "Calais",
+        "city": "Calais",
+        "coordinates": [
+            1.858686,
+            50.95129000000001
+        ]
+    },
+    {
+        "code": "FRDKK",
+        "name": "Dunkerque",
+        "city": "Dunkerque",
+        "coordinates": [
+            2.3767763,
+            51.0343684
+        ]
+    },
+    {
+        "code": "FRDPE",
+        "name": "Dieppe",
+        "city": "Dieppe",
+        "coordinates": [
+            1.077483,
+            49.922992
+        ]
+    },
+    {
+        "code": "FRFOS",
+        "name": "Fos-sur-Mer",
+        "city": "Fos-sur-Mer",
+        "coordinates": [
+            4.93,
+            43.43
+        ]
+    },
+    {
+        "code": "FRHGT",
+        "name": "Chitry",
+        "city": "Chitry",
+        "coordinates": [
+            3.702397,
+            47.762686
+        ]
+    },
+    {
+        "code": "FRHON",
+        "name": "Honfleur",
+        "city": "Honfleur",
+        "coordinates": [
+            5.1307681,
+            46.2475706
+        ]
+    },
+    {
+        "code": "FRJAV",
+        "name": "Javrezac",
+        "city": "Javrezac",
+        "coordinates": [
+            5.1307681,
+            46.2475706
+        ]
+    },
+    {
+        "code": "FRLCT",
+        "name": "La Ciotat",
+        "city": "La Ciotat",
+        "coordinates": [
+            5.605155,
+            43.17365299999999
+        ]
+    },
+    {
+        "code": "FRLEH",
+        "name": "Le Havre",
+        "city": "Le Havre",
+        "coordinates": [
+            0.107929,
+            49.49437
+        ]
+    },
+    {
+        "code": "FRLPC",
+        "name": "La Planche",
+        "city": "La Planche",
+        "coordinates": [
+            -1.43,
+            47
+        ]
+    },
+    {
+        "code": "FRLPE",
+        "name": "La Pallice",
+        "city": "La Pallice",
+        "coordinates": [
+            -1.205105,
+            46.1625749
+        ]
+    },
+    {
+        "code": "FRLRH",
+        "name": "La Rochelle",
+        "city": "La Rochelle",
+        "coordinates": [
+            -1.151139,
+            46.160329
+        ]
+    },
+    {
+        "code": "FRLRT",
+        "name": "Lorient",
+        "city": "Lorient",
+        "coordinates": [
+            -3.3702449,
+            47.7482524
+        ]
+    },
+    {
+        "code": "FRLTR",
+        "name": "Le Treport",
+        "city": "Le Tr\u00e9port",
+        "coordinates": [
+            1.382472,
+            50.05916999999999
+        ]
+    },
+    {
+        "code": "FRLVE",
+        "name": "Le Verdon-sur-Mer",
+        "city": "Le Verdon-sur-Mer",
+        "coordinates": [
+            -1.07,
+            45.55
+        ]
+    },
+    {
+        "code": "FRMDH",
+        "name": "Mundolsheim",
+        "city": "Mundolsheim",
+        "coordinates": [
+            7.7144412,
+            48.6434829
+        ]
+    },
+    {
+        "code": "FRMRS",
+        "name": "Marseille",
+        "city": "Marseille",
+        "coordinates": [
+            5.4,
+            43.3
+        ]
+    },
+    {
+        "code": "FRMT7",
+        "name": "Monteton",
+        "city": "Monteton",
+        "coordinates": [
+            0.2576879,
+            44.622205
+        ]
+    },
+    {
+        "code": "FRMTX",
+        "name": "Montoir-de-Bretagne",
+        "city": "Montoir-de-Bretagne",
+        "coordinates": [
+            -2.15,
+            47.33
+        ]
+    },
+    {
+        "code": "FRNTE",
+        "name": "Nantes",
+        "city": "Nantes",
+        "coordinates": [
+            -1.553621,
+            47.218371
+        ]
+    },
+    {
+        "code": "FROR6",
+        "name": "La Groise",
+        "city": "La Groise",
+        "coordinates": [
+            3.681767,
+            50.078788
+        ]
+    },
+    {
+        "code": "FRPAR",
+        "name": "Paris",
+        "city": "Paris",
+        "coordinates": [
+            2.3522219,
+            48.856614
+        ]
+    },
+    {
+        "code": "FRPIR",
+        "name": "Piriac-sur-Mer",
+        "city": "Piriac-sur-Mer",
+        "coordinates": [
+            -2.55,
+            47.38
+        ]
+    },
+    {
+        "code": "FRPOV",
+        "name": "Port-Vendres",
+        "city": "Port-Vendres",
+        "coordinates": [
+            3.12,
+            42.52
+        ]
+    },
+    {
+        "code": "FRSET",
+        "name": "Sete",
+        "city": "S\u00e8te",
+        "coordinates": [
+            3.7008219,
+            43.4078758
+        ]
+    },
+    {
+        "code": "FRSNR",
+        "name": "Saint-Nazaire",
+        "city": "Saint-Nazaire",
+        "coordinates": [
+            -2.2,
+            47.28
+        ]
+    },
+    {
+        "code": "FRTLN",
+        "name": "Toulon",
+        "city": "Toulon",
+        "coordinates": [
+            5.928,
+            43.124228
+        ]
+    },
+    {
+        "code": "FRURO",
+        "name": "Rouen",
+        "city": "Rouen",
+        "coordinates": [
+            1.099971,
+            49.44323199999999
+        ]
+    },
+    {
+        "code": "FRUSJ",
+        "name": "Mus",
+        "city": "Mus",
+        "coordinates": [
+            5.2418509,
+            43.951727
+        ]
+    }
+]

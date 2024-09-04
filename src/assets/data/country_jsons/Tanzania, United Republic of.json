@@ -1,0 +1,29 @@
+[
+    {
+        "code": "TZDAR",
+        "name": "Dar es Salaam",
+        "city": "Dar es Salaam",
+        "coordinates": [
+            39.28,
+            -6.8
+        ]
+    },
+    {
+        "code": "TZTGT",
+        "name": "Tanga",
+        "city": "Tanga",
+        "coordinates": [
+            39.1023228,
+            -5.0888751
+        ]
+    },
+    {
+        "code": "TZZNZ",
+        "name": "Zanzibar",
+        "city": "Zanzibar",
+        "coordinates": [
+            39.202641,
+            -6.165916999999999
+        ]
+    }
+]

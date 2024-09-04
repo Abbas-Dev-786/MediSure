@@ -1,0 +1,119 @@
+[
+    {
+        "code": "FIHEL",
+        "name": "Helsingfors (Helsinki)",
+        "city": "Helsingfors (Helsinki)",
+        "coordinates": [
+            24.9410248,
+            60.17332440000001
+        ]
+    },
+    {
+        "code": "FIHKO",
+        "name": "Hango (Hanko)",
+        "city": "Hang\u00f6 (Hanko)",
+        "coordinates": [
+            22.9658562,
+            59.8283461
+        ]
+    },
+    {
+        "code": "FIHMN",
+        "name": "Fredrikshamn (Hamina)",
+        "city": "Fredrikshamn (Hamina)",
+        "coordinates": [
+            27.2,
+            60.57
+        ]
+    },
+    {
+        "code": "FIKEM",
+        "name": "Kemi/Tornea (Kemi/Tornio)",
+        "city": "Kemi/Torne\u00e5 (Kemi/Tornio)",
+        "coordinates": [
+            24.57,
+            65.73
+        ]
+    },
+    {
+        "code": "FIKOK",
+        "name": "Karleby (Kokkola)",
+        "city": "Karleby (Kokkola)",
+        "coordinates": [
+            23.12,
+            63.83
+        ]
+    },
+    {
+        "code": "FIKTK",
+        "name": "Kotka",
+        "city": "Kotka",
+        "coordinates": [
+            26.92,
+            60.47
+        ]
+    },
+    {
+        "code": "FIMTL",
+        "name": "Mantyluoto",
+        "city": "Mantyluoto",
+        "coordinates": [
+            21.4822772,
+            61.59187739999999
+        ]
+    },
+    {
+        "code": "FIOLU",
+        "name": "Oulu",
+        "city": "Oulu",
+        "coordinates": [
+            25.4714526,
+            65.0126148
+        ]
+    },
+    {
+        "code": "FIOUL",
+        "name": "Oulu (Uleaborg)",
+        "city": "Oulu (Ule\u00e5borg)",
+        "coordinates": [
+            25.47,
+            65.02
+        ]
+    },
+    {
+        "code": "FIPOR",
+        "name": "Bjorneborg (Pori)",
+        "city": "Bj\u00f6rneborg (Pori)",
+        "coordinates": [
+            21.8,
+            61.48
+        ]
+    },
+    {
+        "code": "FIRAU",
+        "name": "Rauma (Raumo)",
+        "city": "Rauma (Raumo)",
+        "coordinates": [
+            21.5,
+            61.13
+        ]
+    },
+    {
+        "code": "FITKU",
+        "name": "Abo (Turku)",
+        "city": "\u00c5bo (Turku)",
+        "coordinates": [
+            22.28,
+            60.45
+        ]
+    },
+    {
+        "code": "FITOR",
+        "name": "Tornea (Tornio)",
+        "city": "Torne\u00e5 (Tornio)",
+        "coordinates": [
+            24.18,
+            65.85
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "code": "THBGP",
+        "name": "Bangpakong",
+        "city": "Bangpakong",
+        "coordinates": [
+            100.6541717,
+            13.7255165
+        ]
+    },
+    {
+        "code": "THBKK",
+        "name": "Bangkok",
+        "city": "Bangkok",
+        "coordinates": [
+            100.52,
+            13.75
+        ]
+    },
+    {
+        "code": "THBMT",
+        "name": "Bangkok Modern Terminals/Bangkok",
+        "city": "Bangkok Modern Terminals/Bangkok",
+        "coordinates": [
+            100.58,
+            13.6
+        ]
+    },
+    {
+        "code": "THKSI",
+        "name": "Koh Sichang",
+        "city": "Koh Sichang",
+        "coordinates": [
+            100.8084675,
+            13.1499153
+        ]
+    },
+    {
+        "code": "THKTY",
+        "name": "Khlong Toei",
+        "city": "Khlong Toei",
+        "coordinates": [
+            100.57,
+            13.72
+        ]
+    },
+    {
+        "code": "THLCH",
+        "name": "Laem Chabang",
+        "city": "Laem Chabang",
+        "coordinates": [
+            100.88,
+            13.08
+        ]
+    },
+    {
+        "code": "THLKR",
+        "name": "Lat Krabang",
+        "city": "Lat Krabang",
+        "coordinates": null
+    },
+    {
+        "code": "THMAT",
+        "name": "Mab Tapud",
+        "city": "Mab Tapud",
+        "coordinates": [
+            100.5313648,
+            13.6935027
+        ]
+    },
+    {
+        "code": "THPAT",
+        "name": "Pat Bangkok",
+        "city": "Pat Bangkok",
+        "coordinates": [
+            100.57,
+            13.7
+        ]
+    },
+    {
+        "code": "THPKN",
+        "name": "Paknam",
+        "city": "Paknam",
+        "coordinates": [
+            103.1675053,
+            15.9050383
+        ]
+    },
+    {
+        "code": "THSBP",
+        "name": "Siam Bangkok Port",
+        "city": "Siam Bangkok",
+        "coordinates": [
+            100.55,
+            13.65
+        ]
+    },
+    {
+        "code": "THSGZ",
+        "name": "Songkhla",
+        "city": "Songkhla",
+        "coordinates": [
+            100.6,
+            7.2
+        ]
+    },
+    {
+        "code": "THSPR",
+        "name": "Samut Prakarn",
+        "city": "Samut Prakarn",
+        "coordinates": [
+            100.5998319,
+            13.5990961
+        ]
+    },
+    {
+        "code": "THSRI",
+        "name": "Sriracha",
+        "city": "Sriracha",
+        "coordinates": [
+            100.8750802,
+            13.1336611
+        ]
+    },
+    {
+        "code": "THTPT",
+        "name": "Thai prosperity terminal",
+        "city": "Thai prosperity terminal",
+        "coordinates": null
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "LYBEN",
+        "name": "Bingazi (Benghazi)",
+        "city": "Bingazi (Benghazi)",
+        "coordinates": [
+            20.1879106,
+            32.0947711
+        ]
+    },
+    {
+        "code": "LYKHO",
+        "name": "Al Khums",
+        "city": "Al Khums",
+        "coordinates": [
+            14.27,
+            32.65
+        ]
+    },
+    {
+        "code": "LYMRA",
+        "name": "Misurata",
+        "city": "Misurata",
+        "coordinates": [
+            15.1025075,
+            32.3196827
+        ]
+    },
+    {
+        "code": "LYTIP",
+        "name": "Tripoli",
+        "city": "Tripoli",
+        "coordinates": [
+            13.1913383,
+            32.8872094
+        ]
+    }
+]
