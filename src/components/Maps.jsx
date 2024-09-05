@@ -37,7 +37,6 @@ const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched })
       }
 
       const data = await response.json();
-      console.log(data);
       setRoute(data);
       setDistance(data.properties.length);
       onRouteFetched(true);
@@ -69,10 +68,12 @@ const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched })
 
   return (
     <>
-      <div>
-        <h3>Route Distance</h3>
-        <p>{distance.toFixed(2)} nautical miles</p>
-      </div>
+      {distance && (
+        <div>
+          <h3>Route Distance</h3>
+          <p>{distance.toFixed(2)} nautical miles</p>
+        </div>
+      )}
       <LoadScript googleMapsApiKey={import.meta.env.VITE_GOOGLE_API_KEY}>
         <GoogleMap
           mapContainerStyle={containerStyle}
