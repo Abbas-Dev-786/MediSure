@@ -1,8 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { GoogleMap, LoadScript } from '@react-google-maps/api';
+import { GoogleMap, LoadScript, Polyline, InfoWindow } from '@react-google-maps/api';
 
 const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched }) => {
   const [route, setRoute] = useState(null);
+  const [distance, setDistance] = useState(null);
   const mapRef = useRef(null);
   const polylineRef = useRef(null);
 
@@ -36,12 +37,13 @@ const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched })
       }
 
       const data = await response.json();
-      console.log(data)
+      console.log(data);
       setRoute(data);
+      setDistance(data.properties.length);
       onRouteFetched(true);
     } catch (error) {
       console.error('Error fetching route:', error.message);
-      onRouteFetched(false); 
+      onRouteFetched(false);
     }
   };
 
@@ -66,14 +68,21 @@ const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched })
   const containerStyle = { width: '100%', height: '600px' };
 
   return (
-    <LoadScript googleMapsApiKey={import.meta.env.VITE_GOOGLE_API_KEY}>
-      <GoogleMap
-        mapContainerStyle={containerStyle}
-        center={route ? { lat: route.geometry.coordinates[0][1], lng: route.geometry.coordinates[0][0] } : { lat: 0, lng: 0 }}
-        zoom={3}
-        onLoad={map => mapRef.current = map}
-      />
-    </LoadScript>
+    <>
+      <div>
+        <h3>Route Distance</h3>
+        <p>{distance.toFixed(2)} nautical miles</p>
+      </div>
+      <LoadScript googleMapsApiKey={import.meta.env.VITE_GOOGLE_API_KEY}>
+        <GoogleMap
+          mapContainerStyle={containerStyle}
+          center={route ? { lat: route.geometry.coordinates[0][1], lng: route.geometry.coordinates[0][0] } : { lat: 0, lng: 0 }}
+          zoom={3}
+          onLoad={map => mapRef.current = map}
+        >
+        </GoogleMap>
+      </LoadScript>
+    </>
   );
 };
 
