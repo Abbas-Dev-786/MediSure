@@ -15,7 +15,7 @@ const Maps = ({ sourcePort, destinationPort, shouldFetchRoute, onRouteFetched })
 
   const fetchRoute = async () => {
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL}`, {
+      const response = await fetch("https://navi-server-naav.onrender.com/api/searoute", {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
