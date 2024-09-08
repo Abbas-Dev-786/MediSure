@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
 import Maps from "../components/Maps";
 import countriesList from "../assets/data/country_list.json";
+import Map from "../components/Map";
 
 const DemoPage = () => {
   const [selectedSourceCountry, setSelectedSourceCountry] = useState("");
-  const [selectedDestinationCountry, setSelectedDestinationCountry] = useState("");
+  const [selectedDestinationCountry, setSelectedDestinationCountry] =
+    useState("");
   const [sourcePorts, setSourcePorts] = useState([]);
   const [destinationPorts, setDestinationPorts] = useState([]);
   const [sourcePort, setSourcePort] = useState("");
@@ -16,7 +18,9 @@ const DemoPage = () => {
   const loadPortsData = async (country) => {
     if (country) {
       try {
-        const portData = await import(`../assets/data/country_jsons/${country}.json`);
+        const portData = await import(
+          `../assets/data/country_jsons/${country}.json`
+        );
         return portData.default || [];
       } catch (error) {
         console.error(`Error loading ports for ${country}:`, error);
@@ -63,10 +67,16 @@ const DemoPage = () => {
 
   return (
     <div className="container mx-auto mt-10">
-      <form onSubmit={handleSearch} className="flex items-end flex-wrap gap-6 mx-3 md:gap-8 mb-6">
+      <form
+        onSubmit={handleSearch}
+        className="flex items-end flex-wrap gap-6 mx-3 md:gap-8 mb-6"
+      >
         {/* Country and port selection inputs */}
         <div className="w-full md:w-1/5">
-          <label htmlFor="source-country" className="block mb-2 text-sm font-medium text-gray-900">
+          <label
+            htmlFor="source-country"
+            className="block mb-2 text-sm font-medium text-gray-900"
+          >
             Select Source Country
           </label>
           <select
@@ -85,7 +95,10 @@ const DemoPage = () => {
         </div>
 
         <div className="w-full md:w-1/5">
-          <label htmlFor="source-port" className="block mb-2 text-sm font-medium text-gray-900">
+          <label
+            htmlFor="source-port"
+            className="block mb-2 text-sm font-medium text-gray-900"
+          >
             Select Source Port
           </label>
           <select
@@ -105,7 +118,10 @@ const DemoPage = () => {
         </div>
 
         <div className="w-full md:w-1/5">
-          <label htmlFor="destination-country" className="block mb-2 text-sm font-medium text-gray-900">
+          <label
+            htmlFor="destination-country"
+            className="block mb-2 text-sm font-medium text-gray-900"
+          >
             Select Destination Country
           </label>
           <select
@@ -124,7 +140,10 @@ const DemoPage = () => {
         </div>
 
         <div className="w-full md:w-1/5">
-          <label htmlFor="destination-port" className="block mb-2 text-sm font-medium text-gray-900">
+          <label
+            htmlFor="destination-port"
+            className="block mb-2 text-sm font-medium text-gray-900"
+          >
             Select Destination Port
           </label>
           <select
@@ -152,12 +171,18 @@ const DemoPage = () => {
       </form>
 
       <div className="mx-3">
-        <Maps 
+        <Map
           sourcePort={selectedSourcePortDetails?.coordinates}
           destinationPort={selectedDestinationPortDetails?.coordinates}
           shouldFetchRoute={shouldFetchRoute}
           onRouteFetched={handleRouteFetched}
         />
+        {/* <Maps 
+          sourcePort={selectedSourcePortDetails?.coordinates}
+          destinationPort={selectedDestinationPortDetails?.coordinates}
+          shouldFetchRoute={shouldFetchRoute}
+          onRouteFetched={handleRouteFetched}
+        /> */}
       </div>
     </div>
   );
