@@ -12,7 +12,7 @@ import user6 from "../assets/profile-pictures/user6.jpg";
 export const navItems = [
   // { label: "Features", href: "#features" },
   // { label: "How It Works", href: "#working" },
-  { label: "Team", href: "/team" },
+  // { label: "Team", href: "/team" },
   { label: "Demo", href: "/demo" },
 ];
 
